@@ -1,0 +1,831 @@
+{Engine Units}
+
+[e_General]
+0=bytes
+1=KB
+2=MB
+3=GB
+4=TB
+5=File
+6=Folder
+7=File "%s"
+8=Folder %s
+9=Desktop
+10=Folders
+11=Documents
+12=Pictures
+13=Music
+14=Videos
+15=This PC
+16=Recycle Bin
+17=Lost and Found
+18=Content-Aware Analysis
+19=System Data
+20=Building file list...
+21=Yes
+22=No
+
+[e_Drives]
+0=Hard Disk Drives
+1=Physical Disks
+2=Found Disks
+3=Mounted Disks
+4=Devices with Removable Storage
+5=Floppy Disk Drive
+6=Local Disk
+7=Removable Disk
+8=Mounted Disk
+9=Physical Disk
+10=Physical Removable Disk
+11=Mounted Physical Disk
+12=Unknown
+13=Virtual Disk
+14=%s Partition
+15=%s Partition %s
+16=Local Disk %d
+17=Removable Disk %d
+18=Physical Drive %d
+19=Virtual Disk %d
+20=Partition %d
+21=Drive %s
+22=%s Drive %s
+23=Unallocated space %d
+24=LDM Data Partition
+25=Total size: %s
+26=Space free: %s
+27=File system: %s
+28=Free Space
+29=File system
+30=Library
+31=Shortcut
+32=System Disk %d
+33=Boot
+34=Primary Partition
+35=Logical Drive
+36=EFI System Partition
+37=OEM Partition
+38=APFS Container
+39=APFS Container %d
+40=APFS Container %d (%s)
+41=no volumes
+42=%d disks
+43=Size: %s
+44=Linux LVM Volumes
+
+[e_Raid]
+0=RAID Arrays
+1=RAID Volumes
+2=RAID Array
+3=RAID Array %d
+4=RAID Partition
+5=JBOD Disk
+6=JBOD Disk %d
+7=JBOD Partition
+8=None
+9=Unknown
+10=Detect automatically
+11=Status: %s
+12=OK
+13=Recoverable
+14=Damaged
+15=Size: %s, Files in root: %s
+16=Empty disk
+17=RAID type:
+18=Block order:
+19=Block size:
+20=Disks in group:
+21=Parity group offset:
+22=Rotate parity count:
+23=Status:
+24=RAID Disks:
+25=Serial number
+26=Offset
+27=Change disk offset/size
+28=Move up
+29=Move down
+30=RAID Constructor
+31=Byte order:
+32=Standard
+33=4-byte reverse
+
+[e_Files]
+0=Exists
+1=Deleted
+2=Possible
+3=Good
+4=Bad
+5=Read-only
+6=Hidden
+7=System
+8=Archive
+9=Compressed
+10=Encrypted
+11=Name
+12=Type
+13=Size
+14=Status
+15=Modified
+16=Created
+
+[e_Controls]
+0=OK
+1=Cancel
+2=Help
+3=Save
+4=Save All
+5=Replace
+6=Replace All
+7=Skip
+8=Skip All
+9=Rename
+10=Rename All
+11=Close
+12=Stop
+13=Create
+14=Reset
+15=Find
+16=Stop Search
+17=Back
+18=Next
+19=Finish
+20=Registration
+21=Recovery
+22=Burn
+23=Save
+24=Select
+25=Deselect
+26=Invert Selection
+27=Select All
+28=Clear All
+29=Expand All
+30=Collapse All
+31=Apply
+32=Options
+33=Add Custom Folder
+34=Close Disk
+35=Add
+36=Properties
+37=Resume
+38=Resume All
+
+[e_Message]
+0=Can not analyse this type of file system!
+1=Disk %s is not ready! Retry?
+2=It is not recommended to save data on the same disk from which they are restored!
+3=Do you want to continue?
+4=Do you really want abort the current operation?
+5=Fast scan is complete. If the required disc is not found, full scan will be run (this may take several hours).
+6=Do you want to run a full scan?
+7=Can not analyse the system! Administrative privileges are needed!
+8=File "%s" is corrupt!
+9=You need to restart the program to continue. Do it now?
+10=You can't use symbols %s in a filename!
+11=Are you sure you want to close "%s"?
+12=Are you sure you want to close selected drives?
+13=Are you sure you want to mount file "%s" as a disk's image?
+14=Are you sure you want to mount the selected files as disks' images?
+15=The file "%s" is already open.
+16=Are you sure that you want to close the program?
+17=Don't ask again
+18=The disk selected does not support files over 4GB. One of the files to be restored exceeds this size.
+19=To work with RAID arrays, please download %s
+20=Download the program
+
+{Shared Units}
+
+[s_About]
+0=About %s
+1=(Change License)
+2=Program version: %s
+
+[s_Community]
+0=Our Community
+1=Join our social networks
+2=%s community
+3=Thousands of satisfied users of our software.<br>Join our community!
+4=Did you like the results?<br>Tell your friends about us
+5=I managed to restore my deleted files using %s!
+6=I restored my deleted files using %s!
+7=%s helped me to restore important information on my computer!
+
+[s_ChangeFirstCluster]
+0=Beginning of file "%s"
+1=Don't show in this session
+2=Beginning of the file
+3=File contents
+
+[s_SaveAnalysisInfo]
+0=Save Analysis Information
+1=Load Analysis Information
+2=Data Analysis Information|*.dai
+3=Data Analysis Information|*.dai|All Files|*.*
+4=Saving analysis information...
+5=Loading analysis information...
+6=Analysis information for the following disks has been successfully saved:
+7=Failed to save analysis information.
+8=Analysis information has been successfully loaded.
+9=The following disks have been updated:
+10=Failed to load analysis information.
+11=Incorrect file version.
+12=Files and folders added: %s
+
+[s_MountDisk]
+0=Mount Disk
+1=Disk image type
+2=Select the type of disk to mount
+3=RAW disk images
+4=Virtual Machines
+5=%s disk images
+6=Select the folder with virtual machine
+7=Disk images
+8=All files
+9=Virtual machine images
+10=Select the disk image to mount
+11=Files not found
+12=File
+13=Snapshot
+14=Size
+15=Created
+16=Description
+17=Snapshot #%d
+18=Active
+19=To mount virtual machines please download %s
+
+[s_SaveImage]
+0=Image creation
+1=Saving options
+2=Specify options for saving your disk
+3=Name
+4=Type
+5=Offset (sectors)
+6=Size
+7=Disks selected: %s
+8=There is insufficient space on the selected disk to save the image.
+9=Please select another disk.
+10=Saving file "%s"...
+11=All Done!
+
+[s_CreateVirtual]
+0=Create virtual disk
+1=Choose disk
+2=Size
+
+[s_DiskSize]
+0=Full
+1=Partially
+2=Start from
+3=Size
+4=Sectors
+5=Bytes
+6=KB
+7=MB
+8=GB
+9=TB
+
+[s_FindPartitions]
+0=Find Lost Partitions
+1=Size
+2=System type
+3=Choose disk
+4=Name
+5=System
+6=Start
+7=Size
+
+[s_HexViewer]
+0=HEX-Editor
+1=Encoding
+2=Show info
+3=Hide info
+4=Find text or value
+5=Calculator
+6=View Help
+7=Sector:
+8=%s out of %s
+9=Selection:
+10=Size of selection:
+11=Name:
+12=Serial number:
+13=Total size:
+14=Sectors count:
+15=Bytes per sector:
+16=File system:
+17=Space used:
+18=Space free:
+19=First sector:
+20=Sectors per cluster:
+21=Cluster size:
+22=Physical Disk:
+23=Status:
+24=Location:
+25=Size:
+26=Size on disk:
+27=Created:
+28=Modified:
+29=Accessed:
+30=Attributes:
+31=Unknown
+32=Show partitions
+33=Hide partitions
+34=Show drive spaces
+35=Hide drive spaces
+36=Show sectors
+37=Hide sectors
+38=Go to first sector
+39=Go to sector
+40=Go to cluster
+41=Go to MFT record
+42=Disk %s
+43=Partitions
+44=Partitions not found
+45=Drive spaces
+46=File sectors on drive
+47=Sectors not found
+48=Partition table:
+49=Master File Table [%d]
+50=System
+51=Boot
+52=Search text:
+53=Search for HEX-value
+54=Search text
+55=Case sensitive
+56=Whole words only
+57=Direction
+58=Up
+59=Down
+60=Sector %s out of %s
+61=Searching text...
+62=No matches found!
+63=Mount path:
+
+[s_Goto]
+0=Go to
+1=Go
+2=Position:
+3=Byte
+4=Sector
+5=Line
+6=Hex mode
+7=Absolute offset
+8=Relative offset
+9=Byte: %s
+10=Sector: %s
+11=From the beginning: %s
+
+[s_PreviewMain]
+0=Rotate Counterclockwise
+1=Rotate 180°
+2=Rotate Clockwise
+3=Start
+4=Pause
+5=Stop
+6=Back
+7=Forward
+8=Volume: %s
+9=mute
+10=First page
+11=Last page
+12=Previous page
+13=Next page
+14=Zoom in
+15=Zoom out
+16=Fit to page width
+17=Fit to page
+18=Click to jump
+19=Click to change
+20=Company name
+21=File description
+22=File version
+23=Internal name
+24=Legal copyright
+25=Legal trademarks
+26=Original filename
+27=Product name
+28=Product version
+29=Comments
+30=Private build
+31=Special build
+32=The archive is corrupted<br>or password-protected
+33=Incorrect password<br>or corrupted archive
+34=The document is<br>password-protected
+35=The file is password-protected
+36=Please enter the password:
+37=Enter password
+38=Incorrect password!
+39=Items: %s
+40=, size: %s
+41=Property
+42=Value
+43=From
+44=To
+45=Subject
+46=From:
+47=To:
+48=Subject:
+49=Message: %s
+50=%s, %s
+51=Save attachment to a file
+52=Save all attachments
+53=TBN files do not contain entire messages, but message headers only
+54=Item: %s
+55=Total: %s
+56=E-mail addresses:
+57=Phone numbers:
+58=Work address:
+59=Home address:
+60=Websites:
+61=Notes:
+
+[s_PreviewDetails]
+0=General
+1=Content
+2=Source
+3=Image
+4=Document
+5=Title
+6=Author
+7=Company
+8=Manager
+9=App name
+10=Template
+11=Pages
+12=Lines
+13=Characters
+14=Created
+15=Last saved
+16=Last printed
+17=Last author
+18=Sheet count
+19=Sheet name
+20=Rows
+21=Columns
+22=Charset
+23=Description
+24=Keywords
+25=Dimensions
+26=Width
+27=Height
+28=%d pixels
+
+[s_Properties]
+0=Properties: %s
+1=General
+2=Type:
+3=Used space:
+4=Unknown
+5=Free space:
+6=Status:
+7=File system:
+8=Location:
+9=Size:
+10=Size on disk:
+11=Created:
+12=Modified:
+13=Accessed:
+14=Attributes:
+15=First sector:
+16=Sectors count:
+17=Sectors per cluster:
+18=Bytes per sector:
+19=Cluster size:
+20=Volumes:
+21=Volume
+22=Capacity
+23=Deleted (Prognosis: %s)
+24=Serial number:
+25=System properties
+26=Operating system:
+27=Computer name:
+28=User name:
+29=Volumes:
+30=Physical disks:
+31=Volumes
+32=Physical disks
+33=Disk
+34=Change file size
+35=Data streams
+36=Alternate data streams not found
+37=Show MFT system attributes
+38=Save to file
+39=Save the selected stream to file
+40=Data files (DAT)|*.dat|All files|*.*
+41=ID
+42=Name
+43=Size
+44=Type
+45=Data streams are saved to file...
+46=Data streams successfully saved to file.
+47=System
+48=Physical Disk
+49=Unable to change disk properties. Please stop the analysis process first!
+50=Details
+51=Property
+52=Value
+53=File
+54=Name
+55=Item type
+56=Folder path
+57=Date created
+58=Date modified
+59=Size
+60=Sectors in block:
+61=Block size:
+62=RAID Properties: %s
+
+[s_Registration]
+0=Register the program
+1=Purchase the program online
+2=Registration name:
+3=Registration key:
+4=Registered to: %s
+5=Unregistered version
+6=Only in Registered version!
+7=The process for obtaining the program is very easy: you can purchase and register the product in just a few minutes, without leaving your computer.
+8=As a registered user, you will not only be able to recover files of any size and type, but receive priority user support as well.
+9=Enter the registration name and key you received after purchasing the program and click "%s".
+10=Please, enter a registration name.
+11=Please, enter a registration key.
+12=Thank you for using %s!
+13=Now the program is registered to: %s
+14=The incorrect registration information!
+15=If you have problems with registration, please, write to %s
+16=Days to registration: %d
+17=Your license (%s) enables recovering data from RAID arrays of up to %d disks. The size of the RAID array you are attempting to recover exceeds this limitation.
+18=Please consider a different tier edition to recover data from this RAID array.
+19=You are trying to restore files from a virtual machine image. Your license (%s) not enables recovering data from virtual machines.
+20=Please consider a different tier edition to recover this data.
+21=Upgrade license online
+
+[s_Rename]
+0=Rename File
+1=Rename Folder
+2=Old file name:
+3=New file name:
+4=Old folder name:
+5=New folder name:
+6=Replace all unknown symbols in filename to
+
+[s_FileExists]
+0=Such a file already exists
+1=Please enter the file's name.
+
+{Master Analyse Units}
+
+[MasterChooseDrive]
+0=Choose disk
+1=Choose a disk with deleted files
+2=You must choose a disk before moving on to the next step!
+
+[MasterAnalyseType]
+0=Type of analysis
+1=Choose the type of analysis
+2=Selected disk: %s
+3=You chose a physical disk during the last step. This means that you may use only content-aware analysis.
+4=If you wish to use "normal scan", go back and choose another disk.
+5=Normal scan
+6=Content-aware analysis
+7=%s (recommended)
+8=A normal scan will allow you to find deleted files using information available in the file system. Using this option, you can recover information about your files (filename, date, attributes...)
+9=Using content-aware analysis, the program will search for deleted files based on signatures (file contents search). In this case you will NOT be able to recover file information (filename, date, attributes...)
+10=Fast scan
+11=Full analysis
+12=Full analysis (searching for any available information)
+13=Content-aware analysis (searching file contents)
+14=In order to analyze inactive file systems, please download %s
+15=Download from %s
+16=Using full analysis the program will find all relevant information on a drive and restore a file system. As a result all relevant files will be restored.
+17=Use fast scan to restore recently deleted files.
+18=Physical drive selected for analysis. In this case only full analysis is available. If you would like to use fast scan select a different drive.
+
+[MasterFileTypes]
+0=File types
+1=Choose the types of files you would like to recover
+2=All files
+3=Filter using mask (partial or complete filename)
+4=Selected file types
+5=Archives
+6=Audio files
+7=Databases
+8=Documents
+9=Images
+10=Video files
+11=Other types of files
+12=You must select the file types you wish to recover!
+
+[MasterFileOptions]
+0=Additional options
+1=Indicate the criteria for file search
+2=Deleted files only
+3=Search in Hidden files
+4=Search in System files
+5=Search by Size
+6=Small (less than 100 KB)
+7=Not Big (less than 1 MB)
+8=Big (most than 1 MB)
+9=Specify a size (in KB)
+10=at Least
+11=at Most
+12=Search by Date
+13=Created
+14=Modified
+15=Accessed
+16=Last Week
+17=Last Month
+18=Last Year
+19=Specify date
+20=from
+21=till
+
+[MasterReAnalyse]
+0=Analysis method
+1=Choose the necessary action
+2=The disk %s has already been analyzed. Please choose an action:
+3=Analyze again
+4=Use previously obtained information
+5=%s (recommended)
+6=Using this method, the disk will be analyzed again. This will take some time.
+7=In this case, the disk will not be analyzed again. Information about disk contents that has already been obtained will be used to search for files.
+8=Important! The chosen disk was not completely analyzed. It is recommended that you analyze it again.
+
+[MasterProgress]
+0=File system analysis...
+1=Please wait until analysis is finished
+2=Total size: %s
+3=Drives found: %s
+4=Folders found: %s
+5=Files found: %s
+6=Time elapsed: %s
+7=Time left: %s
+8=Calculating time left...
+9=Building a list of files...
+
+{Master Recovery Units}
+
+[MasterRecoverType]
+0=Save files
+1=Choose a method to save the files
+2=Save to hard disk
+3=You can save files to a hard disk, USB drive or any other physical or removable disk
+4=Create ZIP archive
+5=You can compress all restored files into a single ZIP archive
+6=Upload by FTP
+7=The integrated FTP client allows you to upload recovered files to the Internet
+8=Remember my selection
+
+[MasterFinish]
+0=File recovery complete
+1=Click "%s" to close the wizard or "%s" to specify recovery options
+2=Automatically close wizard upon completion
+3=Open the folder with recovered files
+
+[MasterRegistration]
+0=Register the program
+1=To continue with the wizard, you will need to purchase the program and enter your registration information
+2=Purchase the program online
+3=Registration name:
+4=Registration key:
+
+[MasterSaveOptions]
+0=Save to hard disk
+1=Specify options for saving your files
+2=Path:
+3=Restore only deleted files
+4=Restore folders structure
+5=Restore alternate data streams (NTFS)
+6=Replace all unknown symbols to
+7=Choose a folder to save to
+8=Restored Files
+9=Disk space needed: %s
+10=Free space available on disk: %s
+
+[MasterSaveProgress]
+0=Save to hard disk
+1=Wait for files to finish saving
+2=Recovering...
+3=Recovering file "%s"...
+4=Process: %d%%
+
+[MasterZIPOptions]
+0=Create ZIP archive
+1=Enter parameters for creating the archive
+2=File name:
+3=Restore folders structure
+4=Replace all unknown symbols to
+5=Compression method:
+6=Store
+7=Fast
+8=Normal
+9=Best
+10=Split to volumes
+11=Set password
+12=ZIP archives
+13=File already exists. Do you want to overwrite it?
+14=The file name is not valid
+
+[MasterZIPProgress]
+0=Create ZIP archive
+1=Building file list...
+2=Compress archive...
+3=Files added: %s
+4=Process: %d%%
+
+[MasterFTPRecoveryOptions]
+0=Save by FTP
+1=Set options for saving your files
+2=Restore only deleted files
+3=Restore folders structure
+4=Replace all unknown symbols to
+
+[MasterFTPFiles]
+0=Save by FTP
+1=Select the files to recover
+2=The file "%s" already exists.
+3=The folder "%s" already exists.
+4=Added: %s (files: %s, folders: %s)
+5=No files have been selected for saving.
+
+[MasterFTPOptions]
+0=Save by FTP
+1=Input the settings for your FTP server
+2=FTP settings
+3=Server [:port]
+4=Passive mode
+5=Username:
+6=Password:
+7=Remember password
+8=Remote directory:
+9=Proxy server
+10=Use proxy server
+11=Please enter the name of the server.
+
+[MasterFTPClient]
+0=Save by FTP
+1=Select a directory for saving your files
+2=Refresh
+3=Save
+4=New Folder
+5=Delete
+6=Rename
+7=Name
+8=Size
+9=Date
+10=All files
+11=Directory for saving files:
+12=You should first choose a directory to save your files in.
+13=Connecting to %s...
+14=Connection established
+15=Error establishing connection
+16=Connection interrupted
+17=Sending username and password...
+18=Opening remote directory...
+19=Error opening directory
+20=Data received
+21=Reading remote directory...
+22=Error reading directory
+23=Creating directory "%s"...
+24=Directory created
+25=Error creating directory
+26=Renaming file "%s"...
+27=Renaming directory "%s"...
+28=File renamed
+29=Directory renamed
+30=Unable to rename file
+31=Unable to rename directory
+32=Are you sure that you want to delete the file "%s"?
+33=Deleting file "%s"...
+34=File deleted
+35=Unable to delete file
+36=Are you sure that you want to delete the selected files?
+37=Unable to delete files
+38=Are you sure that you want to delete the directory "%s" and all of its contents?
+39=Deleting directory "%s"...
+40=Directory deleted
+41=Unable to delete directory
+42=New Folder
+43=Name of the new folder:
+44=Saving file "%s"
+45=Choose a folder to save to
+46=File already exists. Overwriting...
+47=File already exists. Saving with another name...
+48=File already exists. File save cancelled by user
+49=File already exists. File transfer cancelled by user
+50=Save complete
+51=Error saving file
+52=Transferring file "%s"...
+53=Transfer completed successfully
+54=Error transferring file
+55=File transfer successfully completed
+56=Unable to transfer files to server
+57=Terminating connection...
+58=Connection terminated
+59=Error opening directory %s
+
+[MasterFTPFinalAction]
+0=Save by FTP
+1=Wait for recovered files to finish saving
+2=Click "%s" to close the wizard or "%s" to specify recovery options
+3=Process:
+4=Log:
+5=Info
+6=Time
+7=Close automatically upon successful completion

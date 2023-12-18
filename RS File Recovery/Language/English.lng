@@ -1,0 +1,361 @@
+{Current Units}
+
+[Main]
+0=Expand
+1=Collapse
+2=View
+3=Search results in %s
+4=Analysis:
+5=This folder is empty.
+6=Change filter to view files: "%s" – "%s"
+7=Created: %s
+8=Location: %s
+9=Folders:
+10=Files:
+11=Type: %s
+12=Size: %s
+13=This drive has not been analyzed.
+14=To begin analyzing it, click on the disk on the left or launch the Wizard
+
+[Menu]
+0=File
+1=Wizard
+2=Open file recovery wizard
+3=Open
+4=Analyse again
+5=Content-Aware Analysis
+6=Start content-aware analysis process
+7=Stop Analyse
+8=Stop analysis process
+9=Recovery
+10=Recover lost files
+11=Find Partitions
+12=Find lost partitions
+13=Properties
+14=Exit
+15=Edit
+16=Select All
+17=Invert Selection
+18=Find File
+19=Find a specific file
+20=Stop Search
+21=Stop current search
+22=View
+23=Toolbars
+24=Additional Toolbar
+25=Disk Images
+26=Preview
+27=Preview of selected files
+28=Recovery List
+29=Show recovery list
+30=Hide recovery list
+31=Details Pane
+32=Large Icons
+33=Medium Icons
+34=List
+35=Details
+36=Tiles
+37=Sort By
+38=Ascending
+39=Descending
+40=Go To
+41=Back
+42=Back to "%s"
+43=Forward
+44=Forward to "%s"
+45=Recent locations
+46=Up one level
+47=Up to "%s"
+48=Filter
+49=Show only deleted files
+50=Language
+51=Tools
+52=Save Disk
+53=Create disk image
+54=Mount Disk
+55=Open saved disk image
+56=Close Disk
+57=Close disk image
+58=Program Settings
+59=Help
+60=View Help
+61=Get help
+62=Registration
+63=Program registration
+64=About %s
+65=Go
+66=Go to "%s"
+67=Add For Recovery
+68=Recover From List
+69=View: %s
+70=Refresh
+71=Refresh "%s"
+72=Create Virtual Disk
+73=HEX-Editor
+74=Drive List
+75=Drive Manager
+76=Feedback
+77=Where Are My Files
+78=Show existing files
+79=Show deleted files
+80=Open folder location
+81=Open file location
+82=Full screen preview
+83=Thumbnails
+
+[StatusBar]
+0=Analysis
+1=Analysis %s...
+2=%s files and folders found
+3=Recovering...
+4=Searching file...
+5=Searching file "%s"...
+6=Search results
+7=Search results for "%s"
+8=%s files and folders found
+9=User name:
+10=Operating system:
+11=Type:
+12=Total size:
+13=Space used:
+14=Space free:
+15=Serial number:
+16=File system:
+17=First sector:
+18=Sectors count:
+19=Bytes per sector:
+20=Date modified:
+21=Date created:
+22=Status:
+23=Exist
+24=Deleted
+25=Prognosis:
+26=Possible
+27=Good
+28=Bad
+29=Items:
+30=%s items
+31=Size:
+32=Total size:
+33=Total used:
+34=Total free:
+35=Dimensions:
+36=unknown
+37=Location:
+38=Time left:
+39=Calculating time left...
+40=Thumbnails
+41=Processor:
+42=Installed RAM:
+43=Mount path:
+
+[Message]
+0=Searching file "%s": nothing found!
+1=Search result on %s
+2=To continue, you need to stop the currently running drive analysis task. Stop it now?
+3=Can't go to "%s". There might be a typing error in the address.
+4=This will start the content-aware analysis of the selected drive. Using content-aware analysis, the program will search for deleted files based on signatures (file contents search). The task may take up to several hours (depending on the size of the drive).
+5=The selected RAID contains unknown parameters. Please use RAID Constructor to define them.
+
+[AnalyseProgress]
+0=File system analysis...
+1=%s files and folders found
+
+[Preview]
+0=Preview
+1=Exit preview mode
+2=Hide preview
+3=Change file first cluster
+
+[RecoveryList]
+0=Recovery list
+1=Recover
+2=Delete
+3=Clear List
+4=Menu
+5=Show menu
+6=Hide menu
+7=Properties
+8=Preview
+9=View
+10=View: %s
+11=Large Icons
+12=Medium Icons
+13=List
+14=Details
+15=Tiles
+16=Sort By
+17=Sorted: %s
+18=Name
+19=Type
+20=Size
+21=Ascending
+22=Descending
+
+[FindFile]
+0=Find File
+1=Advanced
+2=Advanced
+3=Part of filename or full filename:
+4=Case sensitive
+5=Whole words only
+6=Search in Hidden files
+7=Search in System files
+8=Search by Size
+9=Small (less than 100 KB)
+10=Not Big (less than 1 MB)
+11=Big (most than 1 MB)
+12=Specify a size (in KB)
+13=at Least
+14=at Most
+15=Search by Date
+16=Created
+17=Modified
+18=Accessed
+19=Last Week
+20=Last Month
+21=Last Year
+22=Specify date
+23=from
+24=till
+25=Search in "%s"
+
+[DiskManager]
+0=Disk %s
+1=Mounted Disk %d
+2=Unallocated
+
+[ProgramSettings]
+0=Program settings
+1=General
+2=Don't warn when closing
+3=Show encrypted or compressed NTFS files in color
+4=Add a "Recover deleted files" option to the Explorer context menu
+5=Wizard
+6=Show Wizard at startup
+7=Remember recovery method
+8=Close automatically upon successful completion
+9=Preview
+10=Show HEX in preview
+
+[WhereFiles]
+0=Where Are My Files?
+1=Don't show in future
+2=Step %d. %s
+3=Check your folders
+4=Search window
+5=First of all, open the folder where files were stored prior to being deleted. You can do it the same way you do it in the standard Windows Explorer.
+6=If the first step is unsuccessful, check the "%s" folder. Folders don't have names here, but file names were preserved.
+7=If you selected "%s" when analyzing the disk, repeat this operation with "Full analysis" option instead (to find all information available on the disk).
+8=Files found after Content-Aware analysis are located here. This algorithm loses file names, but recovers any data.
+9=Files can be found using our search tool. You can specify a file name, size, creation date or any other known parameters to find the necessary file.
+10=Open "%s"
+11=Open the search window
+
+{Master Analyse Units}
+
+[Master]
+0=File Recovery Wizard
+
+[MasterWelcome]
+0=Welcome to the File Recovery Wizard
+1=Click "%s" to continue
+2=This Wizard will help you to recover all deleted files, including documents, photos, MP3 music files and ZIP archives. You will be able to recover information from reformatted disks and disks that have been corrupted due to a computer virus. The Wizard will help to get back data from deleted disks and files that have been deleted from the Recycle Bin or otherwise.
+3=Wizard helps you restore information from corrupted, deleted, formatted and newly created partitions. During analysis the program will extract all relevant information and restore logical structure of a drive. As a result, all deleted files and catalogs will be found.
+4=The recovery process is extremely simple and is accessible to any user, from advanced to novice. Just follow the instructions in the Wizard.
+5=Show Wizard at startup
+
+[MasterAnalyseFinish]
+0=Analysis finished
+1=Click "%s" to close Wizard or "%s" to select a different drive
+2=Click "%s" to close Wizard
+3=Analysis completed!
+4=Drives found: %s
+5=Folders found: %s
+6=Files found: %s
+
+[MasterResult]
+0=Disk analysis results
+1=Choose the files which you wish to recover
+2=Name
+3=Type
+4=Size
+5=Status
+6=Modified
+7=Created
+8=Sort By
+9=Sorted: %s
+10=Ascending
+11=Descending
+12=Properties
+13=Analysis of %s (files found: %s)
+14=Files selected: %s of %s (total size: %s)
+15=No files have been selected for recovery!
+
+{Raid Units}
+
+[RaidWizard]
+0=RAID Constructor
+1=Please specify all RAID parameters
+2=%s in the HEX-Editor
+
+[RaidWelcome]
+0=Welcome to RAID Constructor
+1=Click "%s" to continue
+2=Show Wizard at startup
+
+[RaidAnalyseType]
+0=Select constructor type
+1=Choose how you want to add the RAID array
+2=Automatic mode
+3=This mode is fully automatic. Just specify the hard disks that made up the array, and the program will automatically determine their order, array type, and other parameters. This will take some time (depending on the number of disks in the array).
+4=Search by manufacturer
+5=Use this option if you know the manufacturer of your RAID controller. This option is also fully automatic, and it does not require you to know anything about the structure of your RAID array. This option works much faster than the first mode.
+6=Manual mode
+7=Use this option if you know what type of RAID you are using. In this mode, you can specify all the parameters of the RAID array manually. The program will also help you to automatically determine any parameters that you might not know. This option works faster than the previous mode.
+8=Automatically detected arrays
+9=The program determined that some of your hard disks had previously been part of RAID arrays. If you see your desired array in the list below, select it and click "%s" to continue.
+
+[RaidSelectDrives]
+0=Select the disks in your RAID array
+1=Specify the disks that formed part of the RAID
+2=Specify the number of disks (including lost disks):
+3=Specify the RAID disks:
+4=You have selected more than %s disks. Please change the number of disks.
+
+[RaidVendor]
+0=Specify the RAID manufacturer
+1=Specify the manufacturer of the controller on which the RAID array was created
+
+[RaidManual]
+0=Specify the array parameters
+1=Specify the type of RAID, its constituent disks, and any other parameters
+2=Selected disks
+3=Available disks
+4=Add RAID disks here.
+5=Use the specified disk order
+6=Detect the disk order automatically
+7=Add empty disk
+8=Remove disk
+9=The resulting RAID array:
+10=Update automatically
+11=Update
+
+[RaidProgress]
+0=Searching for possible configurations...
+1=Please wait for the RAID search process to finish
+2=You can stop the current operation if you see your desired RAID in the list below
+3=Number of found configurations: %s
+4=Found configurations:
+5=RAID partitions:
+6=RAID properties:
+7=Select undamaged
+8=Configuration %d
+9=Show all configurations
+
+[RaidResult]
+0=Select RAID configurations
+1=Please select the desired configurations and click "%s"
+2=Unable to automatically recognize any RAID arrays.
+3=Please use manual mode.
+4=Are you sure you want to close the wizard without adding any RAID arrays?

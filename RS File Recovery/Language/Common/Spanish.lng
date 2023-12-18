@@ -1,0 +1,823 @@
+{Engine Units}
+
+[e_General]
+0=bytes
+1=KB
+2=MB
+3=GB
+4=TB
+5=Fichero
+6=Carpeta
+7=Fichero "%s"
+8=Carpeta %s
+9=Escritorio
+10=Carpetas
+11=Documentos
+12=Imágenes
+13=Música
+14=Videos
+15=Equipo
+16=Papelera de reciclaje
+17=Pérdidos y encontrados
+18=Análisis detallado
+19=Datos del sistema
+20=Creando una lista de ficheros...
+21=Sí
+22=No
+
+[e_Drives]
+0=Unidades de disco duro
+1=Discos físicos
+2=Discos encontrados
+3=Discos montados
+4=Dispositivos con almacenamiento extraíble
+5=Disquete
+6=Disco local
+7=Disco extraíble
+8=Disco montado
+9=Disco físico
+10=Disco físico extraíble
+11=Disco físico montado
+12=Desconocido
+13=Disco virtual
+14=Partición %s
+15=Partición %s %s
+16=Disco local %d
+17=Disco extraíble %d
+18=Disco físico %d
+19=Disco virtual %d
+20=Partición %d
+21=Disco %s
+22=%s disco %s
+23=Espacio sin asignar %d
+24=Partición de datos LDM
+25=Tamaño total: %s
+26=Espacio disponible: %s
+27=Sistema de ficheros: %s
+28=Espacio disponible
+29=Sistema de ficheros
+30=Librería
+31=Acceso directo
+32=Disco del sistema %d
+33=Inicio
+34=Partición primaria
+35=Partición lógica
+36=Partición de sistema EFI
+37=Partición de OEM
+38=Contenedor APFS
+39=Contenedor APFS %d
+40=Contenedor APFS %d (%s)
+41=no volúmenes
+42=%d discos
+43=Tamaño: %s
+44=Discos Linux LVM
+
+[e_Raid]
+0=Arreglos RAID
+1=Volúmenes RAID
+2=Arreglo RAID
+3=Arreglo RAID %d
+4=Partición RAID
+5=Disco JBOD
+6=Disco JBOD %d
+7=Partición JBOD
+8=Ninguno
+9=Desconocido
+10=Detectar automáticamente
+11=Estado: %s
+12=OK
+13=recuperable
+14=dañado
+15=Tamaño: %s, archivos en la raíz: %s
+16=Disco vacío
+17=Tipo RAID:
+18=Orden de bloque:
+19=Tamaño del bloque:
+20=Discos en el grupo:
+21=Offset grupo de paridad:
+22=Rotar conteo de paridad:
+23=Estado:
+24=Discos RAID:
+25=Número de serie
+26=Offset
+27=Cambiar el offset/tamaño
+28=Mover hacia arriba
+29=Mover hacia abajo
+30=RAID Constructor
+31=Orden de bytes:
+32=Estándar
+33=Inversión de 4 bytes
+
+[e_Files]
+0=Existe
+1=Eliminado
+2=Posible
+3=Bueno
+4=Malo
+5=Sólo lectura
+6=Oculto
+7=Sistema
+8=Archivo
+9=Comprimido
+10=Encriptado
+11=Nombre
+12=Tipo
+13=Tamaño
+14=Estado
+15=Modificado
+16=Creado
+
+[e_Controls]
+0=Aceptar
+1=Cancelar
+2=Ayuda
+3=Guardar
+4=Guardar todo
+5=Sustituir
+6=Sustituir todo
+7=Omitir
+8=Omitir todo
+9=Renombrar
+10=Renombrar todo
+11=Cerrar
+12=Detener
+13=Creado
+14=Restablecer
+15=Examinar
+16=Detener búsqueda
+17=Anterior
+18=Siguiente
+19=Finalizado
+20=Registro
+21=Recuperación
+22=Grabar
+23=Guardar
+24=Seleccionar
+25=Desmarcar
+26=Invertir selección
+27=Seleccionar todo
+28=Borrar todo
+29=Expandir todo
+30=Reducir todo
+31=Aplicar
+32=Opciones
+33=Agregar carpeta personalizada
+34=Cerrar el disco
+35=Añadir
+36=Propiedades
+37=Continuar
+38=Continuar todo
+
+[e_Message]
+0=¡No se puede analizar este tipo de sistema de ficheros!
+1=¡Disco %s no está listo! ¿Reintentar?
+2=¡No es recomendable guardar los datos en el mismo disco desde el que se van a restaurar!
+3=¿Desea continuar?
+4=¿Desea anular la operación actual?
+5=Análisis rápido finalizado. Si el disco requerido no se encuentra, realice un análisis completo (puede tardar varias horas).
+6=¿Desea iniciar un análisis completo?
+7=¡No se puede analizar el sistema - Se requieren derechos de Administrador!
+8=¡El fichero "%s" está dañado!
+9=Necesita reiniciar el programa para continuar. ¿Desea hacerlo ahora?
+10=¡No puede utilizar carácteres %s en un nombre de fichero!
+11=¿Está seguro de querer cerrar "%s"?
+12=¿Está seguro de querer cerrar los discos seleccionados?
+13=¿Está seguro de querer montar el fichero "%s" como imagen de disco?
+14=¿Está seguro de querer montar los ficheros seleccionados como imágenes de disco?
+15=El fichero "%s" ya está abierto.
+16=¿Está seguro de querer cerrar el programa?
+17=No preguntar nuevamente
+18=El disco seleccionado no soporta ficheros de más de 4GB. Uno de los ficheros a restaurar excede de este tamaño.
+19=Para trabajar con matrices RAID, descargue %s
+20=Descargar el programa
+
+{Shared Units}
+
+[s_About]
+0=Acerca de %s
+1=(Cambiar licencia)
+2=Versión del programa: %s
+
+[s_Community]
+0=Nuestra comunidad
+1=Únete a nuestras redes sociales
+2=Comunidad de %s
+3=Miles de usuarios satisfechos utilizan nuestro software.<br>¡Únete a nuestra comunidad!
+4=¿Está contento con el resultado?<br>Cuente a sus amigos sobre nosotros
+5=¡He logrado recuperar archivos eliminados con %s!
+6=¡He recuperado archivos eliminados con %s!
+7=¡El programa %s me ha ayudado a restaurar información importante en mi equipo!
+
+[s_ChangeFirstCluster]
+0=Inicio del fichero "%s"
+1=No se muestra en esta sesión
+2=Inicio del fichero
+3=Contenidos del fichero
+
+[s_SaveAnalysisInfo]
+0=Guardar la información del análisis
+1=Cargar la información del análisis
+2=Datos de la información|*.dai
+3=Datos de la información|*.dai|Todos los archivos|*.*
+4=Guardando la información del análisis...
+5=Cargando la información del análisis...
+6=La información del análisis de los siguientes discos se ha guardado con éxito:
+7=No ha sido posible guardar la información del análisis.
+8=La información del análisis se ha cargado con éxito.
+9=Los siguientes discos han sido actualizados:
+10=No ha sido posible cargar la información del análisis.
+11=Versión incorrecta del archivo.
+12=Archivos y carpetas añadidos: %s
+
+[s_MountDisk]
+0=Montar disco
+1=Tipo de imagen de disco
+2=Seleccione el tipo de disco que desea montar
+3=Imágenes de disco RAW
+4=Máquinas virtuales
+5=Imágenes de disco de %s
+6=Seleccione la carpeta con la máquina virtual
+7=Imágenes de disco
+8=Todos los ficheros
+9=Imágenes de disco de máquinas virtuales
+10=Seleccione las imágenes de disco de la máquina virtual que desea montar
+11=Archivos no encontrados
+12=Fichero
+13=Instantánea
+14=Tamaño
+15=Creado
+16=Descripción
+17=Instantánea %d
+18=Activo
+19=Para montar máquinas virtuales, descargue %s
+
+[s_SaveImage]
+0=Creación de una imagen
+1=Opciones de guardado
+2=Especifique las opciones de guardado de su disco
+3=Nombre
+4=Tipo
+5=Offset (sectores)
+6=Tamaño
+7=Disco seleccionado: %s
+8=No hay suficiente espacio en el disco para guardar la imagen.
+9=Seleccione otro disco.
+10=Guardar archivo "%s"...
+11=¡Listo!
+
+[s_CreateVirtual]
+0=Crear disco virtual
+1=Elegir disco
+2=Tamaño
+
+[s_DiskSize]
+0=Completo
+1=Parcial
+2=Iniciar desde
+3=Tamaño
+4=Sectores
+5=Bytes
+6=KB
+7=MB
+8=GB
+9=TB
+
+[s_FindPartitions]
+0=Examinar particiones perdidas
+1=Tamaño
+2=Tipo de sistema
+3=Elegir disco
+4=Nombre
+5=Sistema
+6=Inicio
+7=Tamaño
+
+[s_HexViewer]
+0=Editor HEX
+1=Codificación
+2=Mostrar info
+3=Ocultar info
+4=Buscar texto o valor
+5=Calculadora
+6=Mostrar ayuda
+7=Sector:
+8=%s fuera de %s
+9=Selección:
+10=Tamaño de la selección:
+11=Nombre:
+12=Número de serie:
+13=Tamaño total:
+14=Número de sectores:
+15=Bytes por sector:
+16=Sistema de ficheros:
+17=Espacio usado:
+18=Espacio disponible:
+19=Primer sector:
+20=Sectores por clúster:
+21=Tamaño de cluster:
+22=Disco físico:
+23=Estado:
+24=Ubicación:
+25=Tamaño:
+26=Tamaño en disco:
+27=Creado:
+28=Modificado:
+29=Último acceso:
+30=Atributos:
+31=Desconocido
+32=Mostrar particiones
+33=Ocultar particiones
+34=Mostrar espacio de disco
+35=Ocultar espacio de disco
+36=Mostrar sectores
+37=Ocultar sectores
+38=Ir al primer sector
+39=Ir al sector
+40=Ir al clúster
+41=Ir al registro MFT
+42=Disco %s
+43=Particiones
+44=Particiones no encontradas
+45=Espacio de disco
+46=Sectores de fichero en el disco
+47=Sectores no encontrados
+48=Tabla de particiones:
+49=MFT [%d]
+50=Sistema
+51=Inicio
+52=Búsqueda por texto:
+53=Búsqueda por valor HEX
+54=Buscar texto
+55=Distingue mayúsculas-minúsculas
+56=Sólo palabras completas
+57=Dirección
+58=Arriba
+59=Abajo
+60=Sector %s fuera de %s
+61=Búsqueda por texto...
+62=¡No hay coincidencias!
+63=Punto de montaje:
+
+[s_Goto]
+0=Ir a
+1=Ir
+2=Posición:
+3=Byte
+4=Sector
+5=Línea
+6=Modo HEX
+7=Desplazamiento absoluto
+8=Desplazamiento relativo
+9=Byte: %s
+10=Sector: %s
+11=Desde el comienzo del fichero: %s
+
+[s_PreviewMain]
+0=Girar a la izquierda
+1=Girar 180°
+2=Girar a la derecha
+3=Iniciar
+4=Pausa
+5=Detener
+6=Avanzar
+7=Retroceder
+8=Volumen: %s
+9=sin sonido
+10=Primera página
+11=Última página
+12=Página anterior
+13=Página siguiente
+14=Acercar
+15=Alejar
+16=Ajustar al ancho de página
+17=Ajustar a la página
+18=Clic para omitir
+19=Clic para cambiar
+20=Nombre de la compañia
+21=Descripción del fichero
+22=Versión del fichero
+23=Nombre interno
+24=Derechos reservados legales
+25=Marcas legales
+26=Nombre del fichero original
+27=Nombre del producto
+28=Versión del producto
+29=Comentarios
+30=Versión privada
+31=Versión especial
+32=Archivo dañado<br>o protegido con contraseña
+33=Contraseña incorrecta<br>o archivo dañado
+34=El documento está<br>protegido con contraseña
+35=El fichero está protegido con contraseña
+36=Introducir contraseña:
+37=Introduzca la contraseña
+38=¡Contraseña incorrecta!
+39=Elementos: %s
+40=, tamaño: %s
+41=Propiedad
+42=Valor
+43=De
+44=A
+45=Asunto
+46=De:
+47=A:
+48=Asunto:
+49=Mensajes: %s
+50=%s, %s
+51=Guardar adjunto en un fichero
+52=Guardar todos los adjuntos
+53=Los ficheros TBN no contienen mensajes enteros, sólo las cabeceras del mensaje
+
+[s_PreviewDetails]
+0=General
+1=Contenido
+2=Origen
+3=Imagen
+4=Documento
+5=Título
+6=Autor
+7=Compañia
+8=Gestor
+9=Nombre del programa
+10=Plantilla
+11=Páginas
+12=Líneas
+13=Carácteres
+14=Creado
+15=Guardado por última vez
+16=Última impresión
+17=Último autor
+18=Número de hojas
+19=Nombre de hoja
+20=Filas
+21=Columnas
+22=Juego de carácteres
+23=Descripción
+24=Claves maestras
+25=Dimensiones
+26=Ancho
+27=Alto
+28=%d píxeles
+
+[s_Properties]
+0=Propiedades: %s
+1=General
+2=Tipo:
+3=Espacio usado:
+4=Desconocido
+5=Espacio disponible:
+6=Estado:
+7=Sistema de ficheros:
+8=Ubicación:
+9=Tamaño:
+10=Tamaño en disco:
+11=Creado:
+12=Modificado:
+13=Último acceso:
+14=Atributos:
+15=Primer sector:
+16=Número de sectores:
+17=Sectores por clúster:
+18=Bytes por sector:
+19=Tamaño de clúster:
+20=Volúmenes:
+21=Volumen
+22=Capacidad
+23=Eliminado (Pronóstico: %s)
+24=Número de serie:
+25=Propiedades del sistema
+26=Sistema operativo:
+27=Nombre del equipo:
+28=Nombre de usuario:
+29=Volúmenes:
+30=Discos físicos:
+31=Volúmenes
+32=Discos físicos
+33=Disco
+34=Cambiar tamaño del fichero
+35=Flujo de datos
+36=No se ha encontrado ningún otro flujo de datos
+37=Mostrar atributos de la MFT del sistema
+38=Guardar en fichero
+39=Guardar el flujo seleccionado en fichero
+40=Ficheros de datos (DAT)|*.dat|todos los ficheros|*.*
+41=ID
+42=Nombre
+43=Tamaño
+44=Tipo
+45=Flujo de datos guardados en fichero...
+46=Flujo de datos guardados con éxito en fichero.
+47=Sistema
+48=Disco físico
+49=No se pueden cambiar las propiedades del disco. ¡Detenga primero el proceso de análisis!
+50=Detalles
+51=Propiedad
+52=Valor
+53=Fichero
+54=Nombre
+55=Tipo de elemento
+56=Ruta de la carpeta
+57=Fecha de creación
+58=Fecha de última modificación
+59=Tamaño
+60=Sectores por bloque:
+61=Tamaño del bloque:
+62=Propiedades del RAID: %s
+
+[s_Registration]
+0=Registrar el programa
+1=Comprar el programa por internet
+2=Nombre de registro:
+3=Clave de registro:
+4=Registrado a: %s
+5=Versión no registrada
+6=¡Sólo en la versión registrada!
+7=El proceso para obtener el programa es muy fácil: puede comprar y registrar el producto en algunos minutos, sin salir de su ordenador.
+8=Como usuario registrado, no sólo puede recuperar los ficheros de cualquier tamaño y tipo, sino recibir soporte técnico prioritario.
+9=Introduzca el nombre y clave de registro recibida después de la compra del programa y haga clic en "%s".
+10=Introduzca un nombre de usuario.
+11=Introduzca una clave de usuario.
+12=¡Gracias por usar %s!
+13=Ahora el programa está registrado a: %s
+14=¡Información de registro incorrecta!
+15=Si tiene problemas con el registro, escríbanos a %s
+16=Días para registrarse: %d
+17=Su licencia (%s) le permite recuperar información de matrices RAID con una capacidad máxima de %d discos.
+18=Para recuperar datos de la matriz seleccionada, compre otra licencia.
+19=Está intentando recuperar archivos desde una imagen de máquina virtual. Su licencia (%s) no permite recuperar datos de las máquinas virtuales.
+20=Para restaurar estos datos, compre otra licencia.
+21=Actualizar licencia
+
+[s_Rename]
+0=Renombrar fichero
+1=Renombrar carpeta
+2=Antiguo nombre del fichero:
+3=Nuevo nombre del fichero:
+4=Antiguo nombre de carpeta:
+5=Nuevo nombre de carpeta:
+6=Sustituir todos los carácteres desconocidos del nombre del fichero por
+
+[s_FileExists]
+0=Ya existe un fichero equivalente
+1=Introduzca el nombre del fichero.
+
+{Master Analyse Units}
+
+[MasterChooseDrive]
+0=Elegir disco
+1=Elegir el disco con ficheros eliminados
+2=¡Debe elegir un disco antes de seguir el siguiente paso!
+
+[MasterAnalyseType]
+0=Tipo de análisis
+1=Elija el tipo de análisis
+2=Disco seleccionado: %s
+3=Elija un disco físico durante el último paso. Esto significa que sólo podrá utilizar el análisis detallado.
+4=Si desea usar un análisis normal, deberá volver al paso anterior y elegir otro disco.
+5=Análisis normal
+6=Análisis detallado
+7=%s (recomendado)
+8=Un análisis normal le permitirá buscar ficheros eliminados, usando la información disponible en el sistema de ficheros. Usando esta opción, podrá recuperar la información de sus ficheros (nombre de fichero, fecha, atributos...)
+9=Usando el análisis detallado, el programa buscará ficheros eliminados a través de la firma (búsqueda por el contenido del fichero). En este caso NO podrá recuperar la información del fichero (nombre de fichero, fecha, atributos...).
+10=Análisis rápido
+11=Análisis completo
+12=Análisis completo (búsqueda por cualquier información disponible)
+13=Análisis detallado (búsqueda por contenidos del fichero)
+14=Para analizar los sistemas de archivos inactivos, descargue %s
+15=Descargar desde %s
+16=Si utiliza el análisis completo, el programa buscará toda la información relevante del disco y restaurará el sistema de ficheros. Al final todos los ficheros relevantes se restaurarán.
+17=Use el análisis rápido para restaurar ficheros recientemente eliminados.
+18=Disco físico seleccionado para análisis. En este caso sólo estará disponible el análisis completo. Si desea usar el análisis rápido deberá seleccionar otro disco.
+
+[MasterFileTypes]
+0=Tipos de fichero
+1=Elija los tipos de ficheros que desea recuperar
+2=Todos los ficheros
+3=Filtrar con una máscara (nombre de fichero parcial o completo)
+4=Tipos de ficheros seleccionados
+5=Archivos
+6=Ficheros de audio
+7=Bases de datos
+8=Documentos
+9=Imágenes
+10=Ficheros de video
+11=Otros tipos de ficheros
+12=¡Debe seleccionar los tipos de ficheros que desea recuperar!
+
+[MasterFileOptions]
+0=Otras opciones
+1=Indicar el criterio de búsqueda de ficheros
+2=Sólo los ficheros eliminados
+3=Incluir ficheros ocultos
+4=Incluir ficheros de sistema
+5=Buscar por tamaño
+6=Pequeño (menor de 100 KB)
+7=Mediano (menor de 1 MB)
+8=Grande (mayor de 1 MB)
+9=Especificar un tamaño (en KB)
+10=por lo  menos
+11=la mayor parte
+12=Buscar por fecha
+13=Creado
+14=Modificado
+15=Acceso
+16=Última semana
+17=Último mes
+18=Último año
+19=Especificar fecha
+20=desde
+21=hasta
+
+[MasterReAnalyse]
+0=Método de análisis
+1=Elija la acción necesaria
+2=El disco %s ya ha sido analizado. Elija otra acción:
+3=Analizar de nuevo
+4=Usar información obtenida previamente
+5=%s (recomendado)
+6=Usando este método, el disco será analizado nuevamente. Puede tardar cierto tiempo.
+7=En este caso, el disco no será analizado nuevamente. Las informaciones obtenidas en el contenido del disco se usarán para la búsqueda de ficheros.
+8=¡Importante! El disco elegido no será analizado completamente. Es recomendable volver a analizarlo de nuevo.
+
+[MasterProgress]
+0=Análisis del sistema de ficheros...
+1=Espere a finalizar el análisis
+2=Tamaño total: %s
+3=Discos encontrados: %s
+4=Carpetas encontradas: %s
+5=Ficheros encontrados: %s
+6=Tiempo transcurrido: %s
+7=Tiempo restante: %s
+8=Calculando tiempo restante...
+9=Creando una lista de ficheros...
+
+{Master Recovery Units}
+
+[MasterRecoverType]
+0=Guardar ficheros
+1=Elija un método para guardar los ficheros
+2=Guardar en el disco duro
+3=Puede guardar los ficheros en el disco duro, en una unidad USB, o en cualquier otro disco físico o extraíble
+4=Crear archivo ZIP
+5=Puede comprimir todos los archivos recuperables en un archivo ZIP
+6=Subir por FTP
+7=El cliente FTP integrado le permitirá subir los ficheros recuperados a internet
+8=Recordar mi selección
+
+[MasterFinish]
+0=Recuperación de ficheros completada
+1=Clic en "%s" para cerrar el Asistente o en "%s" para especificar las opciones de recuperación
+2=Cerrar automáticamente el Asistente al finalizar
+3=Abrir la carpeta con los ficheros recuperados
+
+[MasterRegistration]
+0=Registrar el programa
+1=Para continuar con el Asistente, necesitará comprar el programa e introducir su información de registro
+2=Comprar el programa por internet
+3=Nombre de registro:
+4=Clave de registro:
+
+[MasterSaveOptions]
+0=Guardar en un disco duro
+1=Especifique las opciones para guardar sus ficheros
+2=Ruta:
+3=Restaurar sólo los ficheros eliminados
+4=Restaurar estructura de carpetas
+5=Restaurar flujo de datos alternativo (NTFS)
+6=Sustituir todos los carácteres desconocidos por
+7=Elegir la carpeta donde guardar
+8=Ficheros restaurados
+9=Espacio en disco necesario: %s
+10=Espacio disponible en disco: %s
+
+[MasterSaveProgress]
+0=Guardar en un disco duro
+1=Espere a finalizar el guardado de ficheros
+2=Recuperando...
+3=Recuperando fichero "%s"...
+4=Proceso: %d%%
+
+[MasterZIPOptions]
+0=Crear archivo ZIP
+1=Especifique opciones para crear un archivo comprimido
+2=Nombre del fichero:
+3=Restaurar estructura de carpetas
+4=Sustituir todos los carácteres desconocidos por
+5=Método de compresión:
+6=No comprimir
+7=Rápida
+8=Normal
+9=La mejor
+10=Partir en volúmenes
+11=Establecer contraseña
+12=Archivos ZIP
+13=El archivo ya existe. ¿Desea sobrescribirlo?
+14=El nombre del archivo no es válido
+
+[MasterZIPProgress]
+0=Crear archivo ZIP
+1=Creando una lista de ficheros...
+2=Comprimiendo archivo...
+3=Archivos añadidos: %s
+4=Proceso: %d%%
+
+[MasterFTPRecoveryOptions]
+0=Guardar por FTP
+1=Especifique las opciones para guardar sus ficheros
+2=Restaurar sólo los ficheros eliminados
+3=Restaurar estructura de carpetas
+4=Sustituir todos los carácteres desconocidos por
+
+[MasterFTPFiles]
+0=Guardar por FTP
+1=Seleccionar los ficheros a recuperar
+2=El fichero "%s" ya existe.
+3=La carpeta "%s" ya existe.
+4=Añadido: %s (ficheros: %s, carpetas: %s)
+5=No hay ficheros seleccionados para guardar.
+
+[MasterFTPOptions]
+0=Guardar por FTP
+1=Introduzca los ajustes de su servidor FTP
+2=Ajustes del FTP
+3=Servidor [:puerto]
+4=Modo pasivo
+5=Usuario:
+6=Contraseña:
+7=Recordar contraseña
+8=Directorio remoto:
+9=Servidor proxy
+10=Usar servidor proxy
+11=Introduzca el nombre del servidor.
+
+[MasterFTPClient]
+0=Guardar por FTP
+1=Seleccionar directorio donde guardar sus ficheros
+2=Actualizar
+3=Guardar
+4=Nueva carpeta
+5=Eliminar
+6=Renombrar
+7=Nombre
+8=Tamaño
+9=Fecha
+10=Todos los ficheros
+11=Directorio donde guardar los ficheros:
+12=Debe elegir primero el directorio donde guardar sus ficheros.
+13=Conectando a %s...
+14=Conexión establecida
+15=Error al establecer conexión
+16=Conexión interrumpida
+17=Enviando usuario y contraseña...
+18=Apertura del directorio remoto...
+19=Error al abrir el directorio
+20=Datos recibidos
+21=Lectura del directorio remoto...
+22=Error al leer el directorio
+23=Creando directorio "%s"...
+24=Directorio creado
+25=Error al crear directorio
+26=Renombrando fichero "%s"...
+27=Renombrando directorio "%s"...
+28=Fichero renombrado
+29=Directorio renombrado
+30=No se puede renombrar el fichero
+31=No se puede renombrar el directorio
+32=¿Está seguro de querer eliminar el fichero "%s"?
+33=Eliminando fichero "%s"...
+34=Fichero eliminado
+35=No se puede eliminar el fichero
+36=¿Está seguro de querer eliminar los ficheros seleccionados?
+37=No se pueden eliminar los ficheros
+38=¿Está seguro de querer eliminar el directorio "%s" y todo su contenido?
+39=Eliminando directorio "%s"...
+40=Directorio eliminado
+41=No se puede eliminar el directorio
+42=Nueva carpeta
+43=Nombre de la nueva carpeta:
+44=Guardar fichero "%s"
+45=Elija la carpeta donde guardar
+46=Fichero ya existe. Sobreescribiendo...
+47=Fichero ya existe. Guardando con otro nombre...
+48=Fichero ya existe. Guardar fichero cancelado por el usuario
+49=Fichero ya existe. Transferir fichero cancelado por el usuario
+50=Completado el guardar
+51=Error al guardar el fichero
+52=Transfiriendo fichero "%s"...
+53=Transferencia completada con éxito
+54=Error al transferir el fichero
+55=Transferencia del fichero completada con éxito
+56=No se pueden transferir ficheros al servidor
+57=Cierre de la conexión...
+58=Conexión cerrada
+59=Error al abrir el directorio %s
+
+[MasterFTPFinalAction]
+0=Guardar por FTP
+1=Espere a finalizar el análisis de recuperación de ficheros
+2=Clic en "%s" para cerrar el Asistente o en "%s" para especificar las opciones de recuperación
+3=Proceso:
+4=Reg:
+5=Info
+6=Hora
+7=Cerrar automáticamente al finalizar correctamente

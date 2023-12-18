@@ -1,0 +1,831 @@
+{Engine Units}
+
+[e_General]
+0=bajt
+1=KB
+2=MB
+3=GB
+4=TB
+5=plik
+6=folder
+7=Plik "%s"
+8=Folder %s
+9=Pulpit
+10=Foldery
+11=Dokumenty
+12=Obrazy
+13=Muzyka
+14=Wideo
+15=Komputer
+16=Kosz
+17=Usunięte i znalezione
+18=Głęboka analiza
+19=Pliki systemowe
+20=Skonstruowanie listy plików...
+21=Tak
+22=Nie
+
+[e_Drives]
+0=Twarde dyski
+1=Dyski fizyczne
+2=Znalezione dyski
+3=Zamontowane dyski
+4=Urządzenia z nośnikami wymiennymi
+5=Napęd
+6=Dysk lokalny
+7=Dysk wymienny
+8=Zamontowany dysk
+9=Dysk fizyczny
+10=Fizyczny dysk wymienny
+11=Zamontowany dysk fizyczny
+12=Nie znany
+13=Dysk wirtualny
+14=Rozdział %s
+15=Rozdział %s %s
+16=Dysk lokalny %d
+17=Dysk wymienny %d
+18=Dysk fizyczny %d
+19=Dysk wirtualny %d
+20=Rozdział %d
+21=Dysk %s
+22=%s Dysk %s
+23=Nieoznaczony obszar %d
+24=Partycja danych LDM
+25=Rozmiar całkowity: %s
+26=Wolne: %s
+27=System plików: %s
+28=Wolne
+29=System plików
+30=Biblioteka
+31=Ikona
+32=Dysk systemowy %d
+33=Rozruchowy
+34=Partycja podstawowa
+35=Logiczny dysk
+36=Sekcja systemu EFI
+37=OEM sekcja
+38=Pojemnik APFS
+39=Pojemnik APFS %d
+40=Pojemnik APFS %d (%s)
+41=nie ma dysków
+42=%d dysków
+43=Rozmiar: %s
+44=Dyski Linux LVM
+
+[e_Raid]
+0=Macierze RAID
+1=Partycje RAID
+2=Macierz RAID
+3=Macierz RAID %d
+4=Partycja RAID
+5=Dysk JBOD
+6=Dysk JBOD %d
+7=Partycja JBOD
+8=Nie
+9=Nie wiadomo
+10=Zdefiniować automatycznie
+11=Status: %s
+12=okay
+13=naprawialno
+14=uszkodzony
+15=Rozmiar: %s, pliki w katalogu głównym: %s
+16=Pusty dysk
+17=Typ RAID:
+18=Kolejność bloków:
+19=Rozmiar bloku:
+20=Dysków w grupie:
+21=Przesunięcie parzystości:
+22=Obróć liczbę parzystości:
+23=Status:
+24=Dyski RAID:
+25=Numer seryjny
+26=Przesunięcie
+27=Przesunięcie/rozmiar dysku
+28=Przesunąc się do góry
+29=Przesunąc w dół
+30=Konstruktor RAID
+31=Kolejność bajtów:
+32=Standard
+33=4-bajtowe odwrócenie
+
+[e_Files]
+0=Istnieje
+1=Usunięty
+2=Możliwe
+3=Dobrze
+4=Źle
+5=Tylko czytanie
+6=Ukryty
+7=Systemowy
+8=Archiwalny
+9=Skompresowany
+10=Zaszyfrowany
+11=Nazwa
+12=Typ
+13=Rozmiar
+14=Status
+15=Zmieniony
+16=Stworzony
+
+[e_Controls]
+0=OK
+1=Anulowanie
+2=Pomóc
+3=Zapisać
+4=Zapisać wszystko
+5=Zamienić
+6=Zamienić wszystko
+7=Pominąć
+8=Pominąć wszystko
+9=Przemianować
+10=Przemianować wszystko
+11=Zamknąć
+12=Stop
+13=Stworzyć
+14=Resetowanie
+15=Znaleźć
+16=Przerwać
+17=Powrócić
+18=Dalej
+19=Gotowe
+20=Rejestracja
+21=Przywrócić
+22=Zapisywanie
+23=Zapisać
+24=Wybrać
+25=Odblokować
+26=Odwrócić wybór
+27=Wybrać wszystko
+28=Wyczyścić wszystko
+29=Rozszerzać wszystko
+30=Zwinąć wszystko
+31=Zastosować
+32=Opcje
+33=Dodać folder użytkownika
+34=Zamknąć dysk
+35=Dodać
+36=Właściwości
+37=Wznуw
+38=Wznуw wszystko
+
+[e_Message]
+0=Nie mogę przeanalizować system plików tego typu!
+1=Napęd %s nie jest gotowy! Powtórzyć?
+2=Nie zaleca się zapisywania danych na tym samym dysku, z którego są one odzyskiwane!
+3=Chcielibyście kontynuować?
+4=Czy naprawdę chcecie przerwać bieżącą operację?
+5=Szybkie skanowanie jest zakończone. Jeśli żądany napęd nie zostanie znaleziony, rozpocznie się pełne skanowanie (może ono trwać kilka godzin).
+6=Czy chcecie rozpocząć pełne skanowanie?
+7=Nie mogę przeanalizować systemu! Do uruchomienia programu potrzebne są uprawnienia administracyjne!
+8=Plik "%s" jest uszkodzony!
+9=Musicie zrestartować program, aby kontynuować. Zrobić to teraz?
+10=Nie możecie używać symbole %s w nazwie pliku!
+11=Naprawdę chcecie zamknąć "%s"?
+12=Naprawdę chcecie zamknąć podświetlone dyski?
+13=Naprawdę chcecie zamontować plik "%s" jako obraz dysku?
+14=Naprawdę chcecie zamontować wybrane pliki jako obrazy dysku?
+15=Plik "%s" jest już otwarty!
+16=Naprawdę chcecie zamknąć ten program?
+17=Nie pytać w przyszłości
+18=Wybrany dysk nie obsługuje plików o rozmiarze większym niż 4 GB. Jednakże, jeden z plików do odzyskania przekracza określony rozmiar.
+19=Aby pracować z macierzami RAID, pobierzcie %s
+20=Pobrać program
+
+{Shared Units}
+
+[s_About]
+0=O programie %s
+1=(Zmień licencję)
+2=Wersja programu: %s
+
+[s_Community]
+0=Nasza wspólnota
+1=Dołączcie do naszych portali społecznościowych
+2=Wspólnota %s
+3=Tysiące zadowolonych ludzi korzysta z naszych programów.<br>Przyłączajcie się do naszej wspólnoty!
+4=Podobał Wam się wynik?<br>Powiedzcie swoim przyjaciołom o nas.
+5=Udało mi się odzyskać usunięte pliki z pomocą %s!
+6=Odzyskałem usunięte pliki z pomocą programu %s!
+7=Program %s pomógł mi przywrócić ważne informacje na moim komputerze!
+
+[s_ChangeFirstCluster]
+0=Początek pliku "%s"
+1=Nie wyświetlać w tej sesji
+2=Początek pliku
+3=Zawartość pliku
+
+[s_SaveAnalysisInfo]
+0=Zapisać informacji o analizie
+1=Pobrać informacje o analizie
+2=Informacje dotyczące analizy danych|*.dai
+3=Informacje o analizie danych |*.dai|Все файлы|*.*
+4=Zapisywanie informacji o analizie...
+5=Pobieranie informacji o analizie...
+6=Informacje analityczne na następujących dyskach zostały pomyślnie zapisane:
+7=Nie udało się zapisać informacji o analizie.
+8=Informacje o analizie zostały pobrane z powodzeniem.
+9=Następujące dyski zostały zaktualizowane:
+10=Nie udało się pobrać informacji o analizie.
+11=Nieważna wersja pliku.
+12=Dodano plików i folderów: %s
+
+[s_MountDisk]
+0=Zamontować dysk
+1=Typ obrazu dysku
+2=Wybierz typ dysku do zainstalowania
+3=Obrazy dysków RAW
+4=Maszyny wirtualne
+5=Obrazy dysków %s
+6=Wybierz folder z maszyną wirtualną
+7=Obrazy dysków
+8=Wszystkie pliki
+9=Obrazy dysków maszyny wirtualnej
+10=Wybierz obrazy dysków maszyny wirtualnej do zainstalowania
+11=Nie znaleziono plików
+12=plik
+13=Migawka
+14=Rozmiar
+15=Stworzony
+16=Opis
+17=Migawka %d
+18=Aktywny
+19=Dla montowania  maszyn wirtualnych, Pobierzcie program %s
+
+[s_SaveImage]
+0=Stworzenie obrazu
+1=Opcje zapisu
+2=Ustawcie opcje napędu
+3=Nazwa
+4=Typ
+5=Przesunięcie (sektory)
+6=Rozmiar
+7=Wybrane napędy: %s
+8=Na wybranym dysku nie ma wystarczająco dużo wolnego miejsca, aby zapisać obraz!
+9=Proszę wybrać inny dysk.
+10=Zapiszcie plik "%s"...
+11=Gotowe!
+
+[s_CreateVirtual]
+0=Tworzenie dysku wirtualnego
+1=Wybór dysku
+2=Rozmiar
+
+[s_DiskSize]
+0=W pełni
+1=Częściowo
+2=Zacząć z
+3=Rozmiar
+4=Sektory
+5=Bajty
+6=KB
+7=MB
+8=GB
+9=TB
+
+[s_FindPartitions]
+0=Wyszukiwanie usuniętych napędów
+1=Rozmiar
+2=Typ systemu
+3=Wybór dysku
+4=Imię
+5=System
+6=Początek
+7=Rozmiar
+
+[s_HexViewer]
+0=Edytor HEX
+1=Kodowanie
+2=Pokazać informacje
+3=Ukryć informacje
+4=Znaleźć tekst lub znaczenie
+5=Kalkulator
+6=Dokumentacja
+7=Sektor:
+8=%s z %s
+9=Wydzielenie:
+10=Rozmiar selekcji:
+11=Imię:
+12=Numer seryjny:
+13=Rozmiar dysku:
+14=Liczba sektorów:
+15=Bajt w sektorze:
+16=System plików:
+17=Używano:
+18=Wolne:
+19=Pierwszy sektor :
+20=Sektory w klastrze:
+21=Rozmiar klastra:
+22=Dysk fizyczny:
+23=Status:
+24=Miejsce:
+25=Rozmiar:
+26=Na dysku:
+27=Stworzony:
+28=Zmienił się:
+29=Otwarty:
+30=Atrybuty:
+31=Nie wiadomo
+32=Pokazać rozdziały
+33=Ukryć rozdziały
+34=Wyświetlić obszary dyskowe
+35=Ukryć obszary dyskowe
+36=Pokazać sektory
+37=Ukryć sektory
+38=Przejść do pierwszego sektora napędu
+39=Przejść do sektora
+40=Przejść do klastra
+41=Przejść do zapisu MFT
+42=Dysk %s
+43=Partycje
+44=Nie znaleziono partycji
+45=Obszary dyskowe
+46=Sektory plików na dysku
+47=Sektory nie znalezione
+48=Tablica podziałów:
+49=MFT [%d]
+50=Systemowy
+51=Rozruchowy
+52=Tekst do szukania:
+53=Wyszukiwanie wartości HEX
+54=Wyszukiwanie tekstu
+55=Z rozważaniem registru
+56=Tylko całe słowo
+57=Kierunek
+58=W górę
+59=W dół
+60=Sektor %s z %s
+61=Wyszukiwanie tekstu...
+62=Nic nie znaleziono!
+63=Punkt montowania:
+
+[s_Goto]
+0=Przejść do
+1=Przejść
+2=Pozycja:
+3=Bajt
+4=Sektor
+5=Linia
+6=Hex-tryb
+7=Bezwzględne przesunięcie
+8=Względne przesunięcie
+9=Bajt: %s
+10=Sektor: %s
+11=Od początku: %s
+
+[s_PreviewMain]
+0=Rotować na 90 stopni w lewo
+1=Rotować na 180 stopni
+2=Rotować na 90 stopni w prawo
+3=Start
+4=Pauza
+5=Stop
+6=Naprzód
+7=Do tyłu
+8=Dźwięk: %s
+9=bez dźwięku
+10=Pierwsza strona
+11=Ostatnia strona
+12=Poprzednia strona
+13=Następna strona
+14=Zwiększyć
+15=Zmniejszyć
+16=Po szerokośći strony
+17=Cała strona
+18=Kliknięcie, aby szybko przejść
+19=Kliknijcie, aby zmienić
+20=Firma
+21=Opis pliku
+22=Wersja pliku
+23=Wewnętrzne imię
+24=Prawa autorskie
+25=Znak towarowy
+26=Oryginalne imię
+27=Imię produktu
+28=Wersja produktu
+29=Komentarze
+30=Wersja prywatna
+31=Wersja specjalna
+32=Archiwum jest uszkodzone<br>lub chroniony hasłem
+33=Hasło jest nieprawidłowe<br>lub archiwum jest uszkodzony
+34=Dokument<br>chroniony hasłem
+35=Plik jest chroniony hasłem
+36=Proszę podać swoje hasło:
+37=Podajcie hasło
+38=Błędne hasło!
+39=Objektów: %s
+40=, rozmiar: %s
+41=Właściwość
+42=Wartość
+43=Od
+44=Komu
+45=Tematyka
+46=Od:
+47=Komu:
+48=Temat:
+49=Wiadomość: %s
+50=%s, %s
+51=Zapisać załącznik w plik
+52=Zapisać wszystkie załączniki
+53=Pliki TBN nie zawierają tekstu wiadomości, a jedynie nagłówki.
+54=Pozycja: %s
+55=Ogółem: %s
+56=Adresy e-mail:
+57=Numery telefonów:
+58=Adres do pracy:
+59=Adres domowy:
+60=Strony internetowe:
+61=Notatki:
+
+[s_PreviewDetails]
+0=Główne
+1=Zawartość
+2=Źródło
+3=Obrazek
+4=Dokument
+5=Tytuł
+6=Autor
+7=Organizacja
+8=Menedżer
+9=Nazwa programu
+10=Szablon
+11=Ilość stron
+12=Liczba rzędów
+13=Ilość znaków
+14=Data stworzenia
+15=Ostatnie zapisanie
+16=Ostatni wydruk
+17=Ostatni autor
+18=Ilość arkuszy
+19=Nazwa arkusza
+20=Liczba rzędów
+21=Liczba kolumn
+22=Kodowanie
+23=Opis
+24=Słowa kluczowe
+25=Rozmiary
+26=Szerokość
+27=Wysokość
+28=%d pikseli
+
+[s_Properties]
+0=Właściwości: %s
+1=Ogólne
+2=Typ:
+3=Użyto:
+4=Nie wiadomo
+5=Wolno:
+6=Status:
+7=System plików:
+8=Przemieszczenie:
+9=Rozmiar:
+10=Na dysku:
+11=Stworzony:
+12=Zmienił się:
+13=Otwarty:
+14=Atrybuty:
+15=Pirwszy sektor :
+16=Liczba sektorów:
+17=Sektory w klastrze:
+18=Bajt w sektorze:
+19=Rozmiar klastra:
+20=Woluminy:
+21=Wolumin
+22=Pojemność
+23=Skreślony (Prognoza: %s)
+24=Numer seryjny:
+25=Właściwości systemu
+26=System operacyjny:
+27=Komputer:
+28=Użytkownik:
+29=Woluminy:
+30=Dyski fizyczne:
+31=Woluminy
+32=Dyski fizyczne
+33=Dysk
+34=Zmienić rozmiar pliku
+35=Przepływy danych
+36=Nie znaleziono alternatywnych strumieni danych
+37=Wyświetlanie atrybutów systemu MFT
+38=Zapisać jako plik
+39=Zapisać wybrany wątek do pliku
+40=Pliki danych (DAT)|*.dat|Wszystkie pliki|*.*.
+41=ID
+42=Nazwa
+43=Rozmiar
+44=Typ
+45=Przepływ danych jest zapisywany do pliku...
+46=Strumień danych został pomyślnie zapisany do pliku.
+47=System
+48=Dysk fizyczny
+49=Nie mogę zmienić właściwości dysku. Najpierw zatrzymajcie proces analizy!
+50=Dokładnie
+51=Właściwość
+52=Wartość
+53=Plik
+54=Imię
+55=Typ elementu
+56=Ścieżkę foldera
+57=Data stworzenia
+58=Data zmiany
+59=Rozmiar
+60=Sektorów w bloku:
+61=Rozmiar bloku:
+62=Właściwości RAID: %s
+
+[s_Registration]
+0=Rejestracja programu
+1=Kupić program online
+2=Nazwa rejestracyjna:
+3=Klucz rejestracyjny:
+4=Zarejestrowano na: %s
+5=Niezarejestrowana wersja
+6=Tylko w zarejestrowanej wersji!
+7=Proces zakupu oprogramowania jest bardzo prosty: można kupić i zarejestrować produkt w ciągu kilku minut bez wychodzenia z komputera.
+8=Jak zarejestrowany użytkownik będzie w stanie nie tylko przywrócić pliki dowolnego typu i rozmiaru, ale także otrzymać priorytetową obsługę użytkownika.
+9=Wpiszcie nazwę rejestracyjną i klucz, który otrzymaliście przy zakupie produktu i naciśnijcie "%s".
+10=Proszę wpisać swoje imię rejestracyjne!
+11=Proszę wpisać swój klucz rejestracyjny!
+12=Dziękuję za użycie %s!
+13=Program jest teraz zarejestrowany na: %s
+14=Nieprawidłowe informacje o rejestracji!
+15=Jeśli macie problemy z rejestracją, proszę napisać na %s.
+16=Dni do rejestracji: %d
+17=Wasza licencja (%s) umożliwia odzyskanie informacji z macierzy RAID o maksymalnej pojemności %d dysków. Rozmiar macierzy, którą próbujecue odzyskać, przekracza ten limit.
+18=Aby odzyskać dane z wybranej macierzy RAID, kupcie inną licencję.
+19=Próbujecie odzyskać pliki z obrazu maszyny wirtualnej. Posiadana licencja (%s) nie zezwala na odzyskiwanie danych z maszyn wirtualnych.
+20=Aby przywrócić te dane, należy zakupić kolejną licencję.
+21=Odnowić licencję online
+
+[s_Rename]
+0=Zmiana nazwy pliku
+1=Zmiana nazwy folderu
+2=Stare imię:
+3=Nowe imię:
+4=Stare imię:
+5=Nowe imię:
+6=Zastąpić wszystkie nieznane znaki na
+
+[s_FileExists]
+0=Ten plik już istnieje
+1=Proszę podać nazwę pliku!
+
+{Master Analyse Units}
+
+[MasterChooseDrive]
+0=Wybór dysku
+1=Wybierzcie dysk z usuniętymi plikami.
+2=Musicie wybrać dysk, zanim przejść do następnego kroku!
+
+[MasterAnalyseType]
+0=Typ analizy
+1=Wybierzcie wymagany typ analizy
+2=Wybrany dysk: %s
+3=W poprzednim kroku wybraliście napęd fizyczny. W tym przypadku można użyć tylko głębokiej analizy.
+4=Jeśli chcecie użyć "Skan normalny", wróćcie i wybierzcie inny dysk.
+5=Skan normalny
+6=Głęboka analiza
+7=%s (zalecane)
+8=Normalne skanowanie pozwala na wyszukiwanie usuniętych plików w oparciu o informacje dostępne w systemie plików. Za pomocą tej opcji można odzyskać wszystkie informacje o plikach (nazwa pliku, data, atrybuty...).
+9=Bazując na głębokiej analizie, program będzie szukał usuniętych plików po podpisach (wyszukiwanie według zawartości pliku). W tym przypadku nie będziecie w stanie odzyskać informacji o swoich plikach (nazwa pliku, data, atrybuty...).
+10=Szybkie skanowanie
+11=Pełna analiza
+12=Pełna analiza (wyszukiwanie wszystkich możliwych informacji)
+13=Głęboka analiza (wyszukiwanie według zawartości pliku)
+14=W celu analizy niedostępnych systemów plików proszę pobrać %s
+15=Pobierz z %s
+16=W pełnej analizie program znajdzie wszystkie informacje na dysku i przywróci system plików. W wyniku tego wszystkie możliwe pliki zostaną odzyskane.
+17=Używajcie szybkiego skanowania, aby odzyskać ostatnio usunięte pliki.
+18=Dysk fizyczny został wybrany do analizy. W tym przypadku można skorzystać tylko z pełnej analizy. Jeśli chcecie użyć funkcji "Szybkie skanowanie", wybierzcie inny dysk.
+
+[MasterFileTypes]
+0=Typy plików
+1=Określicie wymagane typy plików do odzyskania
+2=Wszystkie pliki
+3=Filtr według maski (część nazwy lub pełna nazwa pliku)
+4=Wybrane typy plików
+5=Archiwum
+6=Audio pliki
+7=Bazy danych
+8=Dokumenty
+9=Obrazy
+10=Pliki wideo
+11=Inne typy plików
+12=Musicie wybrać wymagane typy plików!
+
+[MasterFileOptions]
+0=Opcje dodatkowe
+1=Określicie kryteria wyszukiwania plików
+2=Tylko usunięte pliki
+3=Wyszukiwanie w ukrytych plikach
+4=Wyszukiwanie w plikach systemowych
+5=Wyszukiwanie według rozmiaru
+6=Mały (mniej niż 100 Kb)
+7=Średni(mniej niż 1 Mb)
+8=Duży (więcej niż 1 Mb)
+9=Określ rozmiar (w Kb)
+10=Nie mniej
+11=Nie więcej
+12=Wyszukiwanie według daty
+13=Stworzony
+14=Zmieniony
+15=Otwarty
+16=Przez ostatni tydzień
+17=Za ostatni miesiąc
+18=Za ostatni rok
+19=Określić datę
+20=od
+21=do
+
+[MasterReAnalyse]
+0=Metoda analizy
+1=Wybierzcie wymagane działanie
+2=Dysk %s został już przeanalizowany. Proszę wybrać wymaganą czynność:
+3=Analiza powtórna
+4=Użyjcie uzyskanych informacji
+5=%s (zalecane)
+6=Dzięki tej metodzie dysk zostanie poddany ponownej analizie. To zajmie trochę czasu.
+7=W tym przypadku, dysk nie zostanie poddany ponownej analizie. Pliki będą przeszukiwane z wykorzystaniem już uzyskanych informacji o zawartości dysku.
+8=Uwaga! Wybrany dysk nie został w pełni przeanalizowany. Zaleca się jego ponowne przeanalizowanie.
+
+[MasterProgress]
+0=Analiza systemu plików...
+1=Poczekajcie, aż analiza dysku zostanie zakończona
+2=Rozmiar całkowity: %s
+3=Znaleziono dysków: %s
+4=Znaleziono folderów: %s
+5=Znaleziono plików: %s
+6=Czasu minęło: %s
+7=Czasu pozostało się: %s
+8=Naliczanie pozostałego czasu...
+9=Skonstruowanie listy plików...
+
+{Master Recovery Units}
+
+[MasterRecoverType]
+0=Zapisywanie plików
+1=Wybierzcie wymaganą metodę zapisu plików
+2=Oszczędzanie na dysku twardym
+3=Można zapisywać pliki na dysku twardym, pamięci USB lub jakimkolwiek innym fizycznym lub wymiennym dysku.
+4=Utworzenie archiwum ZIP
+5=Można skompresować wszystkie odzyskane pliki do jednego archiwum ZIP.
+6=Wysłanie FTP
+7=Zintegrowany klient FTP pozwala na przesyłanie odzyskanych plików do Internetu
+8=Zapamiętać mój wybór
+
+[MasterFinish]
+0=Odzyskanie pliku zakończone
+1=Kliknijcie "%s", aby zamknąć kreator, lub "%s", aby zmienić opcje odzyskiwania
+2=Automatycznie zamknąć kreatora, gdy zostanie ukończony
+3=Otworzyć folder z odzyskanymi plikami
+
+[MasterRegistration]
+0=Rejestracja programu
+1=Aby kontynuować działanie kreatora należy zakupić program i wprowadzić swoje dane rejestracyjne
+2=Kupić program online
+3=Imię rejestracyjne:
+4=Klucz rejestracyjny:
+
+[MasterSaveOptions]
+0=Oszczędzanie na dysku twardym
+1=Określicie niezbędne opcje zapisu plików
+2=Ścieżka:
+3=Przywrócić tylko usunięte pliki
+4=Przywrócić strukturę folderów
+5=Odzyskiwać alternatywne strumieni danych (NTFS)
+6=Zamienić wszystkie nieznane znaki na inne
+7=Wybierzcie folder do zapisania
+8=Odzyskiwać pliki
+9=Wymagane na dysku: %s
+10=Dostępnie na dysku: %s
+
+[MasterSaveProgress]
+0=Oszczędzanie na dysku twardym
+1=Poczekajcie, aż pliki zostaną zapisane
+2=Przywrócenie...
+3=Przywrócenie pliku "%s"...
+4=Proces: %d%%
+
+[MasterZIPOptions]
+0=Stworzyć archiwum ZIP
+1=Wybierzcie parametry do tworzenia archiwum
+2=Nazwa pliku:
+3=Przywrócić strukturę folderów
+4=Zastąpić wszystkie nieznane znaki na
+5=Metoda kompresji:
+6=Bez kompresji
+7=Szybki
+8=Zwykły
+9=Maksymalny
+10=Podzielić na tomy wielkością
+11=Ustawić hasło
+12=ZIP Archiwa
+13=Plik już istnieje. Chcecie go nadpisać?
+14=Nieważna nazwa pliku!
+
+[MasterZIPProgress]
+0=Sworzyć archiwum ZIP
+1=Tworzenie listy plików...
+2=Kompresujące archiwum...
+3=Dodano plików: %s
+4=Proces: %d%%
+
+[MasterFTPRecoveryOptions]
+0=Zapisywanie przez FTP
+1=Określicie wymagane opcji oszczędzania
+2=Przywrócić tylko usunięte pliki
+3=Przywrócić strukturę folderów
+4=Zamienić wszystkie nieznane znaki na
+
+[MasterFTPFiles]
+0=Zapisywanie przez FTP
+1=Wybierzcie pliki wymagane do odzyskania
+2=Plik "%s" już istnieje!
+3=Folder "%s" już istnieje!
+4=Dodano: %s (pliki: %s, foldery: %s)
+5=Nie wybrano żadnych plików do zapisania!
+
+[MasterFTPOptions]
+0=Zapisywanie przez FTP
+1=Wybierzcie ustawienia swojego serwera FTP
+2=Ustawienia FTP
+3=Serwer [:port ]
+4=Tryb pasywny
+5=Nazwa użytkownika:
+6=Hasło:
+7=Zapamiętać hasło
+8=Katalog zdalny:
+9=Serwer proxy
+10=Używać serwera proxy
+11=Proszę wpisać nazwę serwera.
+
+[MasterFTPClient]
+0=Zapisywanie przez FTP
+1=Wybierzcie katalog do zapisania plików
+2=Aktualizować
+3=Zapisać
+4=Nowy folder
+5=Usunąć
+6=Przemianować
+7=Nazwa
+8=Rozmiar
+9=Data
+10=Wszystkie pliki
+11=Katalog do zapisu:
+12=Musicie najpierw wybrać katalog, aby zapisać pliki!
+13=Nawiązanie połączenia z %s...
+14=Nawiązano połączenie
+15=Błąd podczas nawiązywania połączenia
+16=Połączenie zostaje przerwane
+17=Wysłanie nazwy użytkownika i hasła...
+18=Otworzenie zdalnego katalogu...
+19=Błąd w otwieraniu katalogu
+20=Dane otrzymane
+21=Czytanie zdalnego katalogu...
+22=Błąd odczytu katalogu
+23=Tworzenie katalogu "%s"...
+24=Katalog utworzony
+25=Błąd tworzenia katalogu
+26=Zmiana nazwy pliku "%s"...
+27=Zmiana nazwy katalogu "%s"...
+28=Plik zmienił nazwę
+29=Folder zmieniła nazwę
+30=Nie udało się zmienić nazwy pliku
+31=Nie udało się zmienić nazwy katalogu
+32=Czy naprawdę chcecie usunąć plik "%s"?
+33=Skasowanie pliku "%s"...
+34=Plik usunięty
+35=Nie udało się skasować pliku
+36=Czy naprawdę chcecie usunąć wybrane pliki?
+37=Nie udało się usunąć wybrane pliki
+38=Czy naprawdę chcecie usunąć katalog "%s" i całą jego zawartość?
+39=Skasowanie katalogu "%s"...
+40=Katalog usunięty
+41=Nie udało się skasować katalogu
+42=Nowy folder
+43=Nazwa nowego folderu:
+44=Zapisanie pliku "%s"
+45=Wybierzcie folder do zapisania
+46=Ten plik już istnieje. Nadpisywanie...
+47=Ten plik już istnieje. Zapiszcie pod innym imieniem...
+48=Ten plik już istnieje. Zapisanie pliku jest anulowane przez użytkownika
+49=Ten plik już istnieje. Transfer pliku jest anulowany przez użytkownika
+50=Proces oszczędzania zakończony
+51=Błąd podczas zapisywania pliku
+52=Wysłanie pliku "%s"...
+53=Transfer zakończony sukcesem
+54=Błąd przekazania pliku
+55=Pomyślnie zakończony proces transferu plików
+56=Nie usało się przesłać plików na serwer
+57=Kończenie połączenia...
+58=Połączenie zakończone...
+59=Błąd otwarcia katalogu %s
+
+[MasterFTPFinalAction]
+0=Zapisywanie przez FTP
+1=Poczekajcie, aż odzyskane pliki zostaną zapisane
+2=Wybierzcie "%s", aby zamknąć kreator, lub "%s", aby zmienić opcje odzyskiwania.
+3=Proces:
+4=Log:
+5=informacja
+6=Czas
+7=Automatyczne zamknąć kreatora po pomyślnym zakończeniu.

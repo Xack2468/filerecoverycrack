@@ -1,0 +1,831 @@
+{Engine Units}
+
+[e_General]
+0=bytes
+1=kB
+2=MB
+3=GB
+4=TB
+5=Bestand
+6=Map
+7=Bestand "%s"
+8=Map %s
+9=Bureaublad
+10=Mappen
+11=Documenten
+12=Afbeeldingen
+13=Muziek
+14=Video's
+15=Computer
+16=Prullenbak
+17=Verloren en gevonden
+18=Diep analyseren
+19=Systeemgegevens
+20=Bestandenlijst maken...
+21=Ja
+22=Nee
+
+[e_Drives]
+0=Vasteschijfstations
+1=Fysieke schijven
+2=Gevonden schijven
+3=Gemounte schijven
+4=Apparaten met verwijderbaar medium
+5=Diskettestation
+6=Lokale schijf
+7=Verwijderbare schijf
+8=Gemounte schijf
+9=Fysieke schijf
+10=Fysieke, verwijderbare schijf
+11=Gemounte, fysieke schijf
+12=Onbekend
+13=Virtuele schijf
+14=%s-partitie
+15=%s-partitie %s
+16=Lokale schijf %d
+17=Verwijderbare schijf %d
+18=Fysiek station %d
+19=Virtuele schijf %d
+20=Partitie %d
+21=Station %s
+22=%s station %s
+23=Niet-toegewezen ruimte %d
+24=LDM-gegevenspartitie
+25=Totale grootte: %s
+26=Vrije ruimte: %s
+27=Bestandssysteem: %s
+28=Vrije ruimte
+29=Bestandssysteem
+30=Bibliotheek
+31=Snelkoppeling
+32=Systeemschijf %d
+33=Boot
+34=Primaire partitie
+35=Logische schijf
+36=EFI-systeempartitie
+37=OEM-partitie
+38=APFS-container
+39=APFS-container %d
+40=APFS-container %d (%s)
+41=geen volumes
+42=%d schijven
+43=Grootte: %s
+44=Linux-LVM-schijven
+
+[e_Raid]
+0=RAID-arrays
+1=RAID-volumes
+2=RAID-array
+3=RAID-array %d
+4=RAID-partitie
+5=JBOD-schijf
+6=JBOD-schijf %d
+7=JBOD-partitie
+8=Geen
+9=Onbekend
+10=Automatisch detecteren
+11=Status: %s
+12=OK
+13=herstelbaar
+14=beschadigd
+15=Grootte: %s, Bestanden in root: %s
+16=Lege schijf
+17=RAID-type:
+18=Blokvolgorde:
+19=Blokgrootte:
+20=Schijven in groep:
+21=Offset pariteitsgroep:
+22=Roteren pariteit count:
+23=Status:
+24=RAID-schijven:
+25=Serienummer
+26=Offset
+27=Offset/grootte schijf wijzigen
+28=Verplaatsen naar boven
+29=Verplaatsen naar beneden
+30=RAID Constructor
+31=Bytes volgorde:
+32=Standaard
+33=4 byte achteruit
+
+[e_Files]
+0=Bestaat
+1=Verwijderd
+2=Mogelijk
+3=Goed
+4=Slecht
+5=Alleen-lezen
+6=Verborgen
+7=Systeem
+8=Archief
+9=Gecomprimeerd
+10=Gecodeerd
+11=Naam
+12=Type
+13=Grootte
+14=Status
+15=Gewijzigd
+16=Gemaakt
+
+[e_Controls]
+0=OK
+1=Annuleren
+2=Help
+3=Opslaan
+4=Alles opslaan
+5=Vervangen
+6=Alles vervangen
+7=Overslaan
+8=Alles overslaan
+9=Hernoemen
+10=Alles hernoemen
+11=Sluiten
+12=Stoppen
+13=Maken
+14=Resetten
+15=Zoeken
+16=Zoeken stoppen
+17=Terug
+18=Verder
+19=Voltooien
+20=Registreren
+21=Herstellen
+22=Branden
+23=Opslaan
+24=Selecteren
+25=Deselecteren
+26=Omgekeerde selectie
+27=Alles selecteren
+28=Alles wissen
+29=Alles uitklappen
+30=Alles inklappen
+31=Toepassen
+32=Opties
+33=Map toevoegen
+34=Schijf sluiten
+35=Toevoegen
+36=Eigenschappen
+37=Voortzetten
+38=Alles voortzetten
+
+[e_Message]
+0=Kan dit type bestandssysteem niet analyseren!
+1=Schijf %s is niet klaar! Opnieuw?
+2=Het is niet aan te bevelen om gegevens op te slaan op dezelfde schijf waarvan deze zijn hersteld!
+3=Wilt u verder gaan?
+4=Wilt u echt de huidige bewerking annuleren?
+5=Snel scannen is voltooid. Als de gewenste schijf niet wordt gevonden, wordt een volledige scan uitgevoerd (dit kan enkele uren duren).
+6=Wilt u een volledige scan uitvoeren?
+7=Kan het systeem niet analyseren! Administratorrechten nodig!
+8=Bestand "%s" is verminkt!
+9=Om verder te gaan moet het programma herstart worden. Nu doen?
+10=U mag de symbolen %s niet gebruiken in een bestandsnaam!
+11=Weet u zeker dat u "%s" wilt sluiten?
+12=Weet u zeker dat u de geselecteerde stations wilt sluiten?
+13=Weet u zeker dat u bestand "%s" wilt mounten als schijfimage?
+14=Weet u zeker dat u de geselecteerde bestanden wilt mounten als schijfimages?
+15=Bestand "%s" is al geopend.
+16=Weet u zeker dat u het programma wilt sluiten?
+17=Niet opnieuw vragen
+18=De geselecteerde schijf ondersteunt geen bestanden van meer dan 4GB. Een van de te herstellen bestanden overschrijdt deze grootte.
+19=Download Magic RAID Recovery om met %s te werken
+20=Download het programma
+
+{Shared Units}
+
+[s_About]
+0=Over %s
+1=(Licentie wijzigen)
+2=Programmaversie: %s
+
+[s_Community]
+0=Onze Fanclub
+1=Sluit u aan bij onze sociale netwerken
+2=%s Fanclub
+3=Duizenden tevreden gebruikers van onze software.<br>Kom bij Fanclub!
+4=Vond je het resultaat goed?<br>Vertel je vrienden over ons
+5=Ik heb mijn verwijderde bestanden kunnen herstellen met %s!
+6=Ik heb mijn verwijderde bestanden herstel met %s!
+7=%s heeft me geholpen om belangrijke informatie te herstellen op mijn computer!
+
+[s_ChangeFirstCluster]
+0=Begin van bestand "%s"
+1=In deze sessie niet tonen
+2=Begin van het bestand
+3=Bestandsinhoud
+
+[s_SaveAnalysisInfo]
+0=Analyse-informatie opslaan
+1=Analyse-informatie laden
+2=Analyse-informatiegegevens|*.dai
+3=Analyse-informatiegegevens|*.dai|Alle bestanden|*.*
+4=Analyse-informatie opslaan...
+5=Analyse-informatie laden...
+6=Voor de volgende schijven is met succes analyse-informatie opgeslagen:
+7=Opslaan van analyse-informatie is mislukt.
+8=Laden van analyse-informatie is geslaagd.
+9=De volgende schijven zijn geüpdatet:
+10=Laden van analyse-informatie is mislukt.
+11=Onjuiste bestandsversie.
+12=Toegevoegde bestanden en mappen: %s
+
+[s_MountDisk]
+0=Schijf mounten
+1=Type schijfimage
+2=Selecteer het te koppelen schijftype
+3=RAW-schijfimage
+4=Virtuele machine
+5=%s schijfimage
+6=Selecteer de map met virtuele machine
+7=Schijfimages
+8=Alle bestanden
+9=Schijfimages van virtuele machine
+10=Selecteer schijfimages van virtuele machines om te koppelen
+11=Bestanden niet gevonden
+12=Bestand
+13=Momentopname
+14=Grootte
+15=Gemaakt
+16=Beschrijving
+17=Momentopname #%d
+18=Actief
+19=Om virtuele machines te mounten, download %s
+
+[s_SaveImage]
+0=Maken van image
+1=Opties opslaan
+2=Geef opties op voor het opslaan van uw schijf
+3=Naam
+4=Type
+5=Offset (sectoren)
+6=Grootte
+7=Geselecteerde schijven: %s
+8=Er is onvoldoende ruimte op de geselecteerde schijf voor het opslaan van de image.
+9=Kies een andere schijf.
+10=Bestand "%s" opslaan...
+11=Klaar!
+
+[s_CreateVirtual]
+0=Virtuele schijf maken
+1=Schijf kiezen
+2=Grootte
+
+[s_DiskSize]
+0=Volledig
+1=Gedeeltelijk
+2=Beginnen bij
+3=Grootte
+4=Sectoren
+5=Bytes
+6=kB
+7=MB
+8=GB
+9=TB
+
+[s_FindPartitions]
+0=Verloren partities zoeken
+1=Grootte
+2=Systeemtype
+3=Schijf kiezen
+4=Naam
+5=Systeem
+6=Beginnen
+7=Grootte
+
+[s_HexViewer]
+0=HEX-bewerker
+1=Coderen
+2=Info tonen
+3=Info verbergen
+4=Tekst of waarde zoeken
+5=Rekenmachine
+6=Help bekijken
+7=Sector:
+8=%s van %s
+9=Selectie:
+10=Grootte vanf selectie:
+11=Naam:
+12=Serienummer:
+13=Totale grootte:
+14=Aantal sectoren:
+15=Bytes per sector:
+16=Bestandssysteem:
+17=Gebruikte ruimte:
+18=Vrije ruimte:
+19=Eerste sector:
+20=Sectors per cluster:
+21=Clustergrootte:
+22=Fysieke schijf:
+23=Status:
+24=Locatie:
+25=Grootte:
+26=Grootte op schijf:
+27=Gemaakt:
+28=Gewijzigd:
+29=Geopend:
+30=Attributen:
+31=Onbekend
+32=Partities tonen
+33=Partities verbergen
+34=Schijfruimte tonen
+35=Schijfruimte verbergen
+36=Sectoren tonen
+37=Sectoren verbergen
+38=Ga naar de eerste sector
+39=Ga naar sector
+40=Ga naar cluster
+41=Ga naar MFT-record
+42=Schijf %s
+43=Partities
+44=Partities niet gevonden
+45=Schijfruimte
+46=Bestandssectoren op station
+47=Sectoren niet gevonden
+48=Partitietabel:
+49=Master File Table [%d]
+50=Systeem
+51=Boot
+52=Tekst zoeken:
+53=Zoeken naar HEX-waarde
+54=Tekst zoeken
+55=Hoofdlettergevoelig
+56=Alleen gehele woorden
+57=Riching
+58=Omhoog
+59=Omlaag
+60=Sector %s van %s
+61=Tekst zoeken...
+62=Geen overeenkomsten gevonden!
+63=Mount pad:
+
+[s_Goto]
+0=Ga naar
+1=Ga
+2=Positie:
+3=Byte
+4=Sector
+5=Regel
+6=Hex-modus
+7=Absoluut offset
+8=Relatieve offset
+9=Byte: %s
+10=Sector: %s
+11=Van het begin: %s
+
+[s_PreviewMain]
+0=Tegen de klik in draaien
+1=180° draaien
+2=Met de klok mee draaien
+3=Beginnen
+4=Pauzeren
+5=Stoppen
+6=Verder
+7=Terug
+8=Volume: %s
+9=geen geluid
+10=Eerste pagina
+11=Laatste pagina
+12=Vorige pagina
+13=Volgende pagina
+14=Inzoomen
+15=Uitzoomen
+16=Passend in de paginabreedte
+17=Passend op pagina
+18=Klikken om te springen
+19=Klikken om te wisselen
+20=Bedrijfsnaam
+21=Bestandsbeschrijving
+22=Bestandsversie
+23=Interne naam
+24=Wettelijk auteursrecht
+25=Wettelijke handelsmerken
+26=Originele bestandsnaam
+27=Productnaam
+28=Productversie
+29=Opmerkingen
+30=Privé samenstelling
+31=Speciale samenstelling
+32=Het archiefbestand is verminkt<br>of wachtwoordbeveiligd
+33=Onjuist wachtwoord<br>of verminkt archiefbestand
+34=Het document is<br>wachtwoordbeveiligd
+35=Het bestand is wachtwoordbeveiligd
+36=Voer het wachtwoord in
+37=Wachtwoord invoeren
+38=Onjuist wachtwoord!
+39=Items: %s
+40=, grootte: %s
+41=Eigendom
+42=Waarde
+43=Van
+44=Tot
+45=Thema
+46=Van:
+47=Tot:
+48=Thema:
+49=Boodschap: %s
+50=%s, %s
+51=Bijlage naar een bestand opslaan
+52=Alle bijlagen opslaan
+53=TBN-bestanden bevatten geen volledige berichten, maar alleen berichtenkoppen
+54=Item: %s
+55=Totaal: %s
+56=E-mailadressen:
+57=Telefoonnummers:
+58=Werkadres:
+59=Huisadres:
+60=Websites:
+61=Opmerkingen:
+
+[s_PreviewDetails]
+0=Algemeen
+1=Inhoud
+2=Bron
+3=Image
+4=Document
+5=Titel
+6=Auteur
+7=Bedrijf
+8=Manager
+9=Appnaam
+10=Sjabloon
+11=Pagina's
+12=Regels
+13=Tekens
+14=Gemaakt
+15=Laatst opgeslagen
+16=Laatst afgedrukt
+17=Laatste auteur
+18=Aantal vellen
+19=Velnaam
+20=Rijen
+21=Kolommen
+22=Tekenset
+23=Beschrijving
+24=Sleutelwoorden
+25=Afmetingen
+26=Breedte
+27=Hoogte
+28=%d pixels
+
+[s_Properties]
+0=Eigenschappen: %s
+1=Algemeen
+2=Type:
+3=Gebruikte ruimte:
+4=Onbekend
+5=Vrije ruimte:
+6=Status:
+7=Bestandssysteem:
+8=Locatie:
+9=Grootte:
+10=Grootte op schijf:
+11=Gemaakt:
+12=Gewijzigd:
+13=Geopend:
+14=Attributen:
+15=Eerste sector:
+16=Aantal sectoren:
+17=Sectors per cluster:
+18=Bytes per sector:
+19=Clustergrootte:
+20=Volumes:
+21=Volume
+22=Capaciteit
+23=Verwijderd (Prognose: %s)
+24=Serienummer:
+25=Systeemeigenschappen
+26=Operating systeem:
+27=Computernaam:
+28=Gebruikersnaam:
+29=Volumes:
+30=Fysieke schijven:
+31=Volumes
+32=Fysieke schijven
+33=Schijf
+34=Bestandsgrootte wijzigen
+35=Data-streams
+36=Geen alternatieve data-streams gevonden
+37=MFT-systeemattributen tonen
+38=Opslaan naar bestand
+39=De geselecteerde stream opslaan naar bestand
+40=Gegevensbestanden (DAT)|*.dat|Alle bestanden|*.*
+41=ID
+42=Naam
+43=Grootte
+44=Type
+45=Data-streams zijn naar bestand opgeslagen...
+46=Data-streams zijn met succes naar bestand opgeslagen.
+47=Systeem
+48=Fysieke schijf
+49=Kan schijfeigenschappen niet wijzigen. Stop eerst het analyseproces!
+50=Details
+51=Eigendom
+52=Waarde
+53=Bestand
+54=Naam
+55=Itemtype
+56=Mappenpad
+57=Gemaakt
+58=Gewijzigd
+59=Grootte
+60=Sectoren in blok:
+61=Blokgrootte:
+62=RAID-eigenschappen: %s
+
+[s_Registration]
+0=Het programma registreren
+1=Het programma online kopen
+2=Registratienaam:
+3=Registratiesleutel:
+4=Geregistreerd voor: %s
+5=Niet-geregistreerde versie
+6=Alleen in de geregistreerde versie!
+7=Het programma kan gemakkelijk verkregen worden: u kunt binnen enkele minuten het product kopen en registreren zonder uw computer te verlaten.
+8=Als geregistreerd gebruiker kunt u niet alleen bestanden van elke grootte en elk type herstellen, maar ook snelle gebruikersondersteuning krijgen.
+9=Voer de registratienaam en -sleutel in die u bij de aankoop hebt gekregen en klik op "%s".
+10=Voer de registratienaam in.
+11=Voer de registratiesleutel in.
+12=Bedankt voor het gebruiken van %s!
+13=Het programma is nu geregistreerd voor: %s
+14=De registratiegegevens zijn onjuist!
+15=Als u problemen hebt met de registratie, schrijf dan naar %s
+16=Nog %d dagen om te registreren
+17=Met uw licentie (%s) kunt u gegevens herstellen van RAID-arrays met maximaal %d schijven. De grootte van de RAID-array die u probeert te herstellen, overschrijdt deze beperking.
+18=Overweeg een andere editie om gegevens van deze RAID-array te herstellen.
+19=U probeert bestanden te herstellen vanaf een image van een virtuele machine. Uw licentie (%s) maakt het niet mogelijk om gegevens van virtuele machines te herstellen.
+20=Overweeg een andere tier-versie om deze gegevens te herstellen.
+21=Licentie online upgraden
+
+[s_Rename]
+0=Bestand hernoemen
+1=Map hernoemen
+2=Oude bestandsnaam:
+3=Nieuwe bestandsnaam:
+4=Oude mapnaam:
+5=Nieuwe mapnaam:
+6=Vervang alle onbekende symbolen in de bestandsnaam door
+
+[s_FileExists]
+0=Zo'n bestand bestaat al
+1=Geef de naam van het bestand.
+
+{Master Analyse Units}
+
+[MasterChooseDrive]
+0=Schijf kiezen
+1=Kies een schijf met verwijderde bestanden
+2=U kunt pas na het kiezen van een schijf naar de volgende stap!
+
+[MasterAnalyseType]
+0=Analysetype
+1=Kies het analysetype
+2=Geselecteerde schijf: %s
+3=U koos een fysieke schijf tijdens de laatste stap. Dat betekent dat u alleen deep analyse kunt gebruiken.
+4=Als u "normale scan" wilt gebruiken, ga dan terug en kies een andere schijf.
+5=Normale scan
+6=Deep analyse
+7=%s (aanbevolen)
+8=Met een normale scan kunt u verwijderde bestanden vinden door informatie te gebruiken die beschikbaar is in het bestandssysteem. Door deze optie te gebruiken kunt u informatie over uw bestanden herstellen (bestandsnaam, datum, attributen...)
+9=Door het gebruiken van de deep analyse zoekt het programma naar verwijderde bestanden op basis van handtekeningen (zoeken op bestandsinhoud). In dat geval kunt u GEEN bestandsinformatie herstellen (bestandsnaam, datum, attributen...)
+10=Snelle scan
+11=Volledige analyse
+12=Volledige analyse (zoeken naar beschikbare informatie)
+13=Deep analyse (zoeken op bestandsinhoud)
+14=Download %s om inactieve bestandssystemen te analyseren
+15=Downloaden van %s
+16=Door een volledige analyse zal het programma alle relevante informatie op een station vinden en een bestandssysteem herstellen. Daardoor worden alle relevante bestanden hersteld.
+17=Gebruik snelle scan om onlangs verwijderde bestanden te herstellen.
+18=Fysiek station geselecteerd voor analyse. In dat geval is alleen volledige analyse beschikbaar. Als u snelle scan wilt gebruiken, selecteer dan een ander station.
+
+[MasterFileTypes]
+0=Bestandstypes
+1=Kies de bestandstypes die u wilt herstellen
+2=Alle bestanden
+3=Filteren met gebruik van masker (gedeeltelijke of gehele bestandsnaam)
+4=Geselecteerde bestandstypes
+5=Archiefbestanden
+6=Audiobestanden
+7=Databases
+8=Documenten
+9=Afbeeldingen
+10=Videobestanden
+11=Andere bestandstypes
+12=U moet de bestandstypes die u wilt herstellen selecteren!
+
+[MasterFileOptions]
+0=Extra opties
+1=Geef de criteria voor het zoeken naar bestanden
+2=Alleen verwijderde bestanden
+3=Zoeken in verborgen bestanden
+4=Zoeken in systeembestanden
+5=Zoeken op grootte
+6=Klein (minder dan 100 kB)
+7=Middelmatig (minder dan 1 MB)
+8=Groot (meer dan 1 MB)
+9=Geef een grootte op (in kB)
+10=minstens
+11=hoogstens
+12=Zoeken op datum
+13=Gemaakt
+14=Gewijzigd
+15=Geopend
+16=Laatste week
+17=Laatste maand
+18=Laatste jaar
+19=Geef de datum op
+20=van
+21=tot
+
+[MasterReAnalyse]
+0=Analysemethode
+1=Kies de noodzakelijke actie
+2=Schijf %s is al geanalyseerd. Kies een actie:
+3=Opnieuw analyseren
+4=Eerder verkregen informatie gebruiken
+5=%s (aanbevolen)
+6=Door deze methode te gebruiken wordt de schijf opnieuw geanalyseerd. Dat zal even duren.
+7=In dat geval wordt de schijf niet opnieuw geanalyseerd. Informatie over eerder verkregen schijfinhoud wordt gebruikt bij het zoeken naar bestanden.
+8=Belangrijk! De gekozen schijf is niet volledig geanalyseerd. Het is aan te bevelen om opnieuw te analyseren.
+
+[MasterProgress]
+0=Analyse van bestandssysteem...
+1=Wacht tot de analyse is voltooid
+2=Totale grootte: %s
+3=Stations gevonden: %s
+4=Mappen gevonden: %s
+5=Bestanden gevonden: %s
+6=Verstreken tijd: %s
+7=Resterende tijd: %s
+8=Resterende tijd berekenen...
+9=Een bestandenlijst maken...
+
+{Master Recovery Units}
+
+[MasterRecoverType]
+0=Bestanden opslaan
+1=Kies een methode om de bestanden op te slaan
+2=Opslaan naar vaste schijf
+3=U kunt bestanden opslaan naar een vaste schijf, USB-stick of elke andere fysieke of verwijderbare schijf
+4=ZIP-archief maken
+5=U kunt alle herstelbare bestanden comprimeren in één ZIP-archief
+6=Uploaden via FTP
+7=Met de geïntegreerde FTP-client kunt u herstelde bestanden uploaden naar internet
+8=Mijn selectie onthouden
+
+[MasterFinish]
+0=Herstellen van bestanden is voltooid
+1=Klik op "%s" om de Wizard te sluiten of op "%s" om de herstelopties op te geven
+2=Na voltooiing de Wizard automatisch sluiten
+3=Map met herstelde bestanden openen
+
+[MasterRegistration]
+0=Het programma registreren
+1=Om met de Wizard verder te gaan moet u het programma kopen en uw registratiegegevens invoeren
+2=Het programma online kopen
+3=Registratienaam:
+4=Registratiesleutel:
+
+[MasterSaveOptions]
+0=Naar vaste schijf opslaan
+1=Geef de opties voor het opslaan van uw bestanden
+2=Pad:
+3=Alleen verwijderde bestanden herstellen
+4=Mappenstructuur herstellen
+5=Alternatieve data-streams terugzetten (NTFS)
+6=Alle onbekende symbolen vervangen door
+7=Kies een map om in op te slaan
+8=Herstelde bestanden
+9=Benodigde schijfruimte: %s
+10=Beschikbare ruimte op schijf: %s
+
+[MasterSaveProgress]
+0=Naar vaste schijf opslaan
+1=Wacht op bestanden om het opslaan te voltooien
+2=Herstellen...
+3=Bestand "%s" herstellen...
+4=Proces: %d%%
+
+[MasterZIPOptions]
+0=ZIP-archief maken
+1=Specificeer de opties om een archief te maken
+2=Bestandsnaam:
+3=Mappenstructuur herstellen
+4=Alle onbekende symbolen vervangen door
+5=Inpakmethode:
+6=Opslaan
+7=Snel
+8=Normaal
+9=Beste
+10=Archief opsplitsen
+11=Wachtwoord instellen
+12=ZIP-archieven
+13=Het bestand bestaat al. Wilt u het overschrijven?
+14=De bestansnaam is ongeldig
+
+[MasterZIPProgress]
+0=ZIP-archief maken
+1=Bestandenlijst maken...
+2=Archief comprimeren...
+3=Toegevoegde bestanden: %s
+4=Proces: %d%%
+
+[MasterFTPRecoveryOptions]
+0=Opslaan via FTP
+1=Opties instellen voor het opslaan van uw bestanden
+2=Alleen verwijderde bestanden herstellen
+3=Mappenstructuur herstellen
+4=Alle onbekende symbolen vervangen door
+
+[MasterFTPFiles]
+0=Opslaan via FTP
+1=De te herstellen bestanden selecteren
+2=Bestand "%s" bestaat al.
+3=Map "%s" bestaat al.
+4=Toegevoegd %s (bestanden: %s, mappen: %s)
+5=Er zijn geen bestanden geselecteerd om geschreven te worden.
+
+[MasterFTPOptions]
+0=Opslaan via FTP
+1=Voer de instellingen voor uw FTP-server in
+2=FTP-instellingen
+3=Server [:port]
+4=Passieve modus
+5=Gebruikersnaam:
+6=Wachtwoord:
+7=Wachtwoord onthouden
+8=Externe map:
+9=Proxy-server
+10=Proxy-server gebruiken
+11=Voer de naam van de server in.
+
+[MasterFTPClient]
+0=Opslaan via FTP
+1=Een map selecteren voor het opslaan van uw bestanden
+2=Vernieuwen
+3=Opslaan
+4=Nieuwe map
+5=Verwijderen
+6=Hernoemen
+7=Naam
+8=Grootte
+9=Datum
+10=Alle bestanden
+11=Map voor het opslaan van bestanden:
+12=U moet eerst een map kiezen waarin uw bestanden worden opgeslagen.
+13=Verbinden met %s...
+14=Verbinding gemaakt
+15=Fout bij het maken van een verbinding
+16=Verbinding onderbroken
+17=Gebruikersnaam en wachtwoord verzenden...
+18=Externe map openen...
+19=Fout bij het openen van de map
+20=Gegevens ontvangen
+21=Externe map lezen...
+22=Fout bij het lezen van de map
+23=Map "%s" maken...
+24=Map gemaakt
+25=Fout bij het maken van de map
+26=Bestand "%s" hernoemen...
+27=Map "%s" hernoemen...
+28=Bestand hernoemd
+29=Map hernoemd
+30=Kan het bestand niet hernoemen
+31=Kan map niet hernoemen
+32=Weet u zeker dat u het bestand "%s" wilt verwijderen?
+33=Bestand "%s" verwijderen...
+34=Bestand verwijderd
+35=Kan bestand niet verwijderen
+36=Weet u zeker dat u de geselecteerde bestanden wilt verwijderen?
+37=Kan bestanden niet verwijderen
+38=Weet u zeker dat u map "%s" en de gehele inhoud wilt verwijderen?
+39=Map "%s" verwijderen...
+40=Map verwijderd
+41=Kan map niet verwijderen
+42=Nieuwe map
+43=Naam van de nieuwe map:
+44=Bestand "%s" opslaan
+45=Een map kiezen om in op te slaan
+46=Bestand bestaat al. Overschrijven...
+47=Bestand bestaat al. Met een andere naam opslaan...
+48=Bestand bestaat al. Opslaan door de gebruiker geannuleerd
+49=Bestand bestaat al. Bestandsoverdracht door de gebruiker geannuleerd
+50=Opslaan voltooid
+51=Fout bij het opslaan van het bestand
+52=Bestand "%s" overdragen...
+53=Overdracht met succes voltooid
+54=Fout bij de bestandsoverdracht
+55=Bestandsoverdracht met succes voltooid
+56=Bestanden kunnen niet naar de server worden overgedragen
+57=Verbinding beëindigen...
+58=Verbinding beëindigd
+59=Fout bij het openen van map %s
+
+[MasterFTPFinalAction]
+0=Opslaan via FTP
+1=Wacht met voltooien van het opslaan op herstelde bestanden
+2=Klik op "%s" om de Wizard te sluiten of op "%s" om herstelopties op te geven
+3=Proces:
+4=Inloggen:
+5=Info
+6=Tijd
+7=Na geslaagde voltooiing automatisch sluiten

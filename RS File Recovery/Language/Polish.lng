@@ -1,0 +1,358 @@
+{Current Units}
+
+[Main]
+0=Rozszerzyć się
+1=Zwinąć
+2=Widok
+3=Wyniki wyszukiwania w "%s"
+4=Analiza:
+5=Ten folder jest pusty.
+6=Zmieńcie filtr, aby zobaczyć pliki: "%s" - "%s".
+7=Utworzony: %s
+8=Przemieszczenie: %s
+9=Foldery:
+10=Pliki:
+11=Typ: %s
+12=Rozmiar: %s
+13=Dysk nie analizowany.
+14=Aby rozpocząć analizę, kliknijcie na dysk po lewej stronie lub uruchomcie kreatora
+
+[Menu]
+0=Plik
+1=Master
+2=Otwórzcie kreator odzyskiwania plików
+3=Otworzyć
+4=Analiza ponownie
+5=Głęboka analiza
+6=Rozpoczęcie dogłębnej analizy
+7=Zatrzymanie analizy
+8=Zatrzymanie procesu analizy
+9=Odzyskiwanie
+10=Odzyskać usunięte pliki
+11=Znaleźć dyski
+12=Szukać utracone partycje
+13=Właściwości
+14=Wyjście
+15=Edycja
+16=Wybrać wszystko
+17=Odwróć wybór
+18=Wyszukiwanie
+19=Znaleźć plik
+20=Zatrzymać wyszukiwanie
+21=Zatrzymać wyszukiwanie plików
+22=Podgląd
+23=Paski narzędziowe
+24=Dodatkowy panel
+25=Obrazy dysku
+26=Podgląd
+27=Podgląd wybranych plików
+28=Lista odzyskiwania
+29=Pokazać listę odzysku
+30=Ukryć listę odzysku
+31=Pasek stanu
+32=Duże ikony
+33=Średnie ikony
+34=Lista
+35=Szczegóły
+36=Kafelki
+37=Sortować
+38=Rosnąco
+39=Malejąco
+40=Iść do
+41=Wstecz
+42=Wróć do "%s".
+43=Naprzód
+44=Naprzód do "%s".
+45=Ostatnie lokalizacje
+46=W górę na jeden poziom
+47=W górę do "%s".
+48=Filtr
+49=Pokazywać tylko usunięte pliki
+50=Język
+51=Serwis
+52=Zapisać dysk
+53=Stworzyć obraz dysku
+54=Zamontować dysk
+55=Otworzyć zapisany obraz dysku
+56=Zamknąć dysk
+57=Zamknąć obraz dysku
+58=Ustawienia programu
+59=Pomoc
+60=Dokumentacja
+61=Dokumentacja programu
+62=Rejestracja
+63=Rejestracja programu
+64=O programie %s
+65=Iść
+66=Iść do "%s"
+67=Dodać do odzyskania
+68=Odzyskać z listy
+69=Widok: %s
+70=Aktualizować
+71=Aktualizować "%s"
+72=Stworzyć dysk wirtualny
+73=HEX-redaktor
+74=Lista dysków
+75=Menedżer dysków
+76=Sprzężenie zwrotne
+77=Gdzie są moje pliki
+78=Wyświetlać istniejące pliki
+79=Wyświetlać usunięte pliki
+80=Otworzyć lokalizację folderu
+81=Otworzyć lokalizację pliku
+82=Widok w trybie pełnoekranowym
+83=Bardzo duże ikony
+
+[StatusBar]
+0=Analiza
+1=Analiza %s...
+2=Znaleziono %s plików i folderów
+3=Odzyskiwanie...
+4=Wyszukiwanie pliku...
+5=Szukanie pliku "%s"...
+6=Wyniki wyszukiwania
+7=Wyniki wyszukiwania "%s"
+8=Znaleziono %s plików i folderów
+9=Użytkownik:
+10=System operacyjny:
+11=Typ:
+12=Rozmiar całkowity:
+13=Wykorzystana przestrzeń:
+14=Wolna przestrzeń:
+15=Numer seryjny:
+16=System plików:
+17=Pierwszy sektor:
+18=Liczba sektorów:
+19=Bajt w sektorze:
+20=Zmieniony:
+21=Stworzony:
+22=Status:
+23=Istnieje
+24=Usunięty
+25=Prognoza:
+26=Możliwie
+27=Dobrze
+28=Źle
+29=Objektów:
+30=Wybrano celów: %s
+31=Rozmiar:
+35=Rozmiar:
+36=nie wiadome
+37=Przemieszczenie:
+38=Czasu pozostało:
+39=Naliczanie pozostałego czasu...
+40=Bardzo duże ikony
+41=Procesor:
+42=Zainstalowana pamięć fizyczna (RAM):
+43=Punkt montowania:
+
+[Message]
+0=Wyszukiwanie pliku "%s": nic nie znaleziono!
+1=Wynik wyszukiwania w %s
+2=Aby kontynuować, należy zatrzymać proces analizy aktualnego napędu. Zatrzymać analizę?
+3=Nie udało się znaleźć "%s". Sprawdźcie prawidłową ścieżkę.
+4=Rozpoczęta zostanie dogłębna analiza wybranego dysku. Za pomocą dogłębnej analizy program będzie szukał usuniętych plików po podpisach (wyszukiwanie według zawartości pliku). Operacja ta może trwać do kilku godzin (w zależności od wielkości dysku).
+5=Wybrany macierz RAID zawiera nieznane parametry. Do określenia tych parametrów należy użyć konstruktora RAID.
+
+[AnalyseProgress]
+0=Analiza systemu plików...
+1=Znaleziono %s plików i folderów
+
+[Preview]
+0=Podgląd
+1=Wyjść z widoku
+2=Ukryć panel podglądu
+3=Zmienić adres początku pliku
+
+[RecoveryList]
+0=Lista odzyskiwania
+1=Odzyskać
+2=Usunąć
+3=Wyczyść listę
+4=Menu
+5=Pokazać menu
+6=Ukryć menu
+7=Właściwości
+8=Podgląd
+9=Widok
+10=Widok: %s
+11=Duże ikony
+12=Średnie ikony
+13=Lista
+14=Szczegóły
+15=Kafelki
+16=Sortować
+17=Posortowane : %s
+18=Nazwa
+19=Typ
+20=Rozmiar
+21=Rosnąco
+22=Malejąco
+
+[FindFile]
+0=Wyszukiwanie pliku
+1=Więcej
+2=Mniej
+3=Część nazwy lub pełna nazwa pliku:
+4=Z uwzględnieniem registru
+5=Tylko całe słowo
+6=Szukać w ukrytych plikach
+7=Szukać w plikach systemowych
+8=Szukać według rozmiaru
+9=Mały (mniej niż 100 Kb)
+10=Średni (mniej niż 1 Mb)
+11=Duży (ponad 1 Mb)
+12=Rozmiar pokazu (w Kb)
+13=nie mniej
+14=nie więcej
+15=Szukać według daty
+16=Stworzony
+17=Zmieniony
+18=Otwarty
+19=Przez ostatni tydzień
+20=Za ostatni miesiąc
+21=Za ostatni rok
+22=Wpisać datę
+23=od
+24=do
+25=Wyszukiwanie w "%s"
+
+[DiskManager]
+0=Dysk %s
+1=Zamontowany dysk %d
+2=Nieprzydzielone
+
+[ProgramSettings]
+0=Ustawienia programu
+1=Główne
+2=Nie ostszegać przy zamykaniu
+3=Wyróznić szyfrowane i skompresowane pliki (NTFS)
+4=Dodać opcję "Odzyskaj usunięte pliki" do menu kontekstowego eksploratora Windows
+5=Master
+6=Wyświetlać kreatora podczas uruchamiania
+7=Pamiętać metody odzyskiwania
+8=Automatyczne zamykać po pomyślnym zakończeniu
+9=Podgląd
+10=Pokaż HEX w podglądzie
+
+[WhereFiles]
+0=Gdzie są moje pliki?
+1=Nie pokazywać w przyszłości
+2=Krok %d. %s
+3=Sprawdzicie foldery
+4=Okno wyszukiwania
+5=Najpierw otwórzcie folder, w którym znajdowały się pliki przed ich usunięciem. Tak jak w standardowym eksplaratorze Windows.
+6=Jeśli pierwszy krok nie powiedzie się, sprawdźcie katalog "%s". Tutejsze foldery nie mają nazw, ale nazwy plików zostały zapisane.
+7=Jeśli podczas analizy dysku wybrano opcję "%s", należy powtórzyć procedurę z pełną analizą (w celu znalezienia wszystkich możliwych informacji na dysku).
+8=Pliki znalezione w wyniku dogłębnej analizy znajdują się tutaj. Algorytm ten traci nazwy plików, ale znajduje wszelkie zapisane informacje.
+9=Możecie znaleźć potrzebny plik za pomocą wyszukiwarki. Tutaj można określić nazwę pliku, jego rozmiar, datę utworzenia lub inne znane informacje.
+10=Otworzyć "%s".
+11=Otworzyć pole wyszukiwania
+
+{Master Analyse Units}
+
+[Master]
+0=Kreator odzyskiwania plików
+
+[MasterWelcome]
+0=Witamy w Kreatorze odzyskiwania plików
+1=Naciśnijcie "%s", aby kontynuować.
+2=Kreator pomoże Wam odzyskać wszelkie usunięte pliki, w tym dokumenty, zdjęcia, muzykę mp3 i archiwa ZIP. Będziecie mogli odzyskać informacje z sformatowanych dysków i dysków uszkodzonych po atakach wirusów. Kreator pomoże Wam odzyskać dane z usuniętych dysków i plików usuniętych z Kosza lub bez niego.
+3=Wizard pomoże Wam odzyskać wszelkie informacje z uszkodzonych, usuniętych, sformatowanych lub podzielonych na części partycji. Podczas analizy program wydobędzie wszystkie pozostałe informacje i odzyska logiczną strukturę dysku. W ten sposób zostaną odnalezione wszystkie usunięte pliki i katalogi.
+4=Proces odzyskiwania jest bardzo prosty i dostępny dla każdego użytkownika, zarówno doświadczonego jak i początkującego. Wystarczy postępować zgodnie z instrukcjami kreatora.
+5=Wyświetlać kreatora podczas uruchamiania.
+
+[MasterAnalyseFinish]
+0=Analiza zakończona
+1=Naciśnijcie "%s", aby zamknąć kreator, lub "%s", aby wybrać inny napęd.
+2=Naciśnijcie "%s", aby zamknąć kreatora.
+3=Proces analizy jest zakończony!
+4=Znaleziono dysków: %s
+5=Znaleziono folderów: %s
+6=Znaleziono plików: %s
+
+[MasterResult]
+0=Wyniki analizy dysku
+1=Wybierzcie wymagane pliki do odzyskania
+2=Nazwa
+3=Typ
+4=Rozmiar
+5=Status
+6=Zmieniony
+7=Stworzony
+8=Sortować
+9=Posortowane : %s
+10=Rosnąco
+11=Malejąco
+12=Właściwości
+13=Analiza %s (znaleziono plików: %s)
+14=Wybrano plików: %s z %s (całkowita wielkość: %s)
+15=Nie wybrano żadnych plików do odzyskania!
+
+{Raid Units}
+
+[RaidWizard]
+0=Konstruktor RAID
+1=Proszę podać wszystkie parametry RAID
+2=%s w HEX Edytorze
+
+[RaidWelcome]
+0=Witamy w Konstruktor RAID
+1=Kliknijcie "%s", aby kontynuowa
+2=Wyświetlać kreator podczas uruchamiania
+
+[RaidAnalyseType]
+0=Określcie typ tworzenia macierzy RAID
+1=Wybierzcie sposób, w jaki chcecie dodać macierz RAID
+2=Tryb automatyczny
+3=To jest tryb w pełni automatyczny. Wystarczy określić dyski twarde, które składały się na macierz, a program automatycznie określi ich kolejność, typ macierzy i inne parametry. Zajmie to trochę czasu (w zależności od liczby dysków w tablicy).
+4=Wyszukiwanie według producenta
+5=Użyjcie tej opcji, jeśli znacie producenta waszego kontrolera RAID. Ta opcja jest również w pełni automatyczna i nie musicie posiadać żadnej wiedzy na temat struktury RAID. Ta opcja działa znacznie szybciej niż poprzednia.
+6=Tworzenie ręczne
+7=Użyjcie tej opcji, jeśli wiecie jakiego rodzaju RAID używacie. W tym przypadku możecie ręcznie określić wszystkie parametry RAID. Program pomoże Wam również automatycznie określić te parametry, których nie znacie. Ta opcja działa szybciej niż poprzednia.
+8=Macierzy zdefiniowane automatycznie
+9=Program ustalił, że niektóre z dysków twardych były poprzednio macierzami RAID. Jeśli widzicie wymaganą tablicę na poniższej liście, zaznaczcie ją i kliknijcie "%s", aby kontynuować.
+
+[RaidSelectDrives]
+0=Wybierzcie dyski RAID
+1=Określcie dyski, które składały się na macierz RAID
+2=Określcie liczbę dysków (łącznie z dyskami utraconymi):
+3=Wybierzcie dyski RAID:
+4=Wybrano więcej niż %s dyski. Proszę zmienić liczbę dysków.
+
+[RaidVendor]
+0=Określcie producenta RAID
+1=Określcie producenta kontrolera, na którym został utworzony macierz RAID
+
+[RaidManual]
+0=Wybierzcie parametry tablicy
+1=Zdefiniujcie typ RAID, dyski, które składają się na macierz RAID i inne parametry
+2=Wybrane dyski
+3=Dostępne dyski
+4=Dodajcie tu dyski RAID.
+5=Używać określonej kolejności dysków
+6=Automatycznie określić kolejność dysków
+7=Dodać pusty dysk
+8=Skasować dysk
+9=Otrzymany macierz RAID:
+10=Uaktualizować automatycznie
+11=Aktualizować
+
+[RaidProgress]
+0=Wyszukiwanie możliwych konfiguracji...
+1=Proszę poczekać, aż proces wyszukiwania w macierzy RAID zostanie zakończony
+2=Możecie zatrzymać bieżącą operację, jeśli zobaczycie wymagany RAID poniżej
+3=Znaleziono konfigurację: %s
+4=Znalezione konfiguracji:
+5=Partycje RAID:
+6=Właściwości RAID:
+7=Wybrać nieuszkodzone
+8=Konfiguracja %d
+9=Wszystkie konfiguracje
+
+[RaidResult]
+0=Wybierzcie konfigurację macierzy RAID
+1=Wybierzcie wymagane konfiguracje i kliknijcie "%s"
+2=Nie można znaleźć macierzy RAID w trybie automatycznym.
+3=Proszę korzystać z trybu ręcznego.
+4=Czy naprawdę chcecie zamknąć kreatora bez dodawania macierzy RAID?

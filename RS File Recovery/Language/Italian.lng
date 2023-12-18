@@ -1,0 +1,361 @@
+{Current Units}
+
+[Main]
+0=Espandi
+1=Raggruppa
+2=Visualizza
+3=Cerca risultati su "%s"
+4=Analisi:
+5=La cartella è vuota.
+6=Cambia filtro per vedere files: "%s" – "%s"
+7=Creato: %s
+8=Posizione: %s
+9=Cartelle:
+10=Files:
+11=Tipo: %s
+12=Dimensione: %s
+13=Questa unità non è stata analizzata.
+14=Per avviare l'analisi, premi sull'unità sul lato sinistro o esegui la procedura guidata
+
+[Menu]
+0=File
+1=Wizard
+2=Apri file recovery wizard
+3=Apri
+4=Analizza ancora
+5=Analisi Dettaglio
+6=Avvia processo analisi dettaglio
+7=Stop Analisi
+8=Stop processo analisi
+9=Recupero
+10=Recupera file persi
+11=Trova Partizioni
+12=Trova Partizioni Perse
+13=Proprietà
+14=Esci
+15=Modifica
+16=Seleziona Tutto
+17=Inverti Selezione
+18=Trova File
+19=Trova un file specifico
+20=Stop Ricerca
+21=Stop ricerca corrente
+22=Visualizza
+23=Toolbar
+24=Toolbar aggiuntiva
+25=Disco Immagini
+26=Anteprima
+27=Preview file selezionato
+28=Lista di Recupero
+29=Mostra Lista di recupero
+30=Nascondi Lista di recupero
+31=Dettagli
+32=Icone Grandi
+33=Icone Medie
+34=Lista
+35=Dettagli
+36=Piastrelle
+37=Ordina per
+38=Crescente
+39=Decrescente
+40=Vai a
+41=Indietro
+42=Torna a "%s"
+43=Avanti
+44=Vai a "%s"
+45=Posizioni recenti
+46=Livello superiore
+47=Fino a "%s"
+48=Filtro
+49=Mostra solo file cancellati
+50=Lingua
+51=Tools
+52=Salva Disco
+53=Crea disco immagine
+54=Collega Disco
+55=Apri disco immagine salvato
+56=Chiudi Disco
+57=Chiudi disco immagine
+58=Impostazioni programma
+59=Aiuto
+60=Documentazione
+61=Aiuto
+62=Registrazione
+63=Registrazione Programma
+64=Info su %s
+65=Vai
+66=Vai a "%s"
+67=Aggiungi per Recupero
+68=Recupera dalla Lista
+69=Visualizza: %s
+70=Aggiorna
+71=Aggiorna "%s"
+72=Crea disco virtuale
+73=HEX-editor
+74=Elenco dei dischi
+75=Drive Manager
+76=Feedback
+77=Dove sono i miei file
+78=Mostra files esistenti
+79=Mostra files cancellati
+80=Aprire la sistemazione della cartella
+81=Aprire la sistemazione del file
+82=Anteprima Schermo Intero
+83=Thumbnails
+
+[StatusBar]
+0=Analisi
+1=Analisi %s...
+2=%s file e cartelle trovate
+3=Recupero...
+4=Ricerca file...
+5=Ricerca file "%s"...
+6=Risultati ricerca
+7=Cerca risultati per "%s"
+8=%s file e cartelle trovate
+9=User:
+10=Sistema operativo:
+11=Tipo:
+12=Capacità diso:
+13=Spazio usato:
+14=Spazio libero:
+15=Serial number:
+16=File system:
+17=Primo settore:
+18=Conteggio settori:
+19=Bytes per settore:
+20=Modificato:
+21=Creato:
+22=Stato:
+23=Esiste
+24=Annullalato
+25=Prognosi:
+26=Probabile
+27=Buono
+28=Non Buono
+29=Files:
+30=Files selezionati: %s
+31=Dimensione:
+32=Peso totale:
+33=Usato:
+34=Libero:
+35=Dimensioni:
+36=sconosciuto
+37=Posizione:
+38=Tempo rimanente:
+39=Calcolo tempo rimanente...
+40=Thumbnails
+41=Processore:
+42=RAM installata:
+43=Punto di montaggio:
+
+[Message]
+0=Ricerca file "%s": Non Trovato!
+1=Risultati ricerca di %s
+2=Per continuare è necessario bloccare l'attuale processo di analisi. Fermare adesso?
+3=Non puoi andare in "%s". C'è forse un errore nel percorso.
+4=Questo avvierà l'analisi approfondita del disco selezionato. Usando l'analisi dettaglio il programma cercherà i files sulla base del contenuto. Il processo potrebbe impiegare parecchie ore (dipende dalla grandezza del disco).
+5=Il RAID selezionato contiene parametri sconosciuti. Usa RAID Constructor per definirli.
+
+[AnalyseProgress]
+0=Analisi File system...
+1=%s file e cartelle trovate
+
+[Preview]
+0=Anteprima
+1=Chiudi Anteprima
+2=Nascondi preview
+3=Cambia primo cluster del file
+
+[RecoveryList]
+0=Lista Recupero
+1=Recupero
+2=Cancella
+3=Cancella Lista
+4=Menu
+5=Mostra menu
+6=Nascondi menu
+7=Proprietà
+8=Anteprima
+9=Visualizza
+10=Vedi: %s
+11=Icone grandi
+12=Icone medie
+13=Lista
+14=Dettagli
+15=Piastrelle
+16=Ordina per
+17=Ordinato: %s
+18=Nome
+19=Tipo
+20=Peso
+21=Crescente
+22=Decrescente
+
+[FindFile]
+0=Trova File
+1=Avanzato
+2=Avanzato
+3=Parte del nome file o nome completo:
+4=Case sensitive
+5=Solo parole intere
+6=Cerca nei file Nascosti
+7=Cerca nei file di Sistema
+8=Cerca per dimensione
+9=Piccolo (meno di 100 KB)
+10=Non Grande (meno di 1 MB)
+11=Grande (maggiore di 1 MB)
+12=Specifica una dimensione (KB)
+13=al minimo
+14=al massimo
+15=Cerca per Data
+16=Creato
+17=Modificato
+18=Acceduto
+19=Ultima Settimana
+20=Ultimo mese
+21=Ultimo anno
+22=Specifica Data
+23=da
+24=a
+25=Cerca in "%s"
+
+[DiskManager]
+0=Disco %s
+1=Disco Collegato %d
+2=Non allocata
+
+[ProgramSettings]
+0=Impostazioni Programma
+1=Generale
+2=Non avvertire quando esegui la chiusura
+3=Mostra file compressi o criptati NTFS in colore
+4=Aggiungi l'opzione "Recupera file cancellati" al menu contestuale di Windows Explorer
+5=Wizard
+6=Mostra wizard all'avvio
+7=Ricorda metodo di recupero
+8=Chiudi automaticamente alla fine
+9=Anteprima
+10=Mostra HEX in anteprima
+
+[WhereFiles]
+0=Dove sono i miei file?
+1=Non mostrare in futuro
+2=%d. %s
+3=Cerca nelle tue cartelle
+4=Finestra di ricerca
+5=Innanzitutto, apri la cartella nella quale erano salvati i file prima di essere eliminati. Puoi procedere con lo stesso metodo che utilizzi in Windows Explorer.
+6=Se il primo passaggio non dovesse funzionare, controlla la cartella "%s". Le cartelle non sono nominate, in questa schermata, ma i nomi dei file sono stati salvati.
+7=Se per l'analisi del disco hai selezionato "%s", ripeti la procedura utilizzando l'analisi completa (per cercare tutte le possibili informazioni sul disco).
+8=I file trovati al termine di un'analisi dettagliata saranno visibili in questa schermata. Questo algoritmo provoca la cancellazione dei nomi dei file, ma permette di recuperare i dati.
+9=È possibile trovare i file usando il nostro strumento di ricerca. Puoi specificare il nome, le dimensioni, la data di creazione e tutti gli altri parametri conosciuti del file per trovare il file desiderato.
+10=Apri "%s"
+11=Apri la finestra di ricerca
+
+{Master Analyse Units}
+
+[Master]
+0=File Recovery Wizard
+
+[MasterWelcome]
+0=Benvenuto nel Recupero Guidato
+1=Clicca "%s" per proseguire
+2=Questa procedura ti aiuterà a recuperare tutti i files cancellati, inclusi documenti, foto, MP3 e archivi ZIP. Potrai recuperare informazioni da dischi formattati e dischi che sono corrotti a causa di virus. Il wizard ti consentirà di recuperare dischi e files che sono stati cancellati dal Cestino.
+3=Il Wizard ti guida a recuperare informazioni da partizioni corrotte, cancellate, corrotte o appena create. Durante l'analisi il programma estrae tutte le informazioni rilevanti e ripristina la struttura logica del disco. Come risultato, tutti I files cancellati e cataloghi verranno trovati.
+4=Il processo di recupero è estremamente semplice e accessibile a tutti, anche i meno esperti. Segui le istruzioni del wizard.
+5=Mostra wizard all'avvio
+
+[MasterAnalyseFinish]
+0=Analisi terminata
+1=Clicca "%s" per chiudere il Wizard o "%s" per selezionare un altro disco
+2=Clicca "%s" per chiudere il Wizard
+3=Analisi completata!
+4=Dischi trovati: %s
+5=Cartelle trovate: %s
+6=Files trovati: %s
+
+[MasterResult]
+0=Risultati analisi disco
+1=Scegli files che vuoi recuperare
+2=Nome
+3=Tipo
+4=Dimensione
+5=Stato
+6=Modificato
+7=Creato
+8=Ordina per
+9=Ordinato: %s
+10=Crescente
+11=Decrescente
+12=Proprieta
+13=Analisi di %s (files trovati: %s)
+14=Files selezionati: %s di %s (peso totale: %s)
+15=Nessun files è stato selezionato per il recupero!
+
+{Raid Units}
+
+[RaidWizard]
+0=RAID Constructor
+1=Specifica tutti i parametri RAID
+2=%s in HEX-Editor
+
+[RaidWelcome]
+0=Benvenuto in RAID Constructor
+1=Clicca "%s" per proseguire
+2=Mostra wizard all'avvio
+
+[RaidAnalyseType]
+0=Seleziona tipo costruttore
+1=Scegli la modalità per aggiungere la matrice RAID
+2=Modalità automatica
+3=Questa modalità è completamente automatica. Basta specificare i dischi rigidi che hanno creato la matrice e il programma determinerà automaticamente il loro ordine, il tipo di matrice e altri parametri. Ciò richiederà un certo tempo (a seconda del numero di dischi nella matrice).
+4=Cerca per produttore
+5=Usa questa opzione se conosci il produttore o il controllore RAID. Anche questa opzione è completamente automatica e non richiede alcuna conoscenza specifica riguardo la struttura della tua matrice RAID. Questa opzione funziona molto più velocemente della prima modalità.
+6=Modalità manuale
+7=Usa questa opzione se conosci il tipo di RAID che stai usando. In questa modalità è possibile specificare tutti i parametri RAID manualmente. Il programma ti aiuterà anche a determinare automaticamente tutti i parametri che potresti non conoscere. Questa opzione funziona più velocemente della modalità precedente.
+8=Matrici rilevate automaticamente
+9=Il programma ha riscontrato che alcuni dei tuoi dischi rigidi hanno fatto parte in precedenza di matrici RAID. Se vedi la matrice che ti interessa nella lista qui sotto, selezionala e poi clicca su "%s" per andare avanti.
+
+[RaidSelectDrives]
+0=Seleziona i dischi nella tua matrice RAID
+1=Specifica i dischi che facevano parte di RAID
+2=Specifica il numero di dischi (inclusi i dischi persi):
+3=Specifica i dischi RAID:
+4=Hai selezionato più di %s dischi. Modifica il numero dei dischi.
+
+[RaidVendor]
+0=Specifica il produttore RAID
+1=Specifica il produttore del controllore su cui è stata creata RAID
+
+[RaidManual]
+0=Specifica i parametri della matrice
+1=Specifica il tipo di RAID, i suoi dischi costitutivi e qualsiasi altro parametro
+2=Dischi selezionati
+3=Dischi disponibili
+4=Aggiungi i dischi RAID qui.
+5=Usa l'ordine del disco specificato
+6=Rileva l'ordine del disco automaticamente
+7=Aggiungi un disco vuoto
+8=Elimina disco
+9=La matrice RAID risultante:
+10=Aggiorna automaticamente
+11=Aggiorna
+
+[RaidProgress]
+0=In cerca di possibili configurazioni...
+1=Attendi il completamento della procedura di ricerca della RAID
+2=Puoi interrompere l'operazione in corso se vedi la RAID che stai cercando nella lista qui sotto
+3=Numero di configurazioni trovate: %s
+4=Configurazioni trovate:
+5=Partizioni RAID:
+6=Proprietà RAID:
+7=Seleziona i non danneggiati
+8=Configurazione %d
+9=Tutte le configurazioni
+
+[RaidResult]
+0=Seleziona le configurazioni RAID
+1=Seleziona le configurazioni prescelte e clicca su "%s"
+2=Impossibile riconoscere automaticamente alcuna matrice RAID.
+3=Usa la modalità manuale.
+4=Sei sicuro di voler chiudere la procedura guidata senza aver aggiunto alcuna matrice RAID?

@@ -1,0 +1,831 @@
+{Engine Units}
+
+[e_General]
+0=bytes
+1=KB
+2=MB
+3=GB
+4=TB
+5=Datei
+6=Ordner
+7=Datei "%s"
+8=Ordner %s
+9=Desktop
+10=Ordner
+11=Dokumente
+12=Bilder
+13=Musik
+14=Videos
+15=Computer
+16=Papierkorb
+17=Verloren und gefunden
+18=Tiefe Analyse
+19=Systemdaten
+20=Dateiliste wird erstellt...
+21=Ja
+22=Nein
+
+[e_Drives]
+0=Festplatten
+1=Physikalische Laufwerke
+2=Gefundene Laufwerke
+3=Gemountete Laufwerke
+4=Gerät mit Wechselmedien
+5=Diskette
+6=Lokale Festplatte
+7=Wechseldatenträger
+8=Gemountetes Laufwerk
+9=Physikalisches Laufwerk
+10=Physikalischer Wechseldatenträger
+11=Gemountetes physikalisches Laufwerk
+12=Unbekannt
+13=Virtuelles Laufwerk
+14=%s-Partition
+15=%s-Partition %s
+16=Lokale Festplatte %d
+17=Wechseldatenträger %d
+18=Physikalisches Laufwerk %d
+19=Virtuelles Laufwerk %d
+20=Partition %d
+21=Laufwerk %s
+22=%s Laufwerk %s
+23=Nicht zugewiesener Bereich %d
+24=LDM-Datenpartition
+25=Gesamtgröße: %s
+26=Frei: %s
+27=Dateisystem: %s
+28=Frei
+29=Dateisystem
+30=Bibliothek
+31=Verknüpfung
+32=Systemdatenträger %d
+33=Startpartition
+34=Primäre Partition
+35=Logisches Laufwerk
+36=EFI-Systempartition
+37=OEM-Partition
+38=APFS-Container
+39=APFS-Container %d
+40=APFS-Container %d (%s)
+41=keine Bände
+42=%d Festplatten
+43=Größe: %s
+44=Linux-LVM-Festplatten
+
+[e_Raid]
+0=RAID-Arrays
+1=RAID-Volumes
+2=RAID-Array
+3=RAID-Array %d
+4=RAID-Partition
+5=JBOD-Festplatte
+6=JBOD-Festplatte %d
+7=JBOD-Partition
+8=Keine
+9=Unbekannt
+10=Automatisch erkennen
+11=Status: %s
+12=OK
+13=wiederherstellbar
+14=beschädigt
+15=Größe: %s, Dateien im Stammverzeichnis: %s
+16=Leere Festplatte
+17=RAID-Typ:
+18=Blockreihenfolge:
+19=Block Größe:
+20=Festplatten in Gruppe:
+21=Paritätsgruppen-Offset:
+22=Paritätszahl drehen:
+23=Status:
+24=RAID-Festplatten:
+25=Seriennummer
+26=Offset
+27=Ändern Sie die Offset/Größe
+28=Nach oben
+29=Nach unten
+30=RAID-Konstruktor
+31=Bytereihenfolge:
+32=Standard
+33=4-Byte-Umkehrung
+
+[e_Files]
+0=Ist vorhanden
+1=Wurde gelöscht
+2=Möglich
+3=Gut
+4=Schlecht
+5=Nur lesen
+6=Versteckt
+7=System
+8=Archiv
+9=Komprimiert
+10=Verschlüsselt
+11=Name
+12=Typ
+13=Größe
+14=Status
+15=Bearbeitet
+16=Erstellt
+
+[e_Controls]
+0=OK
+1=Abbrechen
+2=Hilfe
+3=Speichern
+4=Alle speichern
+5=Ersetzen
+6=Alle ersetzen
+7=Überspringen
+8=Alle überspringen
+9=Umbenennen
+10=Alle umbenennen
+11=Schließen
+12=Stopp
+13=Erstellen
+14=Zurücksetzen
+15=Suchen
+16=Beenden
+17=Zurück
+18=Weiter
+19=Fertig
+20=Registrierung
+21=Wiederherst
+22=Aufzeichnen
+23=Speichern
+24=Auswählen
+25=Auswahl aufheben
+26=Auswahl umkehren
+27=Alles auswählen
+28=Alles löschen
+29=Alles erweitern
+30=Alles verbergen
+31=Übernehmen
+32=Optionen
+33=Ordner hinzufügen
+34=Festplatte schließen
+35=Hinzufügen
+36=Eigenschaften
+37=Fortsetzen
+38=Alle fortsetzen
+
+[e_Message]
+0=Das Dateisystem kann nicht analysiert werden!
+1=Laufwerk %s ist nicht bereit! Wiederholen?
+2=Es wird nicht empfohlen, Daten auf dem Laufwerk zu speichern, auf dem sich die Daten zum Wiederherstellen befinden!
+3=Wollen Sie fortfahren?
+4=Möchten Sie den laufenden Vorgang wirklich abbrechen?
+5=Schnell-Scanvorgang abgeschlossen. Wenn das benötigte Laufwerk nicht gefunden wurde, wird der Voll-Scanvorgang gestartet (dies kann einige Stunden dauern).
+6=Möchten Sie Voll-Scan wirklich starten?
+7=System kann nicht analysiert werden! Sie benötigen volle Administratorrechte!
+8=Datei "%s" beschädigt!
+9=Sie müssen das Programm neu starten, um fortzufahren. Jetzt neu starten?
+10=Sie können keine Symbole %s in Dateinamen verwenden!
+11=Möchten Sie "%s" wirklich schließen?
+12=Möchten Sie die ausgewählten Laufwerke wirklich schließen?
+13=Wollen Sie wirklich die Datei "%s" als Disc-Image anbinden?
+14=Wollen Sie wirklich markierte Dateien als Disc-Images anbinden?
+15=Die Datei "%s" ist bereits geöffnet!
+16=Möchten Sie das Programm wirklich beenden?
+17=Nicht nochmal nachfragen
+18=Die ausgewählte Festplatte unterstützt Dateien ab 4 GB nicht. Eine der wiederherzustellenden Dateien ist zu groß.
+19=Laden Sie bitte %s für die Arbeit mit RAID-Arrays herunter
+20=Das Programm herunterladen
+
+{Shared Units}
+
+[s_About]
+0=Über %s
+1=(Lizenz ändern)
+2=Programmversion: %s
+
+[s_Community]
+0=Unsere Gemeinschaft
+1=Schließen Sie sich uns bei sozialen Netzwerken an
+2=%s-Gemeinschaft
+3=Tausende zufriedener Kunden nutzen unsere Software.<br>Treten Sie unserer Gemeinschaft bei!
+4=Gefällt Ihnen das Resultat?<br>Erzählen Sie Freunden von uns.
+5=Mir ist es gelungen, die gelöschten Dateien mithilfe von %s wiederherzustellen!
+6=Ich habe die Dateien mit dem Programm %s wiederhergestellt.
+7=Das Programm %s hat mir geholfen, wichtige Informationen auf meinem Computer wiederherzustellen!
+
+[s_ChangeFirstCluster]
+0=Beginne mit Datei "%s"
+1=In dieser Sitzung nicht zeigen
+2=Datei-Beginn
+3=Dateiinhalt
+
+[s_SaveAnalysisInfo]
+0=Analyseinformationen speichern
+1=Analyseinformationen laden
+2=Analyseinformationen der Daten|*.dai
+3=Analyseinformationen der Daten|*.dai|Alle Dateien|*.*
+4=Speichern der Analyseinformationen...
+5=Laden der Analyseinformationen...
+6=Die Analyseinformationen der folgenden Festplatten wurden erfolgreich gespeichert:
+7=Speichern der Analyseinformationen fehlgeschlagen.
+8=Analyseinformationen wurden erfolgreich geladen.
+9=Die folgenden Festplatten wurden aktualisiert:
+10=Laden der Analyseinformationen fehlgeschlagen.
+11=Falsche Dateiversion.
+12=Hinzugefügte Dateien und Ordner: %s
+
+[s_MountDisk]
+0=Laufwerk mounten
+1=Image-Typ des Datenträgers
+2=Wählen Sie einen einzubindenden Datenträgertyp
+3=RAW-Bilder
+4=Virtuelle Maschinen
+5=%s Bilder
+6=Wählen Sie den Ordner mit der virtuellen Maschine aus
+7=Image-Dateien
+8=Alle Dateien
+9=Datenträger für virtuelle Maschinen
+10=Wählen Sie ein einzubindendes Datenträger
+11=Dateien nicht gefunden
+12=Datei
+13=Snapshot
+14=Größe
+15=Erstellt
+16=Beschreibung
+17=Snapshot #%d
+18=Aktiv
+19=Um virtuelle Maschinen zu mounten, laden Sie %s herunter
+
+[s_SaveImage]
+0=Image-Datei erstellen
+1=Speicheroptionen
+2=Speicheroptionen für Ihr Laufwerk festlegen
+3=Name
+4=Typ
+5=Offset (Sektoren)
+6=Größe
+7=Ausgewähltes Laufwerk: %s
+8=Auf dem gewählten Laufwerk steht nicht genügend freier Speicherplatz zum Speichern der Image-Datei zur Verfügung!
+9=Bitte geben Sie ein anderes Laufwerk an.
+10=Datei "%s" speichern...
+11=Fertig!
+
+[s_CreateVirtual]
+0=Erstellung eines virtuellen Laufwerks
+1=Auswahl des Laufwerks
+2=Größe
+
+[s_DiskSize]
+0=Vollständig
+1=Teilweise
+2=Von
+3=Größe
+4=Sektoren
+5=Bytes
+6=KB
+7=MB
+8=GB
+9=TB
+
+[s_FindPartitions]
+0=Verlorene Partitionen finden
+1=Größe
+2=Systemtyp
+3=Auswahl des Laufwerks
+4=Name
+5=System
+6=Start
+7=Größe
+
+[s_HexViewer]
+0=HEX-Editor
+1=Kodierung
+2=Informationen anzeigen
+3=Informationen ausblenden
+4=Text oder Bedeutung finden
+5=Rechner
+6=Inhalt
+7=Sektor:
+8=%s von %s
+9=Auswahl:
+10=Größe der Auswahl:
+11=Name:
+12=Seriennummer:
+13=Laufwerkgröße:
+14=Sectoren-Anzahl:
+15=Bytes pro Sektor:
+16=Dateisystem:
+17=Belegt:
+18=Frei:
+19=Erster Sektor:
+20=Sektoren pro Cluster:
+21=Cluster-Größe:
+22=Physikalisches Laufwerk:
+23=Status:
+24=Ort:
+25=Größe:
+26=Auf Datenträger:
+27=Erstellt:
+28=Bearbeitet:
+29=Letzter Zugriff:
+30=Attribute:
+31=Unbekannt
+32=Partitionen anzeigen
+33=Partitionen ausblenden
+34=Laufwerksbereiche anzeigen
+35=Laufwerksbereiche ausblenden
+36=Sektoren anzeigen
+37=Sektoren ausblenden
+38=Zum ersten Sektor des Laufwerks wechseln
+39=Wechseln zu Sektor
+40=Wechseln zu Cluster
+41=Wechseln zu MFT-Datensatz
+42=Laufwerk %s
+43=Partitionen
+44=Partitionen nicht gefunden
+45=Laufwerksbereiche
+46=Dateisektoren auf dem Laufwerk
+47=Sektoren nicht gefunden
+48=Partitionstabelle:
+49=MFT [%d]
+50=System
+51=Startpartition
+52=Suchtext:
+53=Suche nach HEX-Wert
+54=Suche nach Text
+55=Groß-/Kleinschreibung beachten
+56=Ganzes Wort
+57=Richtung
+58=Nach oben
+59=Nach unten
+60=Sektor %s von %s
+61=Textsuche...
+62=Nichts gefunden!
+63=Mount-Pfad:
+
+[s_Goto]
+0=Überspringen zu
+1=Überspringen
+2=Position:
+3=Byte
+4=Sektor
+5=Zeile
+6=Hex-Modus
+7=Absoluter Versatz
+8=Relativer Versatz
+9=Byte: %s
+10=Sektor: %s
+11=Vom Anfang: %s
+
+[s_PreviewMain]
+0=90° gegen Uhrzeigesinn drehen
+1=180° Drehung
+2=90° im Uhrzeigersinn drehen
+3=Start
+4=Pause
+5=Stopp
+6=Rückwärts
+7=Vorwärts
+8=Lautstärke: %s
+9=Stumm
+10=Erste Seite
+11=Letzte Seite
+12=Vorherige Seite
+13=Nächste Seite
+14=Vergrößern
+15=Verkleinern
+16=Seitenbreite
+17=Ganze Seite
+18=Zum schnellen Wechsel drücken
+19=Zum Ändern drücken
+20=Firmenname
+21=Dateibeschreibung
+22=Dateiversion
+23=Interner Name
+24=Copyright
+25=Trade Mark
+26=Originaldateiname
+27=Produktname
+28=Produktversion
+29=Kommentare
+30=Privater Modus
+31=Spezieller Modus
+32=Archiv beschädigt oder<br>durch Passwort geschützt
+33=Falsches Passwort<br>oder Archiv beschädigt
+34=Dokument durch<br>Passwort geschützt
+35=Datei durch Passwort geschützt
+36=Bitte Passwort eingeben:
+37=Passwort eingeben
+38=Falsches Passwort
+39=Anzahl Objekte: %s
+40=, größe: %s
+41=Eigenschaft
+42=Bedeutung
+43=Von
+44=An
+45=Betreff
+46=Von:
+47=An:
+48=Betreff:
+49=E-Mail: %s
+50=%s, %s
+51=Anhang speichern unter
+52=Alle Anhänge speichern
+53=TBN-Dateien enthalten nur Header, keinen Text
+54=Artikel: %s
+55=Gesamt: %s
+56=E-Mail-Adressen:
+57=Telefonnummern:
+58=Adresse (geschäftlich):
+59=Adresse (privat):
+60=Websites:
+61=Anmerkungen:
+
+[s_PreviewDetails]
+0=Allgemein
+1=Inhalt
+2=Quelle
+3=Bild
+4=Dokument
+5=Titel
+6=Autor
+7=Unternehmen
+8=Manager
+9=App-Name
+10=Vorlage
+11=Seiten
+12=Zeilen
+13=Zeichen
+14=Erstellt
+15=Zuletzt gespeichert
+16=Zuletzt ausgedruck
+17=Letzter Autor
+18=Seitenanzahl
+19=Seitenbezeichnung
+20=Reihen
+21=Spalten
+22=Zeichensatz
+23=Beschreibung
+24=Keywords
+25=Abmessungen
+26=Breite
+27=Höhe
+28=%d Pixel
+
+[s_Properties]
+0=Eigenschaften: %s
+1=Allgemein
+2=Typ:
+3=Belegt:
+4=Unbekannt
+5=Frei:
+6=Status:
+7=Dateisystem:
+8=Ort:
+9=Größe:
+10=Auf Datenträger:
+11=Erstellt:
+12=Bearbeitet:
+13=Letzter Zugriff:
+14=Attribute:
+15=Erster Sektor:
+16=Sectoren-Anzahl:
+17=Sektoren pro Cluster:
+18=Bytes pro Sektor:
+19=Cluster-Größe:
+20=Volumes:
+21=Volume
+22=Kapazität
+23=Gelöscht (Prognose: %s)
+24=Seriennummer:
+25=Systemeigenschaften
+26=Betriebssystem:
+27=Computer:
+28=Benutzer:
+29=Volumes:
+30=Physikalische Laufwerke:
+31=Volumes
+32=Physikalische Laufwerke
+33=Laufwerk
+34=Dateigröße ändern
+35=Datenströme
+36=Keine alternativen Datenströme gefunden
+37=MFT Systemattribute anzeigen
+38=In Datei speichern
+39=Ausgewählten Datenstrom in Datei speichern
+40=Datendateien (DAT)|*.dat|Alle Dateien|*.*
+41=ID
+42=Name
+43=Größe
+44=Typ
+45=Speichern des Datenstroms in Datei...
+46=Datenstorm erfolgreich in einer Datei gespeichert.
+47=System
+48=Physikalisches Laufwerk
+49=Die Eigenschaften des Laufwerks können nicht geändert werden. Beenden Sie zuerst den Analysevorgang!
+50=Details
+51=Eigenschaft
+52=Wert
+53=Datei
+54=Name
+55=Elementtyp
+56=Ordnerpfad
+57=Erstelldatum
+58=Änderungsdatum
+59=Größe
+60=Sektoren im Block:
+61=Block Größe:
+62=RAID-Eigenschaften: %s
+
+[s_Registration]
+0=Programmregistrierung
+1=Programm online erwerben
+2=Registrierungsname:
+3=Registrierungsschlüssel:
+4=Registriert auf: %s
+5=Unregistrierte Version
+6=Nur in Vollversion!
+7=Der Erwerb der Software ist ganz einfach: Sie können das Programm innerhalb weniger Minuten direkt am PC kaufen und registrieren.
+8=Als registrierter Benutzer erhalten Sie nicht nur die Möglichkeit, Dateien jeder Art und Größe wiederherzustellen, sondern haben auch Prioritätszugang zu unserem Kundensupport.
+9=Geben Sie den Registrierungsnamen und den Schlüssel ein, die Sie beim Kauf erhalten haben, und klicken Sie auf die Schaltfläche "%s".
+10=Bitte einen Benutzernamen angeben!
+11=Bitte einen Schlüssel angeben!
+12=Danke für den Einsatz von %s!
+13=Das Programm wurde registriert auf: %s
+14=Falsche oder fehlende Registrierungsinformationen!
+15=Schreiben Sie bei Problemen und/oder Fragen zur Registrierung bitte an %s
+16=Tage für die Registrierung: %d
+17=Ihre Lizenz (%s) erlaubt Ihnen die Wiederherstellung von Informationen aus RAID-Arrays mit einer maximalen Kapazität von %d Festplatten.
+18=Um Daten aus einem ausgewählten Array wiederherzustellen, erwerben Sie bitte eine weitere Lizenz.
+19=Sie versuchen, Dateien von einem Image einer virtuellen Maschine wiederherzustellen. Ihre Lizenz (%s) erlaubt keine Wiederherstellung von Daten aus virtuellen Maschinen.
+20=Um diese Daten wiederherzustellen, erwerben Sie bitte eine weitere Lizenz.
+21=Lizenz online erneuern
+
+[s_Rename]
+0=Datei umbenennen
+1=Ordner umbenennen
+2=Alter Dateiname:
+3=Neuer Dateiname:
+4=Alter Ordnername:
+5=Neuer Ordnername:
+6=Alle unbekannten Symbole ersetzen mit:
+
+[s_FileExists]
+0=Die Datei existiert bereits
+1=Bitte geben Sie den Dateinamen ein!
+
+{Master Analyse Units}
+
+[MasterChooseDrive]
+0=Auswahl des Laufwerks
+1=Wählen Sie das Laufwerk mit den gelöschten Dateien
+2=Sie müssen ein Laufwerk wählen, bevor Sie zum nächsten Schritt übergehen!
+
+[MasterAnalyseType]
+0=Art der Analyse
+1=Wählen Sie die gewünschte Art der Analyse
+2=Gewähltes Laufwerk: %s
+3=Sie haben im vorhergehenden Schritt ein physikalisches Laufwerk gewählt. In diesem Fall müssen Sie die tiefe Analyse verwenden.
+4=Wenn Sie "Normales Scannen" verwenden möchten, kehren Sie zurück und wählen Sie ein anderes Laufwerk.
+5=Normales Scannen
+6=Tiefe Analyse
+7=%s (wird empfohlen)
+8=Normales Scannen erlaubt Ihnen, gelöschte Dateien  anhand existierender Informationen im Dateisystem zu finden. Mithilfe dieser Option   können Sie alle Informationen über Ihre Dateien (Dateiname, Datum, Attribute...) wiederherstellen
+9=Wenn Sie die tiefe Analyse anwenden, sucht das Programm gelöschte Dateien anhand ihrer Signaturen (Suche nach Dateiinhalten). In diesem Fall können Sie KEINE Informationen über Ihre Dateien (Dateiname, Datum, Attribute...) wiederherstellen
+10=Schneller Scan
+11=Vollständige Analyse
+12=Vollständige Analyse (Suche aller verfügbaren Daten)
+13=Tiefe Analyse (Suche anhand von Dateiinhalten)
+14=Laden Sie %s herunter, um inaktive Dateisysteme zu analysieren
+15=Laden von %s
+16=Bei der vollständigen Analyse findet das Programm alle Daten auf dem Datenträger und stellt das Dateisystem wieder her. Als Ergebnis werden alle noch verfügbaren Dateien wiederhergestellt.
+17=Nutzen Sie den schnellen Scan, um kürzlich gelöschte Dateien wiederherzustellen.
+18=Für die Analyse wurde ein physikalisches Laufwerk gewählt. In diesem Fall müssen Sie die vollständige Analyse verwenden. Wenn Sie einen schnellen Scan ausführen möchten, müssen Sie ein anderes Laufwerk wählen.
+
+[MasterFileTypes]
+0=Dateitypen
+1=Geben Sie die zu wiederherstellenden Dateitypen an
+2=Alle Dateien
+3=Anhand einer Maske filtern (Fragment des Dateinamens oder ganzer Name)
+4=Gewählte Dateiarten
+5=Archive
+6=Audiodateien
+7=Datenbanken
+8=Dokumente
+9=Bilddateien
+10=Videodateien
+11=Sonstige Dateitypen
+12=Sie müssen die gewünschten Dateitypen angeben!
+
+[MasterFileOptions]
+0=Zusätzliche Optionen
+1=Bestimmen Sie die Kriterien der Dateisuche
+2=Nur gelöschte Dateien
+3=In versteckten Dateien suchen
+4=Systemdateien durchsuchen
+5=Über Größe suchen
+6=Klein (weniger als 100 KB)
+7=Mittel (weniger als 1 MB)
+8=Groß (über 1 MB)
+9=Benutzerdefiniert (in KB)
+10=wenigstens
+11=höchstens
+12=Über Datum suchen
+13=Erstellt
+14=Bearbeitet
+15=Letzter Zugriff
+16=Letzte Woche
+17=Letzter Monat
+18=Letztes Jahr
+19=Benutzerdefiniert
+20=von
+21=bis
+
+[MasterReAnalyse]
+0=Methode der Analyse
+1=Wählen Sie die gewünschte Operation
+2=Laufwerk %s wurde bereits analysiert. Bitte wählen Sie die gewünschte Operation:
+3=Erneut analysieren
+4=Gewonnene Informationen verwenden
+5=%s (wird empfohlen)
+6=Anhand dieser Methode wird das Laufwerk erneut analysiert. Das wird einige Zeit in Anspruch nehmen.
+7=In diesem Fall wird das Laufwerk nicht wieder analysiert. Für die Dateisuche werden die bereits gewonnenen Informationen zum Laufwerksinhalt verwendet.
+8=Achtung! Das gewählte Laufwerk wurde nicht vollständig analysiert. Es wird empfohlen, es erneut zu analysieren.
+
+[MasterProgress]
+0=Analyse des Dateisystems...
+1=Warten Sie, bis der Datenträger vollständig analysiert wurde
+2=Gesamtgröße: %s
+3=Gefundene Datenträger: %s
+4=Gefundene Verzeichnisse: %s
+5=Gefundene Dateien: %s
+6=Zeit vergangen: %s
+7=Zeit übrig: %s
+8=Berechnung der restlichen Zeit...
+9=Erstellung einer Liste aller Dateien...
+
+{Master Recovery Units}
+
+[MasterRecoverType]
+0=Speichern von Dateien
+1=Wählen Sie die Methode der Dateispeicherung
+2=Speichern auf der Festplatte
+3=Sie können die Dateien auf der Festplatte, auf einem USB-Datenträger oder einem anderen physikalischen Laufwerk oder Wechseldatenträger speichern
+4=ZIP-Archiv erstellen
+5=Sie können alle wiederherstellbaren Dateien in ein ZIP-Archiv komprimieren
+6=Über FTP hochladen
+7=Der integrierte FTP-Client ermöglicht das Hochladen wiederhergestellter Dateien ins Internet
+8=Auswahl speichern
+
+[MasterFinish]
+0=Wiederherstellung von Dateien abgeschlossen
+1=Klicken Sie auf "%s", um den Assistenten zu beenden, oder auf "%s", um die Wiederherstellungsparameter zu ändern
+2=Assistenten nach Abschluss automatisch beenden
+3=Ordner mit den wiederhergestellten Dateien öffnen
+
+[MasterRegistration]
+0=Programmregistrierung
+1=Damit der Assistent seine Arbeit fortsetzen kann, müssen Sie das Programm erwerben und die Registrierungsdaten eingeben
+2=Programm online erwerben
+3=Registrierungsname:
+4=Registrierungsschlüssel:
+
+[MasterSaveOptions]
+0=Speichern auf der Festplatte
+1=Geben Sie die gewünschten Optionen für das Speichern der Dateien an
+2=Pfad:
+3=Nur gelöschte Dateien wiederherstellen
+4=Verzeichnisstruktur wiederherstellen
+5=Alternative Daten wiederherstellen (NTFS)
+6=Alle unbekannten Symbole ersetzen mit
+7=Wählen Sie den Zielordner
+8=Wiederhergestellte Dateien
+9=Benötigter Speicher: %s
+10=Vorhandener freier Speicher: %s
+
+[MasterSaveProgress]
+0=Speichern auf der Festplatte
+1=Warten Sie, bis der Speichervorgang abgeschlossen ist
+2=Wiederherstellung...
+3=Wiederherstellen der Datei "%s"...
+4=Fortschritt: %d%%
+
+[MasterZIPOptions]
+0=ZIP-Archiv erstellen
+1=Geben Sie Optionen zum Erstellen eines Archivs an
+2=Dateiname:
+3=Verzeichnisstruktur wiederherstellen
+4=Alle unbekannten Symbole ersetzen mit
+5=Komprimierungsmethode:
+6=Speichern
+7=Schnell
+8=Normal
+9=Beste
+10=Volumengröße
+11=Passwort festlegen
+12=ZIP-Archive
+13=Die Datei existiert bereits. Möchten Sie sie überschreiben?
+14=Der Dateiname ist ungültig
+
+[MasterZIPProgress]
+0=ZIP-Archiv erstellen
+1=Dateiliste wird erstellt...
+2=Komprimieren des Archivs...
+3=Hinzugefügte Dateien: %s
+4=Fortschritt: %d%%
+
+[MasterFTPRecoveryOptions]
+0=Über FTP speichern
+1=Geben Sie die gewünschten Optionen für das Speichern an
+2=Nur gelöschte Dateien wiederherstellen
+3=Verzeichnisstruktur wiederherstellen
+4=Alle unbekannten Symbole ersetzen mit
+
+[MasterFTPFiles]
+0=Über FTP speichern
+1=Wählen Sie die Dateien, die Sie wiederherstellen möchten
+2=Die Datei "%s" existiert bereits!
+3=Der Ordner "%s" existiert bereits!
+4=Es wurden hinzugefügt: %s (Dateien: %s, Ordner: %s)
+5=Es wurden keine Dateien zum Speichern ausgewählt!
+
+[MasterFTPOptions]
+0=Über FTP speichern
+1=Geben Sie die Einstellungen Ihres FTP-Servers ein
+2=FTP-Einstellungen
+3=Server [:Port]
+4=Passiver Modus
+5=Benutzername:
+6=Passwort:
+7=Passwort speichern
+8=Remote-Verzeichnis:
+9=Proxy-Server
+10=Proxy-Server verwenden
+11=Bitte geben Sie den Servernamen ein.
+
+[MasterFTPClient]
+0=Über FTP speichern
+1=Wählen Sie den Ordner für die Speicherung der Dateien
+2=Aktualisieren
+3=Speichern
+4=Neuer Ordner
+5=Löschen
+6=Umbenennen
+7=Name
+8=Größe
+9=Datum
+10=Alle Dateien
+11=Ordner für die Speicherung:
+12=Wählen Sie zunächst das Verzeichnis für die Speicherung der Dateien!
+13=Verbindung mit %s wird hergestellt...
+14=Verbindung hergestellt
+15=Fehler beim Herstellen der Verbindung
+16=Verbindung wurde unterbrochen
+17=Übertragen von Benutzername und Passwort...
+18=Remote-Verzeichnis öffnen...
+19=Fehler beim Öffnen des Verzeichnisses
+20=Daten erhalten
+21=Remote-Verzeichnis wird gelesen...
+22=Fehler beim Lesen des Verzeichnisses
+23=Verzeichnis %s wird erstellt...
+24=Verzeichnis wurde erstellt
+25=Fehler beim Erstellen des Verzeichnisses
+26=Datei "%s" wird umbenannt...
+27=Verzeichnis "%s" wird umbenannt...
+28=Datei wurde umbenannt
+29=Verzeichnis wurde umbenannt
+30=Datei konnte nicht umbenannt werden
+31=Verzeichnis konnte nicht umbenannt werden
+32=Möchten Sie die Datei "%s" wirklich löschen?
+33=Datei "%s" wird gelöscht...
+34=Datei wurde gelöscht
+35=Datei konnte nicht gelöscht werden
+36=Möchten Sie die gewählten Dateien wirklich löschen?
+37=Dateien konnten nicht gelöscht werden
+38=Möchten Sie das Verzeichnis "%s" und seinen gesamten Inhalt wirklich löschen?
+39=Verzeichnis "%s" wird gelöscht...
+40=Verzeichnis wurde gelöscht
+41=Verzeichnis konnte nicht gelöscht werden
+42=Neuer Ordner
+43=Bezeichnung des neuen Ordners:
+44=Datei "%s" speichern
+45=Wählen Sie den Zielordner
+46=Die Datei existiert bereits. Überschreiben...
+47=Die Datei existiert bereits. Unter neuem Namen speichern...
+48=Die Datei existiert bereits. Speichern der Datei durch Benutzer abgebrochen
+49=Die Datei existiert bereits. Übertragen der Datei durch Benutzer abgebrochen
+50=Speichervorgang abgeschlossen!
+51=Fehler beim Speichern der Datei
+52=Übertragen der Datei "%s"...
+53=Übertragung erfolgreich abgeschlossen
+54=Fehler beim Übertragen der Datei
+55=Übertragungsvorgang der Dateien erfolgreich abgeschlossen
+56=Übertragung der Dateien zum Server fehlgeschlagen
+57=Verbindung wird getrennt...
+58=Verbindung getrennt
+59=Fehler beim Öffnen des Verzeichnisses %s
+
+[MasterFTPFinalAction]
+0=Über FTP speichern
+1=Warten Sie, bis der Speichervorgang der wiederhergestellten Dateien abgeschlossen ist
+2=Klicken Sie auf "%s", um den Assistenten zu beenden, oder auf "%s", um die Wiederherstellungsparameter zu ändern
+3=Fortschritt:
+4=Logdatei:
+5=Information
+6=Zeit
+7=Bei erfolgreicher Fertigstellung automatisch schließen

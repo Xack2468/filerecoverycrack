@@ -1,0 +1,361 @@
+{Current Units}
+
+[Main]
+0=Uitklappen
+1=Inklappen
+2=Beeld
+3=Resultaten zoeken op "%s"
+4=Analyse:
+5=Deze map is leeg.
+6=Filter wisselen om de bestanden "%s" – "%s" te tonen
+7=Gemaakt: %s
+8=Locatie: %s
+9=Mappen:
+10=Bestanden:
+11=Type: %s
+12=Grootte: %s
+13=Deze schijfeenheid werd niet geanalyseerd.
+14=Klik op de schijfeenheid of start de Wizard om de analyse uit te voeren
+
+[Menu]
+0=Bestand
+1=Wizard
+2=Wizard bestandsherstel openen
+3=Openen
+4=Opnieuw analyseren
+5=Analyse met behoud van inhoud
+6=Analyseproces met behoud van inhoud beginnen
+7=Analyseren stoppen
+8=Analyseproces stoppen
+9=Herstellen
+10=Verloren bestanden herstellen
+11=Partities zoeken
+12=Verloren partities zoeken
+13=Eigenschappen
+14=Afsluiten
+15=Bewerken
+16=Alles selecteren
+17=Selectie omkeren
+18=Bestand zoeken
+19=Een specifiek bestand zoeken
+20=Zoeken stoppen
+21=Huidige zoekactie stoppen
+22=Beeld
+23=Werkbalken
+24=Extra werkbalk
+25=Schijfimages
+26=Voorvertoning
+27=Voorvertoning van geselecteerde bestanden
+28=Herstellijst
+29=Herstellijst tonen
+30=Herstellijst verbergen
+31=Detailspaneel
+32=Grote pictogrammen
+33=Kleine pictogrammen
+34=Lijst
+35=Details
+36=Tegels
+37=Sorteren op
+38=Oplopend
+39=Aflopend
+40=Ga naar
+41=Vorige
+42=Terug naar "%s"
+43=Volgende
+44=Vooruit naar "%s"
+45=Recente locaties
+46=Eén niveau omhoog
+47=Omhoog naar "%s"
+48=Filter
+49=Alleen verwijderde bestanden tonen
+50=Taal
+51=Hulpmiddelen
+52=Schijf opslaan
+53=Schijfimage maken
+54=Schijf mounten
+55=Opgeslagen schijfimage openen
+56=Schijf sluiten
+57=Schijfimage sluiten
+58=Programma-instellingen
+59=Help
+60=Help bekijken
+61=Hulp vragen
+62=Registreren
+63=Programmaregistratie
+64=Over %s
+65=Ga
+66=Ga naar"%s"
+67=Toevoegen voor herstellen
+68=Herstellen uit lijst
+69=Beeld: %s
+70=Vernieuwen
+71="%s" vernieuwen
+72=Virtuele schijf maken
+73=HEX-bewerker
+74=Drivelijst
+75=Schijfbeheer
+76=Feedback
+77=Waar zijn mijn bestanden
+78=Bestaande bestanden tonen
+79=Verwijderde bestanden tonen
+80=Maplocatie openen
+81=Bestandslocatie openen
+82=Voorvertoning in volledig scherm
+83=Miniaturen
+
+[StatusBar]
+0=Analyse
+1=Analyse %s...
+2=%s bestanden en mappen gevonden
+3=Herstellen...
+4=Bestand zoeken...
+5=Bestand zoeken "%s"...
+6=Zoekresultaten
+7=Zoekresultaten voor "%s"
+8=%s bestanden en mappen gevonden
+9=Gebruikersnaam:
+10=Operating systeem:
+11=Type:
+12=Totale grootte:
+13=Gebruikte ruimte:
+14=Vrije ruimte:
+15=Serienummer:
+16=Bestandssysteem:
+17=Eerste sector:
+18=Aantal sectoren:
+19=Bytes per sector:
+20=Gewijzigd:
+21=Gemaakt:
+22=Status:
+23=Bestaat
+24=Verwijderd
+25=Prognose:
+26=Mogelijk
+27=Goed
+28=Slecht
+29=Items:
+30=%s items
+31=Grootte:
+32=Totale grootte:
+33=Totaal gebruikt:
+34=Totaal vrij:
+35=Dimensies:
+36=onbekend
+37=Locatie:
+38=Resterende tijd:
+39=Resterende tijd berekenen...
+40=Miniaturen
+41=Processor:
+42=RAM-geheugen:
+43=Mount pad:
+
+[Message]
+0=Bestand "%s" zoeken: niets gevonden!
+1=Zoekresultaten op %s
+2=Om verder te gaan moet u de huidige actieve stationsanalysetaak stoppen. Nu stoppen?
+3=Kan niet naar "%s" gaan. Er kan een typefout in het adres staan.
+4=Hierdoor wordt de analyse met behoud van inhoud van het geselecteerde station gestart. Door het gebruik van analyse met behoud van inhoud zoekt het programma naar verwijderde bestanden op basis van handtekeningen (zoeken op bestandsinhoud). De taak kan enkele uren duren (afhankelijk van de grootte van het station).
+5=De geselecteerde RAID bevat onbekende parameters. Gebruik RAID Constructor om ze te definiëren.
+
+[AnalyseProgress]
+0=Analyse van bestandssysteem...
+1=%s bestanden en mappen gevonden
+
+[Preview]
+0=Voorvertoning
+1=Voorvertoning-modus afsluiten
+2=Voorvertoning verbergen
+3=Eerste cluster van bestand wijzigen
+
+[RecoveryList]
+0=Herstellijst
+1=Herstellen
+2=Verwijderen
+3=Lijst wissen
+4=Menu
+5=Menu tonen
+6=Menu verbergen
+7=Eigenschappen
+8=Voorvertoning
+9=Beeld
+10=Beeld: %s
+11=Grote pictogrammen
+12=Kleine pictogrammen
+13=Lijst
+14=Details
+15=Tegels
+16=Sorteren op
+17=Gesorteerd: %s
+18=Naam
+19=Type
+20=Grootte
+21=Oplopend
+22=Aflopend
+
+[FindFile]
+0=Bestand zoeken
+1=Geavanceerd
+2=Geavanceerd
+3=Gedeelte van bestandsnaam of gehele bestandsnaam:
+4=Hoofdlettergevoelig
+5=Alleen gehele woorden
+6=Zoeken in verborgen bestanden
+7=Zoeken in systeembestanden
+8=Zoeken op grootte
+9=Klein (minder dan 100 KB)
+10=Middelmatig (minder dan 1 MB)
+11=Groot (meer dan 1 MB)
+12=Geef een grootte op (in kB)
+13=minstens
+14=hoogstens
+15=Zoeken op datum
+16=Gemaakt
+17=Gewijzigd
+18=Geopend
+19=Laatste week
+20=Laatste maand
+21=Laatste jaar
+22=Geef de datum op
+23=van
+24=tot
+25=Zoeken in "%s"
+
+[DiskManager]
+0=Schijf %s
+1=Gemounte schijf %d
+2=Niet-toegewezen
+
+[ProgramSettings]
+0=Programma-instellingen
+1=Algemeen
+2=Niet waarschuwen bij het afsluiten
+3=Gecodeerde of gecomprimeerde NTFS-bestanden in kleur tonen
+4=Voeg de optie "Herstel verwijderde bestanden" toe aan het contextmenu van Windows Explorer
+5=Wizard
+6=Wizard tonen bij het starten
+7=Herstelmethode onthouden
+8=Na geslaagde voltooiing automatisch sluiten
+9=Voorvertoning
+10=HEX in voorbeeld weergeven
+
+[WhereFiles]
+0=Waar zijn mijn bestanden?
+1=Niet meer tonen
+2=Stap %d. %s
+3=Controleer uw mappen
+4=Zoekvenster
+5=Open eerst de map waar de bestanden opgeslagen waren voordat ze verwijderd werden. Dat kan op dezelfde wijze als in uw standaard Windows-verkenner.
+6=Als de eerste stap geen resultaat oplevert, controleer dan de map "%s". Mappen hebben hier geen naam, maar de de bestandsnamen bleven behouden.
+7=Als u "%s" hebt geselecteerd voor de schijfanalyse, kunt u deze bewerking herhalen met de optie "Volledige analyse" (om alle beschikbare informatie op de schijf te vinden).
+8=Bestanden die na grondige analyse gevonden werden, bevinden zich hier. Dit algoritme behoudt geen bestandsnamen, maar herstelt gegevens.
+9=Bestanden kunnen gevonden worden met onze zoekfunctie. U kan een bestandsnaam, grootte, creatiedatum of andere gekende parameter opgeven om een bestand te vinden.
+10=Open "%s"
+11=Open het zoekvenster
+
+{Master Analyse Units}
+
+[Master]
+0=Wizard-Bestandsherstel
+
+[MasterWelcome]
+0=Welkom bij de File Recovery Wizard
+1=Klik op "%s" om verder te gaan
+2=Met deze Wizard kunt u alle verwijderde bestanden, inclusief documenten, foto's, MP3-muziekbestanden en ZIP-archiefbestanden herstellen. U kunt informatie herstellen van geformatteerde schijven en van schijven die door een computervirus verminkt zijn. De Wizard herstelt gegevens van verwijderde schijven en bestanden die uit de prullenbak zijn verwijderd.
+3=Met de Wizard kunt u informatie herstellen van verminkte, verwijderde, geformatteerde en nieuw aangemaakte partities. Tijdens de analyse zal het programma alle relevante informatie verzamelen en logische structuren van een station herstellen. Daardoor worden alle verwijderde bestanden en catalogi gevonden.
+4=Het herstelproces is buitengewoon eenvoudig en is toegankelijk voor elke gebruiker, van routinier tot nieuweling. Volg eenvoudig de instructies in de Wizard.
+5=Wizard tonen bij het starten
+
+[MasterAnalyseFinish]
+0=Analyse is voltooid
+1=Klik op "%s" om de Wizard te sluiten of op "%s" een andere station te selecteren
+2=Klik op "%s" om de Wizard te sluiten
+3=Analyse is voltooid!
+4=Stations gevonden: %s
+5=Mappen gevonden: %s
+6=Bestanden gevonden: %s
+
+[MasterResult]
+0=Resultaten van de schijfanalyse
+1=De bestanden kiezen die u wilt herstellen
+2=Naam
+3=Type
+4=Grootte
+5=Status
+6=Gewijzigd
+7=Gemaakt
+8=Sorteren op
+9=Gesorteerd: %s
+10=Oplopend
+11=Aflopend
+12=Eigenschappen
+13=Analyse van %s (bestanden gevonden: %s)
+14=Bestanden geselecteerd: %s van %s (totale grootte: %s)
+15=Er zijn geen bestanden geselecteerd om hersteld te worden!
+
+{Raid Units}
+
+[RaidWizard]
+0=RAID Constructor
+1=Geef alle RAID-parameters op
+2=%s in de HEX-bewerker
+
+[RaidWelcome]
+0=Welkom bij RAID Constructor
+1=Klik op "%s" om verder te gaan
+2=Wizard tonen bij het starten
+
+[RaidAnalyseType]
+0=Constructortype selecteren
+1=Kies hoe u de RAID-array wilt toevoegen
+2=Automatische modus
+3=Deze modus is geheel automatisch. Specificeer de harde schijven van de array en het programma zal automatisch de volgorde, het arraytype en andere parameters bepalen. Dit zal even duren (afhankelijk van het aantal schijven in de array).
+4=Zoeken op fabrikant
+5=Gebruik deze optie als u de fabrikant van uw RAID-controller kent. Deze optie is ook geheel automatisch en vereist geen kennis van de structuur van uw RAID-array. Deze optie is veel sneller dan de eerste modus.
+6=Handmatige modus
+7=Gebruik deze optie als u weet welk type RAID u gebruikt. In deze modus kunt u alle parameters van de RAID-array handmatig specificeren. Het programma zal u ook helpen om eventuele parameters die u niet kent te bepalen. Deze optie is sneller dan de vorige modus.
+8=Automatisch gedetecteerde arrays
+9=Het programma heeft vastgesteld dat sommige harde schijven eerder deel uitmaakten van RAID-arrays. Als u de gewenste array ziet in de lijst hieronder, kunt u deze selecteren en op "%s" klikken om door te gaan.
+
+[RaidSelectDrives]
+0=Selecteer de schijven in uw RAID-array
+1=Specificeer welke schijven deel uitmaakten van de RAID
+2=Specificeer het aantal schijven (met inbegrip van verloren schijven):
+3=Specificeer de RAID-schijven:
+4=U hebt meer dan %s schijven geselecteerd. Wijzig het aantal schijven.
+
+[RaidVendor]
+0=Specificeer de RAID-fabrikant
+1=Specificeer de fabrikant van de controller waarmee de RAID-array werd gemaakt
+
+[RaidManual]
+0=Specificeer de arrayparameters
+1=Specificeer het RAID-type, de schijven die er deel van uitmaken en eventuele andere parameters
+2=Geselecteerde schijven
+3=Beschikbare schijven
+4=Voeg hier RAID-schijven toe.
+5=De gespecificeerde schijfvolgorde gebruiken
+6=De schijfvolgorde automatisch bepalen
+7=Lege schijf toevoegen
+8=Schijf verwijderen
+9=De gemaakte RAID-array:
+10=Automatisch bijwerken
+11=Bijwerken
+
+[RaidProgress]
+0=Zoeken naar mogelijke configuraties...
+1=Wacht tot het RAID-zoekproces voltooid is
+2=U kunt de huidige bewerking stoppen als u de gewenste RAID ziet in de lijst hieronder
+3=Aantal gevonden configuraties: %s
+4=Gevonden configuraties:
+5=RAID-partities:
+6=RAID-eigenschappen:
+7=Onbeschadigde selecteren
+8=Configuratie %d
+9=Alle configuraties
+
+[RaidResult]
+0=RAID-configuraties selecteren
+1=Selecteer de gewenste configuraties en klik op "%s"
+2=Automatische herkenning van RAID-arrays is niet mogelijk.
+3=Gebruik de handmatige modus.
+4=Bent u zeker dat u de wizard wilt sluiten zonder RAID-arrays toe te voegen?

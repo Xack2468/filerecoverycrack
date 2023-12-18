@@ -1,0 +1,361 @@
+{Current Units}
+
+[Main]
+0=Développer
+1=Réduire
+2=Affichage
+3=Résultats de recherche pour « %s »
+4=Analyse :
+5=Le dossier est vide.
+6=Modifier le filtre d'affichage des fichiers : « %s » – « %s »
+7=Créé le : %s
+8=Emplacement : %s
+9=Dossiers:
+10=Fichiers:
+11=Type : %s
+12=Taille : %s
+13=Ce lecteur n'est pas analysé.
+14=Pour démarrer l'analyse, appuyez sur le lecteur sur le côté gauche ou lancez l'Assistant
+
+[Menu]
+0=Fichier
+1=Assistant
+2=Ouvrir l'assistant de récupération de fichiers
+3=Ouvrir
+4=Analyser à nouveau
+5=Analyse détaillée
+6=Démarrer le processus d'analyse détaillée
+7=Arrêter l'analyse
+8=Arrêter le processus d'analyse
+9=Récupérer
+10=Récupérer les fichiers perdus
+11=Rechercher des partitions
+12=Rechercher des partitions perdues
+13=Propriétés
+14=Quitter
+15=Édition
+16=Sélectionner tout
+17=Inverser la sélection
+18=Rechercher un fichier
+19=Rechercher un fichier spécifique
+20=Arrêter la recherche
+21=Arrêter la recherche en cours
+22=Affichage
+23=Barres d'outils
+24=Barre d'outils additionnelle
+25=Images disque
+26=Aperçu
+27=Aperçu des fichiers sélectionnés
+28=Liste de récupération
+29=Voir la liste de récupération
+30=Masquer la liste de récupération
+31=Panneau des détails
+32=Grandes icônes
+33=Icônes moyennes
+34=Liste
+35=Détails
+36=Mosaïque
+37=Trier par
+38=Croissant
+39=Décroissant
+40=Aller à
+41=Précédent
+42=Retour à « %s »
+43=Suivant
+44=Avancer à « %s »
+45=Emplacements récents
+46=Dossier parent
+47=Jusqu'à « %s »
+48=Filtre
+49=Afficher uniquement les fichiers supprimés
+50=Langue
+51=Outils
+52=Enregistrer le disque
+53=Créer une image disque
+54=Monter un disque
+55=Ouvrir une image disque enregistrée
+56=Fermer le disque
+57=Fermer l'image disque
+58=Paramètres du programme
+59=Aide
+60=Documentation
+61=Obtenir de l'aide
+62=S'enregistrer
+63=Activer le programme
+64=À propos de %s
+65=Atteindre
+66=Atteindre « %s »
+67=Ajouter à la liste de récupération
+68=Récupérer à partir de la liste
+69=Affichage : %s
+70=Actualiser
+71=Actualiser « %s »
+72=Créer un disque virtuel
+73=Éditeur Hexa
+74=Liste de disques
+75=Gestionnaire de disques
+76=Commentaires
+77=Où sont mes fichiers
+78=Voir les fichiers existants
+79=Voir les fichiers supprimés
+80=Ouvrir l'emplacement du dossier
+81=Ouvrir l'emplacement du fichier
+82=Afficher en mode plein écran
+83=Vignettes
+
+[StatusBar]
+0=Analyse
+1=Analyse de %s...
+2=%s fichiers et dossiers trouvés
+3=Récupération en cours...
+4=Recherche de fichier en cours...
+5=Recherche du fichier « %s »...
+6=Résultats de recherche
+7=Résultats de recherche pour « %s »
+8=%s fichiers et dossiers trouvés
+9=Utilisateur :
+10=Système d'exploitation :
+11=Type :
+12=Taille du disque :
+13=Espace utilisé :
+14=Espace disponible :
+15=Numéro de série :
+16=Système de fichiers :
+17=Premier secteur :
+18=Nombre de secteurs :
+19=Octets par secteur :
+20=Modifié le :
+21=Créé le :
+22=État :
+23=Existe encore
+24=Supprimé
+25=Pronostic :
+26=Possible
+27=Bon
+28=Mauvais
+29=Éléments :
+30=Éléments sélectionnés : %s
+31=Taille :
+32=Taille totale :
+33=Total utilisé :
+34=Total libre :
+35=Dimensions :
+36=inconnu
+37=Emplacement :
+38=Temps restant :
+39=Calcul du temps restant...
+40=Vignettes
+41=Processeur :
+42=Mémoire installée :
+43=Point de montage :
+
+[Message]
+0=Recherche du fichier « %s » : recherche infructueuse !
+1=Résultat de la recherche sur %s
+2=Pour continuer vous devez arrêter la tâche d'analyse de disque en cours. L'arrêter maintenant ?
+3=Impossible d'accéder à « %s ». Vous avez peut-être effectué une erreur de frappe dans l'adresse.
+4=Cette opération démarrera l'analyse détaillée du disque sélectionné. Si vous choisissez l'analyse détaillée, le programme recherchera les fichiers supprimés à l'aide de signatures (recherche par le contenu des fichiers).
+5=Le RAID sélectionné contient des paramètres inconnus. Veuillez utiliser le constructeur RAID pour les définir.
+
+[AnalyseProgress]
+0=Analyse du système de fichiers...
+1=%s fichiers et dossiers trouvés
+
+[Preview]
+0=Aperçu
+1=Quitter l'aperçu
+2=Masquer l’aperçu
+3=Changer le premier cluster du fichier
+
+[RecoveryList]
+0=Liste de récupération
+1=Récupérer
+2=Supprimer
+3=Vider la liste
+4=Menu
+5=Afficher le menu
+6=Masquer le menu
+7=Propriétés
+8=Aperçu
+9=Affichage
+10=Affichage : %s
+11=Grandes icônes
+12=Icônes moyennes
+13=Liste
+14=Détails
+15=Mosaïque
+16=Trier par
+17=Trié par : %s
+18=Nom
+19=Type
+20=Taille
+21=Croissant
+22=Décroissant
+
+[FindFile]
+0=Rechercher un fichier
+1=Avancé
+2=Avancé
+3=Nom de fichier partiel ou complet :
+4=Sensible à la casse
+5=Mots entiers uniquement
+6=Inclure les fichiers cachés
+7=Inclure les fichiers système
+8=Rechercher par taille
+9=Petit (moins de 100 Ko)
+10=Moyen (moins de 1 Mo)
+11=Grand (plus de 1 Mo)
+12=Spécifier une taille (en Ko)
+13=au moins
+14=au maximum
+15=Rechercher par date
+16=Créé...
+17=Modifié...
+18=Accédé...
+19=La semaine dernière
+20=Le mois dernier
+21=L'année dernière
+22=Spécifier une date
+23=du
+24=au
+25=Recherche dans « %s »
+
+[DiskManager]
+0=Le disque %s
+1=Disque monté %d
+2=Non alloué
+
+[ProgramSettings]
+0=Paramètres du programme
+1=Général
+2=Ne pas avertir lors de la fermeture
+3=Voir en couleur les fichiers NTFS cryptés ou compressés
+4=Ajouter l'option « Récupérer des fichiers perdus » dans le menu contextuel de l'Explorateur Windows
+5=Assistant
+6=Lancer l'assistant au démarrage
+7=Mémoriser la méthode de récupération
+8=Fermer automatiquement lorsque tout s'est terminé correctement
+9=Aperçu
+10=Afficher HEX dans l'aperçu
+
+[WhereFiles]
+0=Où sont mes fichiers ?
+1=Ne plus afficher dans le futur
+2=Étape %d. %s
+3=Vérifiez vos dossiers
+4=Fenêtre de recherche
+5=Ouvrez d'abord le dossier où se trouvaient les fichiers avant d'être effacés. Vous pouvez le faire de la même manière que dans Windows Explorer standard.
+6=Si la première étape échoue, vérifiez le dossier « %s ». Les dossiers n'ont pas de noms ici, mais les noms de fichiers ont été conservés.
+7=Si vous avez sélectionné « %s » lors de l'analyse du disque, répétez la procédure en utilisant une analyse complète (pour rechercher toutes les informations possibles sur le disque).
+8=Les fichiers trouvés après une analyse approfondie sont situés ici. Cet algorithme perd des noms de fichiers, mais il récupère toutes les données.
+9=Les fichiers peuvent être retrouvés en utilisant notre outil de recherche. Vous pouvez spécifier un nom de fichier, sa taille, sa date de création ou tout autre paramètre connu pour retrouver le fichier nécessaire.
+10=Ouvrez « %s »
+11=Ouvrez la fenêtre de recherche
+
+{Master Analyse Units}
+
+[Master]
+0=Assistant de récupération de fichiers
+
+[MasterWelcome]
+0=Bienvenue dans l'assistant de récupération de fichiers
+1=Cliquer sur « %s » pour continuer
+2=Cet assistant vous aidera à récupérer tous les fichiers supprimés, y compris les documents, photos, fichiers de musique MP3 et archives ZIP. Vous serez capable de récupérer des données provenant de disques reformatés et de disques corrompus suite à une infection par un virus d'ordinateur. L'assistant vous aidera à récupérer les données de disques supprimés et les fichiers qui ont été supprimés de la Corbeille et d'autres encore.
+3=L'assistant vous permet de restaurer des informations à partir de partitions corrompues, supprimées, formatées ou nouvellement créées. Durant l'analyse le programme extraira toutes les informations pertinentes et restaurera la structure logique du disque. Au final, tous les fichiers et catalogues supprimés seront retrouvés.
+4=Le processus de récupération s'avère très simple et est accessible à tout utilisateur, confirmé ou débutant. Suivez simplement les instructions de l'assistant.
+5=Lancer l'assistant au démarrage
+
+[MasterAnalyseFinish]
+0=Analyse terminée
+1=Cliquez sur « %s » pour fermer l'assistant ou sur « %s » pour sélectionner un autre disque
+2=Cliquez sur « %s » pour fermer l'assistant
+3=Analyse terminée !
+4=Disques trouvés : %s
+5=Dossiers trouvés : %s
+6=Fichiers trouvés : %s
+
+[MasterResult]
+0=Résultats de l'analyse du disque
+1=Choisissez les fichiers à récupérer
+2=Nom
+3=Type
+4=Taille
+5=État
+6=Modifié le
+7=Créé le
+8=Trier par
+9=Trié par : %s
+10=Croissant
+11=Décroissant
+12=Propriétés
+13=Analyse de %s (fichiers trouvés : %s)
+14=Fichiers sélectionnés : %s sur %s (taille totale : %s)
+15=Aucun fichier n'a été sélectionné pour la récupération !
+
+{Raid Units}
+
+[RaidWizard]
+0=Constructeur RAID
+1=Veuillez spécifier tous les paramètres RAID
+2=%s dans l’éditeur Hexa
+
+[RaidWelcome]
+0=Bienvenue dans le constructeur RAID
+1=Cliquer sur « %s » pour continuer
+2=Lancer l'assistant au démarrage
+
+[RaidAnalyseType]
+0=Sélectionnez le type de constructeur
+1=Choisissez comment vous voulez ajouter la matrice RAID
+2=Mode automatique
+3=Ce mode est entièrement automatique. Il suffit de spécifier les disques durs qui composent la matrice, et le programme déterminera automatiquement leur ordre, le type de matrice et d’autres paramètres. Cela prendra un certain temps (en fonction du nombre de disques dans le tableau).
+4=Recherche par fabricant
+5=Utilisez cette option si vous connaissez le fabricant de votre contrôleur RAID. Cette option est également entièrement automatique, et elle ne nécessite pas que vous connaissiez la structure de votre matrice RAID. Cette option fonctionne beaucoup plus rapidement que le premier mode.
+6=Mode manuel
+7=Utilisez cette option si vous savez quel type de RAID vous utilisez. Dans ce mode, vous pouvez spécifier manuellement tous les paramètres de la matrice RAID. Le programme vous aidera également à déterminer automatiquement tout paramètre que vous ne connaissez pas. Cette option fonctionne plus rapidement que le mode précédent.
+8=Matrices détectées automatiquement
+9=Le programme a déterminé que certains de vos disques durs avaient déjà fait partie de matrices RAID. Si vous voyez la matrice de votre choix dans la liste ci-dessous, sélectionnez-la et cliquez sur « %s » pour continuer.
+
+[RaidSelectDrives]
+0=Sélectionnez les disques de votre matrice RAID
+1=Précisez les disques qui ont fait partie du RAID
+2=Précisez le nombre de disques (y compris les disques perdus) :
+3=Précisez les disques RAID :
+4=Vous avez sélectionné plus de %s disques. Veuillez modifier le nombre de disques.
+
+[RaidVendor]
+0=Précisez le fabricant du RAID
+1=Précisez le fabricant du contrôleur sur lequel l’unité RAID a été créée
+
+[RaidManual]
+0=Préciser les paramètres du RAID
+1=Préciser le type de RAID, ses disques constitutifs et tout autre paramètre
+2=Disques sélectionnés
+3=Disques disponibles
+4=Ajoutez des disques RAID ici.
+5=Utilisez l’ordre des disques spécifié
+6=Détecter automatiquement l’ordre des disques
+7=Ajouter un disque vide
+8=Supprimer le disque
+9=La matrice RAID qui en résulte :
+10=Mise à jour automatique
+11=Mise à jour
+
+[RaidProgress]
+0=Recherche de configurations possibles...
+1=Veuillez attendre la fin du processus de recherche RAID
+2=Vous pouvez arrêter l’opération en cours si vous voyez votre RAID souhaité dans la liste ci-dessous
+3=Nombre de configurations trouvées : %s
+4=Configurations trouvées :
+5=Partitions RAID :
+6=Propriétés du RAID :
+7=Sélectionnez non endommagés
+8=Configuration %d
+9=Toutes les configurations
+
+[RaidResult]
+0=Sélectionner les configurations RAID
+1=Veuillez sélectionner les configurations souhaitées et cliquer sur « %s »
+2=Impossible de reconnaître automatiquement les matrices RAID.
+3=Veuillez utiliser le mode manuel.
+4=Êtes-vous sûr de vouloir fermer l’assistant sans ajouter de matrices RAID ?

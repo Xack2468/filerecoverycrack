@@ -1,0 +1,361 @@
+{Current Units}
+
+[Main]
+0=Erweitern
+1=Verbergen
+2=Ansicht
+3=Ergebnisse der Suche in "%s"
+4=Analyse:
+5=Dieser Ordner ist leer.
+6=Passen Sie den Filter an, um die Dateien zu sehen: "%s" – "%s"
+7=Erstellt: %s
+8=Ort: %s
+9=Ordner:
+10=Dateien:
+11=Art: %s
+12=Größe: %s
+13=Dieses Laufwerk wird nicht analysiert.
+14=Um die Analyse zu starten, drücken Sie auf das Laufwerk auf der linken Seite oder führen Sie den Assistenten aus
+
+[Menu]
+0=Datei
+1=Assistent
+2=Dateiwiederherstellungsassistenten starten
+3=Öffnen
+4=Neu analysieren
+5=Tiefe Analyse
+6=Tiefe Analyse starten
+7=Analyse stoppen
+8=Analyseprozess stoppen
+9=Wiederherst
+10=Verlorene Dateien wiederherstellen
+11=Partitionen finden
+12=Verlorene Partitionen finden
+13=Eigenschaften
+14=Beenden
+15=Bearbeiten
+16=Alles auswählen
+17=Auswahl umkehren
+18=Suche
+19=Eine vorgegebene Datei finden
+20=Suche stoppen
+21=Aktuelle suche stoppen
+22=Ansicht
+23=Symbolleisten
+24=Zusätzliche Taskleiste
+25=Image-Dateien
+26=Vorschau
+27=Vorschau der ausgewählten Dateien
+28=Wiederherstellungsliste
+29=Wiederherstellungsliste anzeigen
+30=Wiederherstellungsliste ausblenden
+31=Statusbar
+32=Große Symbole
+33=Normale Symbole
+34=Verzeichnis
+35=Tabelle
+36=Kacheln
+37=Sortieren
+38=Aufsteigend
+39=Absteigend
+40=Go
+41=Zurück
+42=Zurück zu "%s"
+43=Vorwärts
+44=Vorwärts zu "%s"
+45=Zuletzt besuchte Orte
+46=Eine Ebene höher
+47=Hoch nach "%s"
+48=Filter
+49=Nur gelöschte Dateien anzeigen
+50=Sprache
+51=Werkzeuge
+52=Laufwerk speichern
+53=Image-Datei erstellen
+54=Laufwerk mounten
+55=Gespeicherte Image-Datei laden
+56=Laufwerk unmounten
+57=Image-Datei unmounten
+58=Programmeinstellungen
+59=Hilfe
+60=Inhalt
+61=Dokumentation
+62=Registrierung
+63=Programm-Registrierung
+64=Über %s
+65=Go
+66=Go to "%s"
+67=Für Wiederherstellung hinzufügen
+68=Aus der Liste wiederherstellen
+69=Darstellung: %s
+70=Aktualisieren
+71="%s" aktualisieren
+72=Virtuelles Laufwerk erstellen
+73=HEX-Editor
+74=Laufwerk-Liste
+75=Laufwerk-Manager
+76=Feedback
+77=Wo sind meine Dateien
+78=Existierende Dateien anzeigen
+79=Gelöschte Dateien anzeigen
+80=Ordnerpfad öffnen
+81=Dateipfad öffnen
+82=Vollbildmodus
+83=Thumbnails
+
+[StatusBar]
+0=Analyse
+1=Analyse %s...
+2=%s Dateien und Ordner gefunden
+3=Wiederherstellung...
+4=Suche Datei...
+5=Suche Datei "%s"...
+6=Suchergebnisse
+7=Ergebnisse der Suche nach "%s"
+8=%s Dateien und Ordner gefunden
+9=Benutzer:
+10=Betriebssystem:
+11=Art:
+12=Laufwerkgröße:
+13=Belegt:
+14=Frei:
+15=Seriennummer:
+16=Dateisystem:
+17=Erster Sektor:
+18=Sectoren-Anzahl:
+19=Bytes pro Sektor:
+20=Bearbeitet:
+21=Erstellt:
+22=Status:
+23=Ist vorhanden
+24=Wurde gelöscht
+25=Prognose:
+26=Möglich
+27=Gut
+28=Schlecht
+29=Objektanzahl:
+30=Anzahl ausgewählter Objekte: %s
+31=Größe:
+32=Gesamtgröße:
+33=Insgesamt belegt:
+34=Insgesamt frei:
+35=Abmessungen:
+36=unbekannt
+37=Ort:
+38=Noch benötigt:
+39=Berechnung der restlichen Zeit...
+40=Thumbnails
+41=Prozessor:
+42=Installiertes RAM:
+43=Mount-Pfad:
+
+[Message]
+0=Gesuchte Datei "%s": Nichts gefunden!
+1=Suchergebnisse auf %s
+2=Sie müssen die Analyse der aktuellen Partition abbrechen, um fortzufahren. Wollen Sie die Analyse abbrechen?
+3=Nicht aufrufbar "%s"
+4=Jetzt wird die Analyse der gewählten Partition gestartet. Wenn Sie die tiefe Analyse anwenden, sucht das Programm gelöschte Dateien anhand ihrer Signaturen (Suche nach Dateiinhalten). Das kann mehrere Stunden dauern (je nach der Patitionsgröße).
+5=Das ausgewählte RAID enthält unbekannte Parameter. Bitte verwenden Sie RAID-Konstruktor, um sie zu definieren.
+
+[AnalyseProgress]
+0=Analyse des Dateisystems...
+1=%s Dateien und Ordner gefunden
+
+[Preview]
+0=Vorschau
+1=Ansicht beenden
+2=Vorschau verbergen
+3=Ändere ersten Datei-Cluster
+
+[RecoveryList]
+0=Wiederherstellungsliste
+1=Wiederherstellen
+2=Löschen
+3=Liste leeren
+4=Menü
+5=Menü anzeigen
+6=Menü ausblenden
+7=Eigenschaften
+8=Vorschau
+9=Ansicht
+10=Darstellung: %s
+11=Große Symbole
+12=Normale Symbole
+13=Verzeichnis
+14=Tabelle
+15=Kacheln
+16=Sortieren nach
+17=Sortierrichtung: %s
+18=Name
+19=Typ
+20=Größe
+21=Aufsteigend
+22=Absteigend
+
+[FindFile]
+0=Dateisuche
+1=Erweitert
+2=Erweitert
+3=Teil des Dateinamens oder Dateiname:
+4=Groß-/Kleinschreibung beachten
+5=Ganzes Wort
+6=In versteckten Dateien suchen
+7=Systemdateien durchsuchen
+8=Über Größe suchen
+9=Klein (weniger als 100 KB)
+10=Mittel (weniger als 1 MB)
+11=Groß (über 1 MB)
+12=Benutzerdefiniert (in KB)
+13=wenigstens
+14=höchstens
+15=Über Datum suchen
+16=Erstellt
+17=Bearbeitet
+18=Letzter Zugriff
+19=Letzte Woche
+20=Letzter Monat
+21=Letztes Jahr
+22=Benutzerdefiniert
+23=von
+24=bis
+25=Suche in "%s"
+
+[DiskManager]
+0=Laufwerk %s
+1=Gemountetes Laufwerk %d
+2=Nicht zugeordnet
+
+[ProgramSettings]
+0=Programmeinstellungen
+1=Allgemein
+2=Beim Schließen nicht warnen
+3=Alternative Daten wiederherstellen (NTFS)
+4=Fügen Sie dem Windows Explorer-Kontextmenü die Option "Gelöschte Dateien wiederherstellen" hinzu
+5=Assistent
+6=Assistenten bei Programmstart anzeigen
+7=Wiederherstellungsmethode merken
+8=Bei erfolgreicher Fertigstellung automatisch schließen
+9=Vorschau
+10=HEX in der Vorschau anzeigen
+
+[WhereFiles]
+0=Wo sind meine Dateien?
+1=In Zukunft nicht mehr anzeigen
+2=%d. Schritt. %s
+3=Durchsuchen Sie Ihre Ordner
+4=Suchfenster
+5=Öffnen Sie zuerst den Ordner, in dem die Dateien vor dem Löschen gespeichert waren. Das können Sie wie im gewöhnlichen Windows Explorer tun.
+6=Wenn Sie keinen Erfolg haben, prüfen Sie den Ordner "%s". Die Ordner sind hier unbenannt, die Dateinamen sind jedoch erhalten geblieben.
+7=Wenn Sie bei der Analyse des Laufwerks "%s" gewählt haben, wiederholen Sie den Vorgang mit der vollständigen Analyse (um alle möglichen Informationen auf dem Laufwerk zu finden).
+8=Hier befinden sich die Dateien, die bei der Tiefenanalyse gefunden wurden. Der Algorithmus verliert die Dateinamen, stellt jedoch alle Daten wieder her.
+9=Sie finden die Dateien mit dem Werkzeug Suchen. Geben Sie einen Dateinamen, die Größe, das Erstellungsdatum oder alle Ihnen bekannten Parameter ein, um die Datei zu finden.
+10=Öffnen Sie "%s".
+11=Öffnen Sie das Suchfenster.
+
+{Master Analyse Units}
+
+[Master]
+0=Dateiwiederherstellungsassistent
+
+[MasterWelcome]
+0=Willkommen beim Assistenten zur Dateiwiederherstellung
+1=Klicken Sie auf "%s", um fortzufahren
+2=Der Assistent hilft Ihnen dabei, beliebige gelöschte Dateien wiederherzustellen, einschließlich Dokumenten, Fotos, Musik im mp3-Format und ZIP-Archiven. Sie können Informationen von formatierten oder durch eine Virusattacke beschädigten Laufwerken wiederherstellen. Der Assistent erlaubt es Ihnen, Daten von gelöschten Laufwerken oder Dateien, die mit oder ohne Benutzung des Papierkorbs gelöscht wurden, wiederherzustellen.
+3=Der Assistent hilft Ihnen, beliebige Daten von beschädigten, gelöschten, formatierten oder wiederholt unterteilten Partitionen zu retten. Während der Analyse extrahiert das Programm sämtliche restliche Informationen und stellt die logische Struktur des Laufwerks wieder her. Auf diese Weise können alle gelöschten Dateien und Verzeichnisse gefunden werden.
+4=Das Wiederherstellen gelingt problemlos und kann von jedem Benutzer – ob Anfänger oder Profi – durchgeführt werden. Befolgen Sie einfach die Anweisungen des Assistenten.
+5=Assistenten bei Programmstart anzeigen
+
+[MasterAnalyseFinish]
+0=Analyse abgeschlossen
+1=Klicken Sie auf "%s", um den Assistenten zu beenden, oder auf "%s", um ein anderes Laufwerk zu wählen
+2=Klicken Sie auf "%s", um den Assistenten zu beenden
+3=Analysevorgang abgeschlossen!
+4=Gefundene Datenträger: %s
+5=Gefundene Verzeichnisse: %s
+6=Gefundene Dateien: %s
+
+[MasterResult]
+0=Ergebnisse der Laufwerkanalyse
+1=Wählen Sie die zu wiederherstellenden Dateien
+2=Name
+3=Typ
+4=Größe
+5=Status
+6=Bearbeitet
+7=Erstellt
+8=Sortieren nach
+9=Sortierrichtung: %s
+10=Aufsteigend
+11=Absteigend
+12=Eigenschaften
+13=Analyse von %s (Anzahl gefundener Dateien: %s)
+14=Ausgewählte Dateien: %s von %s (Gesamtgröße: %s)
+15=Es wurden keine zu wiederherstellenden Dateien ausgewählt!
+
+{Raid Units}
+
+[RaidWizard]
+0=RAID-Konstruktor
+1=Bitte geben Sie alle RAID-Parameter an
+2=%s im HEX-Editor
+
+[RaidWelcome]
+0=Willkommen bei RAID-Konstruktor
+1=Klicken Sie auf "%s", um fortzufahren
+2=Assistenten bei Programmstart anzeigen
+
+[RaidAnalyseType]
+0=Konstruktortyp auswählen
+1=Wählen Sie aus, wie Sie das RAID-Array hinzufügen möchten
+2=Automatischer Modus
+3=Dieser Modus ist vollautomatisch. Geben Sie einfach die Festplatten an, aus denen das Array besteht und das Programm ermittelt automatisch deren Reihenfolge, Array-Typ und andere Parameter. Dies dauert einige Zeit (abhängig von der Anzahl der Festplatten im Array).
+4=Suche nach Hersteller
+5=Verwenden Sie diese Option, wenn Sie den Hersteller Ihres RAID-Controllers kennen. Diese Option ist ebenfalls vollautomatisch und erfordert keine Kenntnis der Struktur Ihres RAID-Arrays und funktioniert viel schneller als der erste Modus.
+6=Manueller Modus
+7=Verwenden Sie diese Option, wenn Sie wissen, welchen RAID-Typ Sie verwenden. In diesem Modus können Sie alle Parameter des RAID-Arrays manuell angeben. Das Programm hilft Ihnen auch dabei, automatisch Parameter zu ermitteln, die Sie möglicherweise nicht kennen. Diese Option funktioniert schneller als der vorherige Modus.
+8=Automatisch erkannte Arrays
+9=Das Programm stellte fest, dass einige Ihrer Festplatten zuvor Teil von RAID-Arrays waren. Wenn Sie Ihr gewünschtes Array in der folgenden Liste sehen, wählen Sie es aus und klicken Sie auf "%s", um fortzufahren.
+
+[RaidSelectDrives]
+0=Wählen Sie die Festplatten in Ihrem RAID-Array aus
+1=Geben Sie die Festplatten an, die Teil des RAID waren
+2=Anzahl der Festplatten an (einschließlich verlorener Festplatten):
+3=Geben Sie die RAID-Festplatten an:
+4=Sie haben mehr als %s Festplatten ausgewählt. Bitte ändern Sie die Anzahl der Festplatten.
+
+[RaidVendor]
+0=Geben Sie den RAID-Hersteller an
+1=Geben Sie den Hersteller des Controllers an, auf dem das RAID-Array erstellt wurde
+
+[RaidManual]
+0=Geben Sie die Array-Parameter an
+1=Geben Sie den RAID-Typ, seine Festplatten und alle anderen Parameter an
+2=Ausgewählte Festplatten
+3=Verfügbare Festplatten
+4=Fügen Sie hier RAID-Festplatten hinzu.
+5=Angegebene Festplattenreihenfolge verwenden
+6=Automatisch Festplattenreihenfolge erkennen
+7=Leere Festplatte hinzufügen
+8=Festplatte entfernen
+9=Das resultierende RAID-Array:
+10=Automatisch aktualisieren
+11=Aktualisieren
+
+[RaidProgress]
+0=Suche nach möglichen Konfigurationen...
+1=Bitte warten Sie, bis der RAID-Suchvorgang abgeschlossen ist
+2=Sie können den aktuellen Vorgang stoppen, wenn Sie das gewünschte RAID in der folgenden Liste sehen
+3=Anzahl der gefundenen Konfigurationen: %s
+4=Gefundene Konfigurationen:
+5=RAID-Partitionen:
+6=RAID-Eigenschaften:
+7=Unbeschädigte auswählen
+8=Konfiguration %d
+9=Alle Konfigurationen
+
+[RaidResult]
+0=Wählen Sie RAID-Konfigurationen
+1=Bitte wählen Sie die gewünschten Konfigurationen aus und klicken Sie auf "%s"
+2=RAID-Arrays können nicht automatisch erkannt werden.
+3=Bitte verwenden Sie den manuellen Modus.
+4=Möchten Sie den Assistenten wirklich schließen, ohne RAID-Arrays hinzuzufügen?
